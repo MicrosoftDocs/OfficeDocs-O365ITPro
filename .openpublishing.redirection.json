@@ -3950,8 +3950,8 @@
       "source_path": "Office365-Admin/support/uzbekistan.md",
       "redirect_url": "/microsoft-365/admin/support/uzbekistan"
     },
-    {false
-      "redirect_document_id": true,
+    {
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/vanuatu.md",
       "redirect_url": "/microsoft-365/admin/support/vanuatu"
     },
