@@ -1441,7 +1441,7 @@
       "redirect_url": "/microsoft-365/admin/manage/change-contact-preferences"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/customize-the-app-launcher.md",
       "redirect_url": "/microsoft-365/admin/manage/customize-the-app-launcher"
     },
