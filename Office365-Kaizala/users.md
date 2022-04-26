@@ -147,7 +147,7 @@ To find a detailed view of a user's profile:
 
 There are three different user roles in Kaizala. Here are the available roles and what people assigned to them can do.
   
-|||
+| users.md | users.md |
 |:-----|:-----|
 |**Role** <br/> |**What they do in Office 365** <br/> |
 |**Kaizala organization administrator** <br/> |Kaizala organization admin is a user who can manage Kaizala for your organization. The built-in Office 365 role,  *global admin* is an equivalent of the Kaizala organization admin. Office 365 global admins will have access and ability to manage all organization groups, even those they aren't direct members or admins of.  <br/> |

@@ -2,7 +2,7 @@
 title: "Audit Yammer users in networks connected to Office 365"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
+ms.author: v-njeremy
 author: TeresaFG-writer
 manager: pamgreen
 ms.date: 9/23/2019
@@ -109,11 +109,11 @@ Param(
   UserMatchToAzureAD.ps1 -InputFile .\Users.csv -OutputFile .\Results.csv
   
   ```
-
-    For more information on how to run the script, look at the PS1 file above.
+                                                                          
+   For more information on how to run the script, look at the PS1 file above.
     
 ## Analyze the results and take action
-
+                                                
 1. Open the result CSV file, and filter out all the rows that show the exists_in_azure_ad column as FALSE.
     
     Each of them are accounts that exist in Yammer, but not in Office 365 / Azure AD. For each of them, decide if you need to:

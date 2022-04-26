@@ -2,7 +2,7 @@
 title: "Files in Native Mode"
 f1.keywords:
 - NOCSH
-ms.author: v-hareynolds
+ms.author: v-njeremy
 author: v-hareynolds
 manager: gregarroyo
 ms.date: 09/21/2020

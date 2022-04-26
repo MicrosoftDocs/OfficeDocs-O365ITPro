@@ -34,7 +34,7 @@ Organization admins can add new attributes and define settings that each attribu
     
 For a new attribute, you can enter the name of the attribute, select its type (string, number, Yes/No, and date/time), and determine whether the values for the attribute are required or not. For each attribute, the following property needs to be set:
  
- | | | Default value | Behavior|
+ |&nbsp; |&nbsp; | Default value | Behavior|
  |:--:  |:------------:|:------:|:-------:|
     | Allow users to edit values for themselves | ON | If set ON, users themselves and tenant admins can edit values for the attributes. <br>If set OFF, only tenant admins can edit values. |
     | Show this column to all users | ON | If set ON, this particular column is visible to all users. <br>If set OFF, only tenant admins can see this column. ||

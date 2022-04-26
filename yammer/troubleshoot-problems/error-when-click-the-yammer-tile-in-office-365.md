@@ -8,7 +8,7 @@ ms.service: sharepoint-online
 ms.topic: article
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
+ms.author: v-njeremy
 ---
 
 # "Sorry, but we're having trouble signing you in" error when you click the Yammer tile in Office 365
