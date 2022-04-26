@@ -3,7 +3,7 @@ title: "Access Microsoft Planner Roster"
 f1.keywords:
 - NOCSH
 ms.author: v-cichur
-author: cichur
+author: ryany
 manager: ryany
 ms.reviewer: ryany
 audience: Admin

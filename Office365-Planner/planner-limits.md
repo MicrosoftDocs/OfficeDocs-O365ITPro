@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Planner limits"
 description: Learn about limits that apply to Microsoft Planner.
-ms.author: alekyaj
+ms.author: Anavs
 author: alekyaj
 manager: Anavs, ArshishK
 ms.date: 08/25/2021
