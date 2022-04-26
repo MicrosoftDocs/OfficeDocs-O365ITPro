@@ -8,7 +8,7 @@ ms.service: sharepoint-online
 ms.topic: article
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
+ms.author: v-njeremy
 ---
 
 # A Yammer user is displayed as "Former member" when you use Office 365 sign in

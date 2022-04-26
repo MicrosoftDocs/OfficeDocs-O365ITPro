@@ -2,7 +2,7 @@
 title: "Manage GDPR data subject requests in Yammer Basic"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
+ms.author: v-njeremy
 author: TeresaFG-writer
 manager: pamgreen
 ms.date: 02/28/2020

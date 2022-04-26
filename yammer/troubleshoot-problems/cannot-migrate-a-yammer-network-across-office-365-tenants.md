@@ -8,7 +8,7 @@ ms.service: sharepoint-online
 ms.topic: article
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
+ms.author: v-njeremy
 ---
 
 # Cannot migrate a Yammer network across Office 365 tenants
