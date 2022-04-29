@@ -2,7 +2,7 @@
 title: "Yammer and Microsoft 365 Groups"
 f1.keywords:
 - NOCSH
-ms.author: v-darcyjayne
+ms.author: v-njeremy
 author: DJayneMSFT
 manager: pamgreen
 ms.date: 12/11/2019

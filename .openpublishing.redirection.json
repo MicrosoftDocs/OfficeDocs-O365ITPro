@@ -2,13 +2,13 @@
   "redirections": [
     {
       "source_path": "Office365-Admin/subscriptions-and-billing/understand-your-invoice.md",
-      "redirect_url": "/microsoft-365/commerce/billing-and-payments/understand-your-invoice2",
+      "redirect_url": "microsoft-365-docs-pr/microsoft-365/commerce/billing-and-payments/understand-your-invoice2.md",
       "redirect_document_id": false
     },
     {
       "source_path": "Office365-Admin/misc/license-restrictions.md",
       "redirect_url": "/microsoft-365/commerce/subscriptions-and-billing",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Office365-Kaizala/kaizala/reports.md",
@@ -23,7 +23,7 @@
     {
       "source_path": "Office365-Admin/grow-your-small-business/grow-your-small-business.md",
       "redirect_url": "https://support.office.com/article/6ab4bbcd-79cf-4000-a0bd-d42ce4d12816",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Office365-Admin/grow-your-small-business/tips-to-help-boost-your-business.md",
@@ -37,8 +37,8 @@
     },
     {
       "source_path": "yammer/manage-security-and-compliance/data-residency-eu-geo.md",
-      "redirect_url": "/en-us/yammer/manage-security-and-compliance/data-residency",
-      "redirect_document_id": true
+      "redirect_url": "/yammer/manage-security-and-compliance/data-residency",
+      "redirect_document_id": false
     },
     {
       "source_path": "Office365/Admin/admin-overview/get-started-with-office-365.md",
@@ -53,12 +53,12 @@
     {
       "source_path": "yammer/integrate-yammer-with-other-apps/knowledge-base-community-flow-qna-maker.md",
       "redirect_url": "https://techcommunity.microsoft.com/t5/Yammer-Resources/Create-a-knowledge-based-community-in-Yammer-by-using-QnA-Maker/ta-p/393467",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "yammer/integrate-yammer-with-other-apps/sentiment-analysis-flow-azure.md",
-      "redirect_url": "https://techcommunity.microsoft.com/t5/Yammer-Resources/Identify-sentiment-of-comments-in-a-Yammer-group-by-using-Azure/ta-p/393398",
-      "redirect_document_id": true
+      "redirect_url": "https://techcommunity.microsoft.com/t5/Yammer-Resources/Identify-sentiment-of-comments-in-a-yammer-group-by-using-Azure/ta-p/393398",
+      "redirect_document_id": false
     },
     {
       "source_path": "yammer/work-with-external-users/control-external-messaging-with-exchange.md",
@@ -68,22 +68,22 @@
     {
       "source_path": "yammer/troubleshoot-problems/converting-yammer-notes-into-word-online.md",
       "redirect_url": "/yammer",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "yammer/troubleshoot-problems/phasing-out-temporary-mobile-passwords.md",
       "redirect_url": "/yammer",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Office365-Admin/manage/customer-lockbox-requests.md",
       "redirect_url": "/microsoft-365/compliance/customer-lockbox-requests",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Office365-Admin/dns/change-nameservers-at-123-reg-co-uk.md",
       "redirect_url": "/microsoft-365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Office365-Admin/services-in-china/change-nameservers-at-22-cn.md",
@@ -413,7 +413,7 @@
     {
       "source_path": "Office365-Admin/misc/changes-to-sharepoint-com-dns-service.md",
       "redirect_url": "/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Office365-Admin/misc/configure-domains-for-mobile-device-management.md",
@@ -668,7 +668,7 @@
     {
       "source_path": "Office365-Admin/misc/early-termination-fees.md",
       "redirect_url": "/microsoft-365/commerce/subscriptions/cancel-your-subscription",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Office365-Admin/dns/create-dns-records-for-domain-managed-by-google-go-daddy.md",
@@ -688,7 +688,7 @@
     {
       "source_path": "Office365-Admin/misc/Add-domain-alchemy.md",
       "redirect_url": "/microsoft-365/admin/admin-home",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Office365-Admin/services-in-china/initial-partner-onmschina-cn-domain.md",
@@ -703,17 +703,17 @@
     {
       "source_path": "Office365-Admin/subscriptions-and-billing/assign-licenses-to-users.md",
       "redirect_url": "/microsoft-365/admin/add-users/add-users",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Office365-Admin/subscriptions-and-billing/remove-licenses-from-users.md",
       "redirect_url": "/microsoft-365/admin/add-users/delete-a-user",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Office365-Admin/subscriptions-and-billing/resolve-license-conflicts.md",
       "redirect_url": "/microsoft-365/admin/manage/resolve-license-conflicts",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "redirect_document_id": false,
@@ -721,17 +721,17 @@
       "redirect_url": "/microsoft-365/admin/admin-home"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/contact-support-for-business-products.md",
       "redirect_url": "/microsoft-365/admin/contact-support-for-business-products"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/index.md",
       "redirect_url": "/microsoft-365/admin/index"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/microsoft-365-admin-center-preview.md",
       "redirect_url": "/microsoft-365/admin/microsoft-365-admin-center-preview"
     },
@@ -741,9 +741,9 @@
       "redirect_url": "/microsoft-365/admin/whats-new-in-preview"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/try-or-buy-microsoft-365.md",
-      "redirect_url": "/microsoft-365/commerce/try-or-buy-microsoft-365"
+      "redirect_url": "microsoft-365-docs-pr/microsoft-365/commerce/try-or-buy-microsoft-365.md"
     },
     {
       "redirect_document_id": false,
@@ -751,102 +751,102 @@
       "redirect_url": "/microsoft-365/admin/whats-new-in-preview"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/active-users.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/active-users"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/activity-reports.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/activity-reports"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/email-activity.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/email-activity"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/email-apps-usage.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/email-apps-usage"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/index.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/index"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/mailbox-usage.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/mailbox-usage"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/microsoft-office-activations.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/microsoft-office-activations"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/microsoft-teams-device-usage.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/microsoft-teams-device-usage"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/microsoft-teams-user-activity.md",
-      "redirect_url": "/microsoft-365/admin/activity-reports/microsoft-teams-user-activity"
+      "redirect_url": "/microsoft-365-docs-pr/microsoft-365/admin/activity-reports/microsoft-teams-user-activity.md"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/office-365-groups.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/office-365-groups"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/onedrive-for-business-activity.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/onedrive-for-business-activity"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/onedrive-for-business-usage.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/onedrive-for-business-usage"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/sharepoint-activity.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/sharepoint-activity"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/sharepoint-site-usage.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/sharepoint-site-usage"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/yammer-activity-report.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/yammer-activity-report"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/yammer-device-usage-report.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/yammer-device-usage-report"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/activity-reports/yammer-groups-activity-report.md",
       "redirect_url": "/microsoft-365/admin/activity-reports/yammer-groups-activity-report"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/about-admin-roles.md",
       "redirect_url": "/microsoft-365/admin/add-users/about-admin-roles"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/about-exchange-online-admin-role.md",
       "redirect_url": "/microsoft-365/admin/add-users/about-exchange-online-admin-role"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/add-new-employee.md",
       "redirect_url": "/microsoft-365/admin/add-users/add-new-employee"
     },
@@ -856,27 +856,27 @@
       "redirect_url": "/microsoft-365/admin/add-users/add-users"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/admin-roles-page.md",
       "redirect_url": "/microsoft-365/admin/add-users/admin-roles-page"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/assign-admin-roles.md",
       "redirect_url": "/microsoft-365/admin/add-users/assign-admin-roles"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/change-a-user-name-and-email-address.md",
       "redirect_url": "/microsoft-365/admin/add-users/change-a-user-name-and-email-address"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/create-and-use-a-template-to-add-users.md",
       "redirect_url": "/microsoft-365/admin/add-users/create-and-use-a-template-to-add-users"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/create-edit-or-delete-a-custom-user-view.md",
       "redirect_url": "/microsoft-365/admin/add-users/create-edit-or-delete-a-custom-user-view"
     },
@@ -886,462 +886,462 @@
       "redirect_url": "/microsoft-365/admin/add-users/delete-a-user"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/get-access-to-and-back-up-a-former-user-s-data.md",
       "redirect_url": "/microsoft-365/admin/add-users/get-access-to-and-back-up-a-former-user-s-data"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/give-mailbox-permissions-to-another-user.md",
       "redirect_url": "/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/index.md",
       "redirect_url": "/microsoft-365/admin/add-users/index"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/let-users-reset-passwords.md",
       "redirect_url": "/microsoft-365/admin/add-users/let-users-reset-passwords"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/remove-former-employee.md",
       "redirect_url": "/microsoft-365/admin/add-users/remove-former-employee"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/resend-user-password.md",
       "redirect_url": "/microsoft-365/admin/add-users/resend-user-password"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/reset-passwords.md",
       "redirect_url": "/microsoft-365/admin/add-users/reset-passwords"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/restore-user.md",
       "redirect_url": "/microsoft-365/admin/add-users/restore-user"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/add-users/set-password-to-never-expire.md",
       "redirect_url": "/microsoft-365/admin/add-users/set-password-to-never-expire"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/admin-overview/about-the-admin-center.md",
       "redirect_url": "/microsoft-365/admin/admin-overview/about-the-admin-center"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/admin-overview/admin-mobile-app.md",
       "redirect_url": "/microsoft-365/admin/admin-overview/admin-mobile-app"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/admin-overview/admin-overview.md",
       "redirect_url": "/microsoft-365/admin/admin-overview/admin-overview"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/admin-overview/get-started-with-office-365.md",
       "redirect_url": "/microsoft-365/admin/admin-overview/get-started-with-office-365"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/admin-overview/index.md",
       "redirect_url": "/microsoft-365/admin/admin-overview/index"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/admin-overview/learn-about-office-365-germany.md",
       "redirect_url": "/microsoft-365/admin/admin-overview/learn-about-office-365-germany"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/admin-overview/sign-up-for-office-365.md",
       "redirect_url": "/microsoft-365/admin/admin-overview/sign-up-for-office-365"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/admin-overview/what-is-help.md",
       "redirect_url": "/microsoft-365/admin/admin-overview/what-is-help"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/admin-overview/what-subscription-do-i-have.md",
       "redirect_url": "/microsoft-365/admin/admin-overview/what-subscription-do-i-have"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/create-groups/add-or-remove-members-from-groups.md",
       "redirect_url": "/microsoft-365/admin/create-groups/add-or-remove-members-from-groups"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/create-groups/allow-members-to-send-as-or-send-on-behalf-of-group.md",
       "redirect_url": "/microsoft-365/admin/create-groups/allow-members-to-send-as-or-send-on-behalf-of-group"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/create-groups/choose-domain-to-create-groups.md",
       "redirect_url": "/microsoft-365/admin/create-groups/choose-domain-to-create-groups"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/create-groups/compare-groups.md",
       "redirect_url": "/microsoft-365/admin/create-groups/compare-groups"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/create-groups/create-groups.md",
       "redirect_url": "/microsoft-365/admin/create-groups/create-groups"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/create-groups/groups-naming-policy.md",
       "redirect_url": "/microsoft-365/admin/create-groups/groups-naming-policy"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/create-groups/index.md",
       "redirect_url": "/microsoft-365/admin/create-groups/index"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/create-groups/manage-creation-of-groups.md",
       "redirect_url": "/microsoft-365/admin/create-groups/manage-creation-of-groups"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/create-groups/manage-groups.md",
       "redirect_url": "/microsoft-365/admin/create-groups/manage-groups"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/create-groups/manage-guest-access-in-groups.md",
       "redirect_url": "/microsoft-365/admin/create-groups/manage-guest-access-in-groups"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/create-groups/office-365-groups-expiration-policy.md",
       "redirect_url": "/microsoft-365/admin/create-groups/office-365-groups-expiration-policy"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/create-groups/office-365-groups.md",
       "redirect_url": "/microsoft-365/admin/create-groups/office-365-groups"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/create-groups/Plan-for-groups-governance.md",
       "redirect_url": "/microsoft-365/admin/create-groups/Plan-for-groups-governance"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/create-groups/restore-deleted-group.md",
       "redirect_url": "/microsoft-365/admin/create-groups/restore-deleted-group"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/add-or-edit-custom-dns-records.md",
       "redirect_url": "/microsoft-365/admin/dns/add-or-edit-custom-dns-records"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/change-nameservers-at-1-1-internet.md",
       "redirect_url": "/microsoft-365/admin/dns/change-nameservers-at-1-1-internet"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/change-nameservers-at-aws.md",
       "redirect_url": "/microsoft-365/admin/dns/change-nameservers-at-aws"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/change-nameservers-at-bluehost.md",
       "redirect_url": "/microsoft-365/admin/dns/change-nameservers-at-bluehost"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/change-nameservers-at-google-domains.md",
       "redirect_url": "/microsoft-365/admin/dns/change-nameservers-at-google-domains"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/change-nameservers-at-hostgator.md",
       "redirect_url": "/microsoft-365/admin/dns/change-nameservers-at-hostgator"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/change-nameservers-at-mydomain.md",
       "redirect_url": "/microsoft-365/admin/dns/change-nameservers-at-mydomain"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/change-nameservers-at-namecheap.md",
       "redirect_url": "/microsoft-365/admin/dns/change-nameservers-at-namecheap"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/change-nameservers-at-network-solutions.md",
       "redirect_url": "/microsoft-365/admin/dns/change-nameservers-at-network-solutions"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-1-1-internet.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-1-1-internet"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-123-reg-co-uk.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-123-reg-co-uk"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-aws.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-aws"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-bluehost.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-bluehost"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-cloudflare.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-cloudflare"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-crazy-domains.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-crazy-domains"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-dnsmadeeasy.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-dnsmadeeasy"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-dreamhost.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-dreamhost"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-dyn-com.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-dyn-com"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-enomcentral.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-enomcentral"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-freenom.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-freenom"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-godaddy.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-godaddy"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-google-domains.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-google-domains"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-hostgator.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-hostgator"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-hover.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-hover"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-mydomain.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-mydomain"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-name-com.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-name-com"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-namecheap.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-namecheap"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-names-co-uk.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-names-co-uk"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-netregistry.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-netregistry"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-network-solutions.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-network-solutions"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-ovh.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-ovh"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-register-com.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-register-com"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-register365.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-register365"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-wix.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-wix"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-at-yahoo-small-business.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-at-yahoo-small-business"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-for-azure-dns-zones.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-for-azure-dns-zones"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-for-domain-managed-by-google-enom.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-for-domain-managed-by-google-enom"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/create-dns-records-using-windows-based-dns.md",
       "redirect_url": "/microsoft-365/admin/dns/create-dns-records-using-windows-based-dns"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/index.md",
       "redirect_url": "/microsoft-365/admin/dns/index"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/set-up-DNS-records-at-easyDNS.md",
       "redirect_url": "/microsoft-365/admin/dns/set-up-DNS-records-at-easyDNS"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/dns/update-dns-records-to-retain-current-hosting-provider.md",
       "redirect_url": "/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/about-shared-mailboxes.md",
       "redirect_url": "/microsoft-365/admin/email/about-shared-mailboxes"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/access-email-from-a-mobile-device.md",
       "redirect_url": "/microsoft-365/admin/email/access-email-from-a-mobile-device"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/add-another-email-alias-for-a-user.md",
       "redirect_url": "/microsoft-365/admin/email/add-another-email-alias-for-a-user"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/add-user-or-contact-to-distribution-list.md",
       "redirect_url": "/microsoft-365/admin/email/add-user-or-contact-to-distribution-list"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/change-email-address.md",
       "redirect_url": "/microsoft-365/admin/email/change-email-address"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/configure-a-shared-mailbox.md",
       "redirect_url": "/microsoft-365/admin/email/configure-a-shared-mailbox"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/configure-clutter.md",
       "redirect_url": "/microsoft-365/admin/email/configure-clutter"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/configure-email-forwarding.md",
       "redirect_url": "/microsoft-365/admin/email/configure-email-forwarding"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/convert-user-mailbox-to-shared-mailbox.md",
       "redirect_url": "/microsoft-365/admin/email/convert-user-mailbox-to-shared-mailbox"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/create-a-shared-mailbox.md",
       "redirect_url": "/microsoft-365/admin/email/create-a-shared-mailbox"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/create-edit-or-delete-a-security-group.md",
       "redirect_url": "/microsoft-365/admin/email/create-edit-or-delete-a-security-group"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/email-collaboration.md",
       "redirect_url": "/microsoft-365/admin/email/email-collaboration"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/email.md",
       "redirect_url": "/microsoft-365/admin/email/email"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/index.md",
       "redirect_url": "/microsoft-365/admin/email/index"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/manage-email-app-access.md",
       "redirect_url": "/microsoft-365/admin/email/manage-email-app-access"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/office-365-user-email-settings.md",
       "redirect_url": "/microsoft-365/admin/email/office-365-user-email-settings"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/remove-license-from-shared-mailbox.md",
       "redirect_url": "/microsoft-365/admin/email/remove-license-from-shared-mailbox"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/email/resolve-issues-with-shared-mailboxes.md",
       "redirect_url": "/microsoft-365/admin/email/resolve-issues-with-shared-mailboxes"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/get-help-with-domains/buy-a-domain-name.md",
       "redirect_url": "/microsoft-365/admin/get-help-with-domains/buy-a-domain-name"
     },
@@ -1356,57 +1356,57 @@
       "redirect_url": "/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/get-help-with-domains/dns-basics.md",
       "redirect_url": "/microsoft-365/admin/get-help-with-domains/dns-basics"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/get-help-with-domains/domain-connect.md",
       "redirect_url": "/microsoft-365/admin/get-help-with-domains/domain-connect"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/get-help-with-domains/find-and-fix-issues.md",
       "redirect_url": "/microsoft-365/admin/get-help-with-domains/find-and-fix-issues"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/get-help-with-domains/find-your-domain-registrar.md",
       "redirect_url": "/microsoft-365/admin/get-help-with-domains/find-your-domain-registrar"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/get-help-with-domains/get-help-with-domains.md",
       "redirect_url": "/microsoft-365/admin/get-help-with-domains/get-help-with-domains"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/get-help-with-domains/index.md",
       "redirect_url": "/microsoft-365/admin/get-help-with-domains/index"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/get-help-with-domains/information-for-dns-records.md",
       "redirect_url": "/microsoft-365/admin/get-help-with-domains/information-for-dns-records"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/get-help-with-domains/remove-a-domain.md",
       "redirect_url": "/microsoft-365/admin/get-help-with-domains/remove-a-domain"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/get-help-with-domains/set-up-your-domain-host-specific-instructions.md",
       "redirect_url": "/microsoft-365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/get-help-with-domains/transfer-data-manually.md",
       "redirect_url": "/microsoft-365/admin/get-help-with-domains/transfer-data-manually"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/get-help-with-domains/what-is-a-domain.md",
       "redirect_url": "/microsoft-365/admin/get-help-with-domains/what-is-a-domain"
     },
@@ -1421,72 +1421,72 @@
       "redirect_url": "/microsoft-365/admin/includes/office365-admin-content-updates"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/assign-licenses-to-users.md",
       "redirect_url": "/microsoft-365/admin/manage/assign-licenses-to-users"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/centralized-deployment-of-add-ins.md",
       "redirect_url": "/microsoft-365/admin/manage/centralized-deployment-of-add-ins"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/change-address-contact-and-more.md",
       "redirect_url": "/microsoft-365/admin/manage/change-address-contact-and-more"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/change-contact-preferences.md",
       "redirect_url": "/microsoft-365/admin/manage/change-contact-preferences"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/customize-the-app-launcher.md",
       "redirect_url": "/microsoft-365/admin/manage/customize-the-app-launcher"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/find-your-partner-or-reseller.md",
       "redirect_url": "/microsoft-365/admin/manage/find-your-partner-or-reseller"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/index.md",
       "redirect_url": "/microsoft-365/admin/manage/index"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/language-translation-for-message-center-posts.md",
       "redirect_url": "/microsoft-365/admin/manage/language-translation-for-message-center-posts"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/manage-deployment-of-add-ins.md",
       "redirect_url": "/microsoft-365/admin/manage/manage-deployment-of-add-ins"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/manage-messages.md",
       "redirect_url": "/microsoft-365/admin/manage/manage-messages"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/manage.md",
       "redirect_url": "/microsoft-365/admin/manage/manage"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/message-center.md",
       "redirect_url": "/microsoft-365/admin/manage/message-center"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/release-options-in-office-365.md",
       "redirect_url": "/microsoft-365/admin/manage/release-options-in-office-365"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/remove-licenses-from-users.md",
       "redirect_url": "/microsoft-365/admin/manage/remove-licenses-from-users"
     },
@@ -1496,447 +1496,447 @@
       "redirect_url": "/microsoft-365/admin/manage/resolve-license-conflicts"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/room-and-equipment-mailboxes.md",
       "redirect_url": "/microsoft-365/admin/manage/room-and-equipment-mailboxes"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/send-email-as-distribution-list.md",
       "redirect_url": "/microsoft-365/admin/manage/send-email-as-distribution-list"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/set-password-expiration-policy.md",
       "redirect_url": "/microsoft-365/admin/manage/set-password-expiration-policy"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/share-calendars-with-external-users.md",
       "redirect_url": "/microsoft-365/admin/manage/share-calendars-with-external-users"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/share-sites-with-external-users.md",
       "redirect_url": "/microsoft-365/admin/manage/share-sites-with-external-users"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/stay-on-top-of-updates.md",
       "redirect_url": "/microsoft-365/admin/manage/stay-on-top-of-updates"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/update-phone-number-and-email-address.md",
       "redirect_url": "/microsoft-365/admin/manage/update-phone-number-and-email-address"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/manage/upgrade-distribution-lists.md",
       "redirect_url": "/microsoft-365/admin/manage/upgrade-distribution-lists"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/enter-your-product-key.md",
       "redirect_url": "/microsoft-365/commerce/enter-your-product-key"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/product-key-errors-and-solutions.md",
       "redirect_url": "/microsoft-365/commerce/product-key-errors-and-solutions"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/add-partner.md",
       "redirect_url": "/microsoft-365/admin/misc/add-partner"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/become-admin-and-make-purchases.md",
       "redirect_url": "/microsoft-365/admin/misc/become-admin-and-make-purchases"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/become-the-admin.md",
       "redirect_url": "/microsoft-365/admin/misc/become-the-admin"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/purchases-from-microsoft-open.md",
       "redirect_url": "/microsoft-365/commerce/purchases-from-microsoft-open"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/compare-ways-to-block-access.md",
       "redirect_url": "/microsoft-365/admin/misc/compare-ways-to-block-access"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/contacts.md",
       "redirect_url": "/microsoft-365/admin/misc/contacts"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/cortana-integration.md",
       "redirect_url": "/microsoft-365/admin/misc/cortana-integration"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/customize-help-desk.md",
       "redirect_url": "/microsoft-365/admin/misc/customize-help-desk"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/deleted-user.md",
       "redirect_url": "/microsoft-365/admin/misc/deleted-user"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/deleted-users-checklist.md",
       "redirect_url": "/microsoft-365/admin/misc/deleted-users-checklist"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/device-list.md",
       "redirect_url": "/microsoft-365/admin/misc/device-list"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/use-a-promo-code.md",
       "redirect_url": "/microsoft-365/commerce/use-a-promo-code"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/icann-verification-of-contact-information.md",
       "redirect_url": "/microsoft-365/admin/misc/icann-verification-of-contact-information"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/index.md",
       "redirect_url": "/microsoft-365/admin/misc/index"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/integrated-apps.md",
       "redirect_url": "/microsoft-365/admin/misc/integrated-apps"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/move-email-and-data-to-office-365-business-premium.md",
       "redirect_url": "/microsoft-365/admin/misc/move-email-and-data-to-office-365-business-premium"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/password-policy-recommendations.md",
       "redirect_url": "/microsoft-365/admin/misc/password-policy-recommendations"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/power-bi-in-your-organization.md",
       "redirect_url": "/microsoft-365/admin/misc/power-bi-in-your-organization"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/self-service-sign-up.md",
       "redirect_url": "/microsoft-365/admin/misc/self-service-sign-up"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/set-up-outlook-to-read-email.md",
       "redirect_url": "/microsoft-365/admin/misc/set-up-outlook-to-read-email"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/sign-up-for-online-services.md",
       "redirect_url": "/microsoft-365/admin/misc/sign-up-for-online-services"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/sign-up-with-a-personal-email-address.md",
       "redirect_url": "/microsoft-365/admin/misc/sign-up-with-a-personal-email-address"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/solution-provider-partners-in-russia.md",
       "redirect_url": "/microsoft-365/admin/misc/solution-provider-partners-in-russia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/types-of-users.md",
       "redirect_url": "/microsoft-365/admin/misc/types-of-users"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/ways-to-manage-contacts.md",
       "redirect_url": "/microsoft-365/admin/misc/ways-to-manage-contacts"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/e-invoice-of-your-subscription-in-taiwan.md",
       "redirect_url": "/microsoft-365/commerce/billing-and-payments/e-invoice-of-your-subscription-in-taiwan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/top-billing-questions.md",
       "redirect_url": "/microsoft-365/commerce/billing-and-payments/top-billing-questions"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/add-licenses-bought-through-vlsc.md",
       "redirect_url": "/microsoft-365/commerce/licenses/add-licenses-bought-through-vlsc"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/add-licenses-using-product-key.md",
       "redirect_url": "/microsoft-365/commerce/licenses/add-licenses-using-product-key"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/manage-licenses-for-devices.md",
       "redirect_url": "/microsoft-365/commerce/licenses/manage-licenses-for-devices"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/change-plans-manually.md",
       "redirect_url": "/microsoft-365/commerce/subscriptions/change-plans-manually"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/switch-plans-manually.md",
       "redirect_url": "/microsoft-365/commerce/subscriptions/switch-plans-manually"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/what-happens-if-i-cancel.md",
       "redirect_url": "/microsoft-365/commerce/subscriptions/what-happens-if-i-cancel"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/why-can-t-i-switch-plans.md",
       "redirect_url": "/microsoft-365/commerce/subscriptions/why-can-t-i-switch-plans"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/misc/why-cant-i-change-plans.md",
       "redirect_url": "/microsoft-365/commerce/subscriptions/why-cant-i-change-plans"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/productivity/productivity-score.md",
       "redirect_url": "/microsoft-365/admin/productivity/productivity-score"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/security-and-compliance/enable-modern-authentication.md",
       "redirect_url": "/microsoft-365/admin/security-and-compliance/enable-modern-authentication"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/security-and-compliance/gdpr-compliance.md",
       "redirect_url": "/microsoft-365/admin/security-and-compliance/gdpr-compliance"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/security-and-compliance/index.md",
       "redirect_url": "/microsoft-365/admin/security-and-compliance/index"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/security-and-compliance/multi-factor-authentication-plan.md",
       "redirect_url": "/microsoft-365/admin/security-and-compliance/multi-factor-authentication-plan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/security-and-compliance/secure-your-business-data.md",
       "redirect_url": "/microsoft-365/admin/security-and-compliance/secure-your-business-data"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/security-and-compliance/set-up-multi-factor-authentication.md",
       "redirect_url": "/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/services-in-china/apply-for-a-fapiao.md",
       "redirect_url": "/microsoft-365/admin/services-in-china/apply-for-a-fapiao"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/services-in-china/buy-or-try-subscriptions.md",
       "redirect_url": "/microsoft-365/admin/services-in-china/buy-or-try-subscriptions"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/services-in-china/create-dns-records-when-you-manage-your-dns-records.md",
       "redirect_url": "/microsoft-365/admin/services-in-china/create-dns-records-when-you-manage-your-dns-records"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/services-in-china/index.md",
       "redirect_url": "/microsoft-365/admin/services-in-china/index"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/services-in-china/parity-between-azure-information-protection.md",
       "redirect_url": "/microsoft-365/admin/services-in-china/parity-between-azure-information-protection"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/services-in-china/purpose-of-cname.md",
       "redirect_url": "/microsoft-365/admin/services-in-china/purpose-of-cname"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/services-in-china/services-in-china.md",
       "redirect_url": "/microsoft-365/admin/services-in-china/services-in-china"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/services-in-china/view-your-bill-or-get-a-fapiao.md",
       "redirect_url": "/microsoft-365/admin/services-in-china/view-your-bill-or-get-a-fapiao"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/add-domain.md",
       "redirect_url": "/microsoft-365/admin/setup/add-domain"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/configure-focused-inbox.md",
       "redirect_url": "/microsoft-365/admin/setup/configure-focused-inbox"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/create-distribution-lists.md",
       "redirect_url": "/microsoft-365/admin/setup/create-distribution-lists"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/create-signatures-and-disclaimers.md",
       "redirect_url": "/microsoft-365/admin/setup/create-signatures-and-disclaimers"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/customize-sign-in-page.md",
       "redirect_url": "/microsoft-365/admin/setup/customize-sign-in-page"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/customize-team-site.md",
       "redirect_url": "/microsoft-365/admin/setup/customize-team-site"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/customize-your-organization-theme.md",
       "redirect_url": "/microsoft-365/admin/setup/customize-your-organization-theme"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/domains-faq.md",
       "redirect_url": "/microsoft-365/admin/setup/domains-faq"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/index.md",
       "redirect_url": "/microsoft-365/admin/setup/index"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/install-applications.md",
       "redirect_url": "/microsoft-365/admin/setup/install-applications"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/migrate-email-and-contacts-admin.md",
       "redirect_url": "/microsoft-365/admin/setup/migrate-email-and-contacts-admin"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/o365-setup-wizard-and-setup-page.md",
       "redirect_url": "/microsoft-365/admin/setup/o365-setup-wizard-and-setup-page"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/plan-your-setup.md",
       "redirect_url": "/microsoft-365/admin/setup/plan-your-setup"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/set-up-file-storage-and-sharing.md",
       "redirect_url": "/microsoft-365/admin/setup/set-up-file-storage-and-sharing"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/setup.md",
       "redirect_url": "/microsoft-365/admin/setup/setup"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/setup/upgrade-users-to-latest-office-client.md",
       "redirect_url": "/microsoft-365/admin/setup/upgrade-users-to-latest-office-client"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/add-storage-space.md",
       "redirect_url": "/microsoft-365/commerce/add-storage-space"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial.md",
       "redirect_url": "/microsoft-365/commerce/buy-a-subscription-from-your-free-trial"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/buy-another-subscription.md",
       "redirect_url": "/microsoft-365/commerce/buy-another-subscription"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/buy-or-edit-an-add-on.md",
       "redirect_url": "/microsoft-365/commerce/buy-or-edit-an-add-on"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/extend-your-trial.md",
       "redirect_url": "/microsoft-365/commerce/extend-your-trial"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/sign-up-for-office-365-trial.md",
       "redirect_url": "/microsoft-365/commerce/sign-up-for-office-365-trial"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/subscriptions-and-billing.md",
       "redirect_url": "/microsoft-365/commerce/subscriptions-and-billing"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account.md",
       "redirect_url": "/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/apply-for-tax-exempt-status.md",
       "redirect_url": "/microsoft-365/commerce/billing-and-payments/apply-for-tax-exempt-status"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/change-payment-frequency.md",
       "redirect_url": "/microsoft-365/commerce/billing-and-payments/change-payment-frequency"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/change-payment-method.md",
       "redirect_url": "/microsoft-365/commerce/billing-and-payments/change-payment-method"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/change-your-billing-addresses.md",
       "redirect_url": "/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay-for-your-subscription.md",
       "redirect_url": "/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription"
     },
@@ -1946,32 +1946,32 @@
       "redirect_url": "/microsoft-365/commerce/billing-and-payments/understand-your-invoice2"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/view-your-bill-or-invoice.md",
       "redirect_url": "/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/what-tax-will-i-be-charged.md",
       "redirect_url": "/microsoft-365/commerce/billing-and-payments/what-tax-will-i-be-charged"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/buy-licenses.md",
       "redirect_url": "/microsoft-365/commerce/licenses/buy-licenses"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/remove-licenses-from-subscription.md",
       "redirect_url": "/microsoft-365/commerce/licenses/remove-licenses-from-subscription"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/subscriptions-and-licenses.md",
       "redirect_url": "/microsoft-365/commerce/licenses/subscriptions-and-licenses"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/back-up-data-before-switching-plans.md",
       "redirect_url": "/microsoft-365/commerce/subscriptions/back-up-data-before-switching-plans"
     },
@@ -1981,2062 +1981,2062 @@
       "redirect_url": "/microsoft-365/commerce/subscriptions/cancel-your-subscription"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/reactivate-your-subscription.md",
       "redirect_url": "/microsoft-365/commerce/subscriptions/reactivate-your-subscription"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/renew-your-subscription.md",
       "redirect_url": "/microsoft-365/commerce/subscriptions/renew-your-subscription"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/switch-to-a-different-plan.md",
       "redirect_url": "/microsoft-365/commerce/subscriptions/switch-to-a-different-plan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/upgrade-to-different-plan.md",
       "redirect_url": "/microsoft-365/commerce/subscriptions/upgrade-to-different-plan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/what-does-switching-plans-do-to-my-service-and-billing.md",
       "redirect_url": "/microsoft-365/commerce/subscriptions/what-does-switching-plans-do-to-my-service-and-billing"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/what-if-my-subscription-expires.md",
       "redirect_url": "/microsoft-365/commerce/subscriptions/what-if-my-subscription-expires"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/afghanistan.md",
       "redirect_url": "/microsoft-365/commerce/pay/afghanistan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/albania.md",
       "redirect_url": "/microsoft-365/commerce/pay/albania"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/algeria.md",
       "redirect_url": "/microsoft-365/commerce/pay/algeria"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/angola.md",
       "redirect_url": "/microsoft-365/commerce/pay/angola"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/argentina.md",
       "redirect_url": "/microsoft-365/commerce/pay/argentina"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/armenia.md",
       "redirect_url": "/microsoft-365/commerce/pay/armenia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/australia.md",
       "redirect_url": "/microsoft-365/commerce/pay/australia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/austria.md",
       "redirect_url": "/microsoft-365/commerce/pay/austria"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/azerbaijan.md",
       "redirect_url": "/microsoft-365/commerce/pay/azerbaijan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/bahamas.md",
       "redirect_url": "/microsoft-365/commerce/pay/bahamas"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/bahrain.md",
       "redirect_url": "/microsoft-365/commerce/pay/bahrain"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/bangladesh.md",
       "redirect_url": "/microsoft-365/commerce/pay/bangladesh"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/barbados.md",
       "redirect_url": "/microsoft-365/commerce/pay/barbados"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/belarus.md",
       "redirect_url": "/microsoft-365/commerce/pay/belarus"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/belgium.md",
       "redirect_url": "/microsoft-365/commerce/pay/belgium"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/belize.md",
       "redirect_url": "/microsoft-365/commerce/pay/belize"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/bermuda.md",
       "redirect_url": "/microsoft-365/commerce/pay/bermuda"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/bolivia.md",
       "redirect_url": "/microsoft-365/commerce/pay/bolivia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/bosnia-and-herzegovina.md",
       "redirect_url": "/microsoft-365/commerce/pay/bosnia-and-herzegovina"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/botswana.md",
       "redirect_url": "/microsoft-365/commerce/pay/botswana"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/brazil.md",
       "redirect_url": "/microsoft-365/commerce/pay/brazil"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/brunei.md",
       "redirect_url": "/microsoft-365/commerce/pay/brunei"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/bulgaria.md",
       "redirect_url": "/microsoft-365/commerce/pay/bulgaria"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/cameroon.md",
       "redirect_url": "/microsoft-365/commerce/pay/cameroon"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/canada.md",
       "redirect_url": "/microsoft-365/commerce/pay/canada"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/cape-verde.md",
       "redirect_url": "/microsoft-365/commerce/pay/cape-verde"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/cayman-islands.md",
       "redirect_url": "/microsoft-365/commerce/pay/cayman-islands"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/chile.md",
       "redirect_url": "/microsoft-365/commerce/pay/chile"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/china-prc.md",
       "redirect_url": "/microsoft-365/commerce/pay/china-prc"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/colombia.md",
       "redirect_url": "/microsoft-365/commerce/pay/colombia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/costa-rica.md",
       "redirect_url": "/microsoft-365/commerce/pay/costa-rica"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/cote-divoire.md",
       "redirect_url": "/microsoft-365/commerce/pay/cote-divoire"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/croatia.md",
       "redirect_url": "/microsoft-365/commerce/pay/croatia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/curacao.md",
       "redirect_url": "/microsoft-365/commerce/pay/curacao"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/cyprus.md",
       "redirect_url": "/microsoft-365/commerce/pay/cyprus"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/czech-republic.md",
       "redirect_url": "/microsoft-365/commerce/pay/czech-republic"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/democratic-republic-of-congo.md",
       "redirect_url": "/microsoft-365/commerce/pay/democratic-republic-of-congo"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/denmark.md",
       "redirect_url": "/microsoft-365/commerce/pay/denmark"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/dominican-republic.md",
       "redirect_url": "/microsoft-365/commerce/pay/dominican-republic"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/ecuador.md",
       "redirect_url": "/microsoft-365/commerce/pay/ecuador"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/egypt.md",
       "redirect_url": "/microsoft-365/commerce/pay/egypt"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/el-salvador.md",
       "redirect_url": "/microsoft-365/commerce/pay/el-salvador"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/estonia.md",
       "redirect_url": "/microsoft-365/commerce/pay/estonia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/ethiopia.md",
       "redirect_url": "/microsoft-365/commerce/pay/ethiopia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/faroe-islands.md",
       "redirect_url": "/microsoft-365/commerce/pay/faroe-islands"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/fiji.md",
       "redirect_url": "/microsoft-365/commerce/pay/fiji"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/finland.md",
       "redirect_url": "/microsoft-365/commerce/pay/finland"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/france.md",
       "redirect_url": "/microsoft-365/commerce/pay/france"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/french-guiana.md",
       "redirect_url": "/microsoft-365/commerce/pay/french-guiana"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/georgia.md",
       "redirect_url": "/microsoft-365/commerce/pay/georgia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/germany.md",
       "redirect_url": "/microsoft-365/commerce/pay/germany"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/ghana.md",
       "redirect_url": "/microsoft-365/commerce/pay/ghana"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/greece.md",
       "redirect_url": "/microsoft-365/commerce/pay/greece"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/grenada.md",
       "redirect_url": "/microsoft-365/commerce/pay/grenada"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/guadeloupe.md",
       "redirect_url": "/microsoft-365/commerce/pay/guadeloupe"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/guam.md",
       "redirect_url": "/microsoft-365/commerce/pay/guam"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/guatemala.md",
       "redirect_url": "/microsoft-365/commerce/pay/guatemala"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/guyana.md",
       "redirect_url": "/microsoft-365/commerce/pay/guyana"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/haiti.md",
       "redirect_url": "/microsoft-365/commerce/pay/haiti"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/honduras.md",
       "redirect_url": "/microsoft-365/commerce/pay/honduras"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/hong-kong.md",
       "redirect_url": "/microsoft-365/commerce/pay/hong-kong"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/hungary.md",
       "redirect_url": "/microsoft-365/commerce/pay/hungary"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/iceland.md",
       "redirect_url": "/microsoft-365/commerce/pay/iceland"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/india.md",
       "redirect_url": "/microsoft-365/commerce/pay/india"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/indonesia.md",
       "redirect_url": "/microsoft-365/commerce/pay/indonesia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/iraq.md",
       "redirect_url": "/microsoft-365/commerce/pay/iraq"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/ireland.md",
       "redirect_url": "/microsoft-365/commerce/pay/ireland"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/israel.md",
       "redirect_url": "/microsoft-365/commerce/pay/israel"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/italy.md",
       "redirect_url": "/microsoft-365/commerce/pay/italy"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/jamaica.md",
       "redirect_url": "/microsoft-365/commerce/pay/jamaica"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/japan.md",
       "redirect_url": "/microsoft-365/commerce/pay/japan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/jordan.md",
       "redirect_url": "/microsoft-365/commerce/pay/jordan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/kazakhstan.md",
       "redirect_url": "/microsoft-365/commerce/pay/kazakhstan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/kenya.md",
       "redirect_url": "/microsoft-365/commerce/pay/kenya"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/korea.md",
       "redirect_url": "/microsoft-365/commerce/pay/korea"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/kuwait.md",
       "redirect_url": "/microsoft-365/commerce/pay/kuwait"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/kyrgyzstan.md",
       "redirect_url": "/microsoft-365/commerce/pay/kyrgyzstan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/latvia.md",
       "redirect_url": "/microsoft-365/commerce/pay/latvia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/lebanon.md",
       "redirect_url": "/microsoft-365/commerce/pay/lebanon"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/libya.md",
       "redirect_url": "/microsoft-365/commerce/pay/libya"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/liechtenstein.md",
       "redirect_url": "/microsoft-365/commerce/pay/liechtenstein"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/lithuania.md",
       "redirect_url": "/microsoft-365/commerce/pay/lithuania"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/luxembourg.md",
       "redirect_url": "/microsoft-365/commerce/pay/luxembourg"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/macao.md",
       "redirect_url": "/microsoft-365/commerce/pay/macao"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/macedonia.md",
       "redirect_url": "/microsoft-365/commerce/pay/macedonia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/malaysia.md",
       "redirect_url": "/microsoft-365/commerce/pay/malaysia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/malta.md",
       "redirect_url": "/microsoft-365/commerce/pay/malta"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/mauritius.md",
       "redirect_url": "/microsoft-365/commerce/pay/mauritius"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/mexico.md",
       "redirect_url": "/microsoft-365/commerce/pay/mexico"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/moldova.md",
       "redirect_url": "/microsoft-365/commerce/pay/moldova"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/monaco.md",
       "redirect_url": "/microsoft-365/commerce/pay/monaco"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/mongolia.md",
       "redirect_url": "/microsoft-365/commerce/pay/mongolia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/montenegro.md",
       "redirect_url": "/microsoft-365/commerce/pay/montenegro"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/morocco.md",
       "redirect_url": "/microsoft-365/commerce/pay/morocco"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/namibia.md",
       "redirect_url": "/microsoft-365/commerce/pay/namibia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/nepal.md",
       "redirect_url": "/microsoft-365/commerce/pay/nepal"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/netherlands.md",
       "redirect_url": "/microsoft-365/commerce/pay/netherlands"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/new-zealand.md",
       "redirect_url": "/microsoft-365/commerce/pay/new-zealand"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/nicaragua.md",
       "redirect_url": "/microsoft-365/commerce/pay/nicaragua"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/nigeria.md",
       "redirect_url": "/microsoft-365/commerce/pay/nigeria"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/norway.md",
       "redirect_url": "/microsoft-365/commerce/pay/norway"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/oman.md",
       "redirect_url": "/microsoft-365/commerce/pay/oman"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/pakistan.md",
       "redirect_url": "/microsoft-365/commerce/pay/pakistan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/palestinian-authority.md",
       "redirect_url": "/microsoft-365/commerce/pay/palestinian-authority"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/panama.md",
       "redirect_url": "/microsoft-365/commerce/pay/panama"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/paraguay.md",
       "redirect_url": "/microsoft-365/commerce/pay/paraguay"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/peru.md",
       "redirect_url": "/microsoft-365/commerce/pay/peru"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/philippines.md",
       "redirect_url": "/microsoft-365/commerce/pay/philippines"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/poland.md",
       "redirect_url": "/microsoft-365/commerce/pay/poland"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/portugal.md",
       "redirect_url": "/microsoft-365/commerce/pay/portugal"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/puerto-rico.md",
       "redirect_url": "/microsoft-365/commerce/pay/puerto-rico"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/qatar.md",
       "redirect_url": "/microsoft-365/commerce/pay/qatar"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/romania.md",
       "redirect_url": "/microsoft-365/commerce/pay/romania"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/russia.md",
       "redirect_url": "/microsoft-365/commerce/pay/russia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/rwanda.md",
       "redirect_url": "/microsoft-365/commerce/pay/rwanda"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/saint-kitts-and-nevis.md",
       "redirect_url": "/microsoft-365/commerce/pay/saint-kitts-and-nevis"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/saint-lucia.md",
       "redirect_url": "/microsoft-365/commerce/pay/saint-lucia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/saint-vincent-and-the-grenadines.md",
       "redirect_url": "/microsoft-365/commerce/pay/saint-vincent-and-the-grenadines"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/saudi-arabia.md",
       "redirect_url": "/microsoft-365/commerce/pay/saudi-arabia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/senegal.md",
       "redirect_url": "/microsoft-365/commerce/pay/senegal"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/serbia.md",
       "redirect_url": "/microsoft-365/commerce/pay/serbia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/singapore.md",
       "redirect_url": "/microsoft-365/commerce/pay/singapore"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/slovakia.md",
       "redirect_url": "/microsoft-365/commerce/pay/slovakia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/slovenia.md",
       "redirect_url": "/microsoft-365/commerce/pay/slovenia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/south-africa.md",
       "redirect_url": "/microsoft-365/commerce/pay/south-africa"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/spain.md",
       "redirect_url": "/microsoft-365/commerce/pay/spain"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/sri-lanka.md",
       "redirect_url": "/microsoft-365/commerce/pay/sri-lanka"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/suriname.md",
       "redirect_url": "/microsoft-365/commerce/pay/suriname"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/sweden.md",
       "redirect_url": "/microsoft-365/commerce/pay/sweden"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/switzerland.md",
       "redirect_url": "/microsoft-365/commerce/pay/switzerland"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/taiwan.md",
       "redirect_url": "/microsoft-365/commerce/pay/taiwan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/tajikistan.md",
       "redirect_url": "/microsoft-365/commerce/pay/tajikistan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/tanzania.md",
       "redirect_url": "/microsoft-365/commerce/pay/tanzania"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/thailand.md",
       "redirect_url": "/microsoft-365/commerce/pay/thailand"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/trinidad-and-tobago.md",
       "redirect_url": "/microsoft-365/commerce/pay/trinidad-and-tobago"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/tunisia.md",
       "redirect_url": "/microsoft-365/commerce/pay/tunisia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/turkey.md",
       "redirect_url": "/microsoft-365/commerce/pay/turkey"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/turkmenistan.md",
       "redirect_url": "/microsoft-365/commerce/pay/turkmenistan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/uganda.md",
       "redirect_url": "/microsoft-365/commerce/pay/uganda"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/ukraine.md",
       "redirect_url": "/microsoft-365/commerce/pay/ukraine"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/united-arab-emirates.md",
       "redirect_url": "/microsoft-365/commerce/pay/united-arab-emirates"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/united-kingdom.md",
       "redirect_url": "/microsoft-365/commerce/pay/united-kingdom"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/united-states.md",
       "redirect_url": "/microsoft-365/commerce/pay/united-states"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/uruguay.md",
       "redirect_url": "/microsoft-365/commerce/pay/uruguay"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/uzbekistan.md",
       "redirect_url": "/microsoft-365/commerce/pay/uzbekistan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/venezuela.md",
       "redirect_url": "/microsoft-365/commerce/pay/venezuela"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/vietnam.md",
       "redirect_url": "/microsoft-365/commerce/pay/vietnam"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/virgin-islands.md",
       "redirect_url": "/microsoft-365/commerce/pay/virgin-islands"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/yemen.md",
       "redirect_url": "/microsoft-365/commerce/pay/yemen"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/zambia.md",
       "redirect_url": "/microsoft-365/commerce/pay/zambia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/subscriptions-and-billing/pay/zimbabwe.md",
       "redirect_url": "/microsoft-365/commerce/pay/zimbabwe"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/afghanistan.md",
       "redirect_url": "/microsoft-365/admin/support/afghanistan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/aland-islands.md",
       "redirect_url": "/microsoft-365/admin/support/aland-islands"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/albania.md",
       "redirect_url": "/microsoft-365/admin/support/albania"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/algeria.md",
       "redirect_url": "/microsoft-365/admin/support/algeria"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/american-samoa.md",
       "redirect_url": "/microsoft-365/admin/support/american-samoa"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/andorra.md",
       "redirect_url": "/microsoft-365/admin/support/andorra"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/angola.md",
       "redirect_url": "/microsoft-365/admin/support/angola"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/anguilla.md",
       "redirect_url": "/microsoft-365/admin/support/anguilla"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/antigua-and-barbuda.md",
       "redirect_url": "/microsoft-365/admin/support/antigua-and-barbuda"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/argentina.md",
       "redirect_url": "/microsoft-365/admin/support/argentina"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/armenia.md",
       "redirect_url": "/microsoft-365/admin/support/armenia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/aruba.md",
       "redirect_url": "/microsoft-365/admin/support/aruba"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/ascension.md",
       "redirect_url": "/microsoft-365/admin/support/ascension"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/australia.md",
       "redirect_url": "/microsoft-365/admin/support/australia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/austria.md",
       "redirect_url": "/microsoft-365/admin/support/austria"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/azerbaijan.md",
       "redirect_url": "/microsoft-365/admin/support/azerbaijan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/bahamas.md",
       "redirect_url": "/microsoft-365/admin/support/bahamas"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/bahrain.md",
       "redirect_url": "/microsoft-365/admin/support/bahrain"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/bangladesh.md",
       "redirect_url": "/microsoft-365/admin/support/bangladesh"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/barbados.md",
       "redirect_url": "/microsoft-365/admin/support/barbados"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/belarus.md",
       "redirect_url": "/microsoft-365/admin/support/belarus"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/belgium.md",
       "redirect_url": "/microsoft-365/admin/support/belgium"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/belize.md",
       "redirect_url": "/microsoft-365/admin/support/belize"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/benin.md",
       "redirect_url": "/microsoft-365/admin/support/benin"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/bermuda.md",
       "redirect_url": "/microsoft-365/admin/support/bermuda"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/bhutan.md",
       "redirect_url": "/microsoft-365/admin/support/bhutan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/bolivia.md",
       "redirect_url": "/microsoft-365/admin/support/bolivia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/bonaire.md",
       "redirect_url": "/microsoft-365/admin/support/bonaire"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/bosnia-and-herzegovina.md",
       "redirect_url": "/microsoft-365/admin/support/bosnia-and-herzegovina"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/botswana.md",
       "redirect_url": "/microsoft-365/admin/support/botswana"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/bouvet-island.md",
       "redirect_url": "/microsoft-365/admin/support/bouvet-island"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/brazil.md",
       "redirect_url": "/microsoft-365/admin/support/brazil"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/british-virgin-islands.md",
       "redirect_url": "/microsoft-365/admin/support/british-virgin-islands"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/brunei.md",
       "redirect_url": "/microsoft-365/admin/support/brunei"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/bulgaria.md",
       "redirect_url": "/microsoft-365/admin/support/bulgaria"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/burkina-faso.md",
       "redirect_url": "/microsoft-365/admin/support/burkina-faso"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/burundi.md",
       "redirect_url": "/microsoft-365/admin/support/burundi"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/cambodia.md",
       "redirect_url": "/microsoft-365/admin/support/cambodia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/cameroon.md",
       "redirect_url": "/microsoft-365/admin/support/cameroon"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/canada.md",
       "redirect_url": "/microsoft-365/admin/support/canada"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/cape-verde.md",
       "redirect_url": "/microsoft-365/admin/support/cape-verde"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/cayman-islands.md",
       "redirect_url": "/microsoft-365/admin/support/cayman-islands"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/central-african-republic.md",
       "redirect_url": "/microsoft-365/admin/support/central-african-republic"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/chad.md",
       "redirect_url": "/microsoft-365/admin/support/chad"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/chile.md",
       "redirect_url": "/microsoft-365/admin/support/chile"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/china-prc.md",
       "redirect_url": "/microsoft-365/admin/support/china-prc"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/christmas-island.md",
       "redirect_url": "/microsoft-365/admin/support/christmas-island"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/cocos-keeling-islands.md",
       "redirect_url": "/microsoft-365/admin/support/cocos-keeling-islands"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/colombia.md",
       "redirect_url": "/microsoft-365/admin/support/colombia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/comoros.md",
       "redirect_url": "/microsoft-365/admin/support/comoros"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/congo-drc.md",
       "redirect_url": "/microsoft-365/admin/support/congo-drc"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/congo.md",
       "redirect_url": "/microsoft-365/admin/support/congo"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/cook-islands.md",
       "redirect_url": "/microsoft-365/admin/support/cook-islands"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/costa-rica.md",
       "redirect_url": "/microsoft-365/admin/support/costa-rica"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/cote-divoire.md",
       "redirect_url": "/microsoft-365/admin/support/cote-divoire"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/croatia.md",
       "redirect_url": "/microsoft-365/admin/support/croatia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/curacao.md",
       "redirect_url": "/microsoft-365/admin/support/curacao"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/cyprus.md",
       "redirect_url": "/microsoft-365/admin/support/cyprus"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/czech-republic.md",
       "redirect_url": "/microsoft-365/admin/support/czech-republic"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/denmark.md",
       "redirect_url": "/microsoft-365/admin/support/denmark"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/djibouti.md",
       "redirect_url": "/microsoft-365/admin/support/djibouti"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/dominica.md",
       "redirect_url": "/microsoft-365/admin/support/dominica"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/dominican-republic.md",
       "redirect_url": "/microsoft-365/admin/support/dominican-republic"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/ecuador.md",
       "redirect_url": "/microsoft-365/admin/support/ecuador"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/egypt.md",
       "redirect_url": "/microsoft-365/admin/support/egypt"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/el-salvador.md",
       "redirect_url": "/microsoft-365/admin/support/el-salvador"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/equatorial-guinea.md",
       "redirect_url": "/microsoft-365/admin/support/equatorial-guinea"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/eritrea.md",
       "redirect_url": "/microsoft-365/admin/support/eritrea"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/estonia.md",
       "redirect_url": "/microsoft-365/admin/support/estonia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/ethiopia.md",
       "redirect_url": "/microsoft-365/admin/support/ethiopia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/falkland-islands.md",
       "redirect_url": "/microsoft-365/admin/support/falkland-islands"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/faroe-islands.md",
       "redirect_url": "/microsoft-365/admin/support/faroe-islands"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/fiji.md",
       "redirect_url": "/microsoft-365/admin/support/fiji"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/finland.md",
       "redirect_url": "/microsoft-365/admin/support/finland"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/france.md",
       "redirect_url": "/microsoft-365/admin/support/france"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/french-guiana.md",
       "redirect_url": "/microsoft-365/admin/support/french-guiana"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/french-polynesia.md",
       "redirect_url": "/microsoft-365/admin/support/french-polynesia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/french-southern-territories.md",
       "redirect_url": "/microsoft-365/admin/support/french-southern-territories"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/gabon.md",
       "redirect_url": "/microsoft-365/admin/support/gabon"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/gambia.md",
       "redirect_url": "/microsoft-365/admin/support/gambia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/georgia.md",
       "redirect_url": "/microsoft-365/admin/support/georgia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/germany.md",
       "redirect_url": "/microsoft-365/admin/support/germany"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/ghana.md",
       "redirect_url": "/microsoft-365/admin/support/ghana"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/gibraltar.md",
       "redirect_url": "/microsoft-365/admin/support/gibraltar"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/greece.md",
       "redirect_url": "/microsoft-365/admin/support/greece"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/greenland.md",
       "redirect_url": "/microsoft-365/admin/support/greenland"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/grenada.md",
       "redirect_url": "/microsoft-365/admin/support/grenada"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/guadeloupe.md",
       "redirect_url": "/microsoft-365/admin/support/guadeloupe"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/guam.md",
       "redirect_url": "/microsoft-365/admin/support/guam"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/guatemala.md",
       "redirect_url": "/microsoft-365/admin/support/guatemala"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/guernsey.md",
       "redirect_url": "/microsoft-365/admin/support/guernsey"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/guinea-bissau.md",
       "redirect_url": "/microsoft-365/admin/support/guinea-bissau"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/guinea.md",
       "redirect_url": "/microsoft-365/admin/support/guinea"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/guyana.md",
       "redirect_url": "/microsoft-365/admin/support/guyana"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/haiti.md",
       "redirect_url": "/microsoft-365/admin/support/haiti"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/heard-island-and-mcdonald-islands.md",
       "redirect_url": "/microsoft-365/admin/support/heard-island-and-mcdonald-islands"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/honduras.md",
       "redirect_url": "/microsoft-365/admin/support/honduras"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/hong-kong-sar.md",
       "redirect_url": "/microsoft-365/admin/support/hong-kong-sar"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/hungary.md",
       "redirect_url": "/microsoft-365/admin/support/hungary"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/iceland.md",
       "redirect_url": "/microsoft-365/admin/support/iceland"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/india.md",
       "redirect_url": "/microsoft-365/admin/support/india"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/indonesia.md",
       "redirect_url": "/microsoft-365/admin/support/indonesia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/iraq.md",
       "redirect_url": "/microsoft-365/admin/support/iraq"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/ireland.md",
       "redirect_url": "/microsoft-365/admin/support/ireland"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/isle-of-man.md",
       "redirect_url": "/microsoft-365/admin/support/isle-of-man"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/israel.md",
       "redirect_url": "/microsoft-365/admin/support/israel"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/italy.md",
       "redirect_url": "/microsoft-365/admin/support/italy"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/jamaica.md",
       "redirect_url": "/microsoft-365/admin/support/jamaica"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/jan-mayen.md",
       "redirect_url": "/microsoft-365/admin/support/jan-mayen"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/japan.md",
       "redirect_url": "/microsoft-365/admin/support/japan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/jersey.md",
       "redirect_url": "/microsoft-365/admin/support/jersey"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/jordan.md",
       "redirect_url": "/microsoft-365/admin/support/jordan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/kazakhstan.md",
       "redirect_url": "/microsoft-365/admin/support/kazakhstan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/kenya.md",
       "redirect_url": "/microsoft-365/admin/support/kenya"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/kiribati.md",
       "redirect_url": "/microsoft-365/admin/support/kiribati"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/korea.md",
       "redirect_url": "/microsoft-365/admin/support/korea"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/kosovo.md",
       "redirect_url": "/microsoft-365/admin/support/kosovo"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/kuwait.md",
       "redirect_url": "/microsoft-365/admin/support/kuwait"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/kyrgyzstan.md",
       "redirect_url": "/microsoft-365/admin/support/kyrgyzstan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/laos.md",
       "redirect_url": "/microsoft-365/admin/support/laos"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/latvia.md",
       "redirect_url": "/microsoft-365/admin/support/latvia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/lebanon.md",
       "redirect_url": "/microsoft-365/admin/support/lebanon"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/lesotho.md",
       "redirect_url": "/microsoft-365/admin/support/lesotho"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/liberia.md",
       "redirect_url": "/microsoft-365/admin/support/liberia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/libya.md",
       "redirect_url": "/microsoft-365/admin/support/libya"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/liechtenstein.md",
       "redirect_url": "/microsoft-365/admin/support/liechtenstein"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/lithuania.md",
       "redirect_url": "/microsoft-365/admin/support/lithuania"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/luxembourg.md",
       "redirect_url": "/microsoft-365/admin/support/luxembourg"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/macau-sar.md",
       "redirect_url": "/microsoft-365/admin/support/macau-sar"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/macedonia.md",
       "redirect_url": "/microsoft-365/admin/support/macedonia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/madagascar.md",
       "redirect_url": "/microsoft-365/admin/support/madagascar"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/malawi.md",
       "redirect_url": "/microsoft-365/admin/support/malawi"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/malaysia.md",
       "redirect_url": "/microsoft-365/admin/support/malaysia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/maldives.md",
       "redirect_url": "/microsoft-365/admin/support/maldives"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/mali.md",
       "redirect_url": "/microsoft-365/admin/support/mali"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/malta.md",
       "redirect_url": "/microsoft-365/admin/support/malta"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/marshall-islands.md",
       "redirect_url": "/microsoft-365/admin/support/marshall-islands"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/martinique.md",
       "redirect_url": "/microsoft-365/admin/support/martinique"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/mauritania.md",
       "redirect_url": "/microsoft-365/admin/support/mauritania"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/mauritius.md",
       "redirect_url": "/microsoft-365/admin/support/mauritius"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/mayotte.md",
       "redirect_url": "/microsoft-365/admin/support/mayotte"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/mexico.md",
       "redirect_url": "/microsoft-365/admin/support/mexico"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/micronesia.md",
       "redirect_url": "/microsoft-365/admin/support/micronesia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/moldova.md",
       "redirect_url": "/microsoft-365/admin/support/moldova"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/monaco.md",
       "redirect_url": "/microsoft-365/admin/support/monaco"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/mongolia.md",
       "redirect_url": "/microsoft-365/admin/support/mongolia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/montenegro.md",
       "redirect_url": "/microsoft-365/admin/support/montenegro"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/montserrat.md",
       "redirect_url": "/microsoft-365/admin/support/montserrat"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/morocco.md",
       "redirect_url": "/microsoft-365/admin/support/morocco"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/mozambique.md",
       "redirect_url": "/microsoft-365/admin/support/mozambique"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/myanmar.md",
       "redirect_url": "/microsoft-365/admin/support/myanmar"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/namibia.md",
       "redirect_url": "/microsoft-365/admin/support/namibia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/nauru.md",
       "redirect_url": "/microsoft-365/admin/support/nauru"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/nepal.md",
       "redirect_url": "/microsoft-365/admin/support/nepal"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/netherlands.md",
       "redirect_url": "/microsoft-365/admin/support/netherlands"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/new-caledonia.md",
       "redirect_url": "/microsoft-365/admin/support/new-caledonia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/new-zealand.md",
       "redirect_url": "/microsoft-365/admin/support/new-zealand"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/nicaragua.md",
       "redirect_url": "/microsoft-365/admin/support/nicaragua"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/niger.md",
       "redirect_url": "/microsoft-365/admin/support/niger"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/nigeria.md",
       "redirect_url": "/microsoft-365/admin/support/nigeria"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/niue.md",
       "redirect_url": "/microsoft-365/admin/support/niue"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/norfolk-island.md",
       "redirect_url": "/microsoft-365/admin/support/norfolk-island"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/northern-mariana-islands.md",
       "redirect_url": "/microsoft-365/admin/support/northern-mariana-islands"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/norway.md",
       "redirect_url": "/microsoft-365/admin/support/norway"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/oman.md",
       "redirect_url": "/microsoft-365/admin/support/oman"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/pakistan.md",
       "redirect_url": "/microsoft-365/admin/support/pakistan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/palau.md",
       "redirect_url": "/microsoft-365/admin/support/palau"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/palestinian-authority.md",
       "redirect_url": "/microsoft-365/admin/support/palestinian-authority"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/panama.md",
       "redirect_url": "/microsoft-365/admin/support/panama"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/papua-new-guinea.md",
       "redirect_url": "/microsoft-365/admin/support/papua-new-guinea"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/paraguay.md",
       "redirect_url": "/microsoft-365/admin/support/paraguay"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/peru.md",
       "redirect_url": "/microsoft-365/admin/support/peru"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/philippines.md",
       "redirect_url": "/microsoft-365/admin/support/philippines"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/pitcairn-islands.md",
       "redirect_url": "/microsoft-365/admin/support/pitcairn-islands"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/poland.md",
       "redirect_url": "/microsoft-365/admin/support/poland"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/portugal.md",
       "redirect_url": "/microsoft-365/admin/support/portugal"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/puerto-rico.md",
       "redirect_url": "/microsoft-365/admin/support/puerto-rico"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/qatar.md",
       "redirect_url": "/microsoft-365/admin/support/qatar"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/reunion.md",
       "redirect_url": "/microsoft-365/admin/support/reunion"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/romania.md",
       "redirect_url": "/microsoft-365/admin/support/romania"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/russia.md",
       "redirect_url": "/microsoft-365/admin/support/russia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/rwanda.md",
       "redirect_url": "/microsoft-365/admin/support/rwanda"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/saba.md",
       "redirect_url": "/microsoft-365/admin/support/saba"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/saint-barthelemy.md",
       "redirect_url": "/microsoft-365/admin/support/saint-barthelemy"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/saint-lucia.md",
       "redirect_url": "/microsoft-365/admin/support/saint-lucia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/saint-martin.md",
       "redirect_url": "/microsoft-365/admin/support/saint-martin"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/saint-pierre-and-miquelon.md",
       "redirect_url": "/microsoft-365/admin/support/saint-pierre-and-miquelon"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/saint-vincent-and-the-grenadines.md",
       "redirect_url": "/microsoft-365/admin/support/saint-vincent-and-the-grenadines"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/samoa.md",
       "redirect_url": "/microsoft-365/admin/support/samoa"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/san-marino.md",
       "redirect_url": "/microsoft-365/admin/support/san-marino"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/sao-tome-and-principe.md",
       "redirect_url": "/microsoft-365/admin/support/sao-tome-and-principe"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/saudi-arabia.md",
       "redirect_url": "/microsoft-365/admin/support/saudi-arabia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/senegal.md",
       "redirect_url": "/microsoft-365/admin/support/senegal"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/serbia.md",
       "redirect_url": "/microsoft-365/admin/support/serbia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/seychelles.md",
       "redirect_url": "/microsoft-365/admin/support/seychelles"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/sierra-leone.md",
       "redirect_url": "/microsoft-365/admin/support/sierra-leone"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/singapore.md",
       "redirect_url": "/microsoft-365/admin/support/singapore"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/sint-eustatius.md",
       "redirect_url": "/microsoft-365/admin/support/sint-eustatius"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/sint-maarten.md",
       "redirect_url": "/microsoft-365/admin/support/sint-maarten"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/slovakia.md",
       "redirect_url": "/microsoft-365/admin/support/slovakia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/slovenia.md",
       "redirect_url": "/microsoft-365/admin/support/slovenia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/solomon-islands.md",
       "redirect_url": "/microsoft-365/admin/support/solomon-islands"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/somalia.md",
       "redirect_url": "/microsoft-365/admin/support/somalia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/south-africa.md",
       "redirect_url": "/microsoft-365/admin/support/south-africa"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/south-georgia-and-south-sandwich-islands.md",
       "redirect_url": "/microsoft-365/admin/support/south-georgia-and-south-sandwich-islands"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/south-sudan.md",
       "redirect_url": "/microsoft-365/admin/support/south-sudan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/spain.md",
       "redirect_url": "/microsoft-365/admin/support/spain"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/sri-lanka.md",
       "redirect_url": "/microsoft-365/admin/support/sri-lanka"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/st-helena.md",
       "redirect_url": "/microsoft-365/admin/support/st-helena"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/st-kitts-nevis.md",
       "redirect_url": "/microsoft-365/admin/support/st-kitts-nevis"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/suriname.md",
       "redirect_url": "/microsoft-365/admin/support/suriname"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/svalbard.md",
       "redirect_url": "/microsoft-365/admin/support/svalbard"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/swaziland.md",
       "redirect_url": "/microsoft-365/admin/support/swaziland"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/sweden.md",
       "redirect_url": "/microsoft-365/admin/support/sweden"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/switzerland.md",
       "redirect_url": "/microsoft-365/admin/support/switzerland"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/taiwan.md",
       "redirect_url": "/microsoft-365/admin/support/taiwan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/tajikistan.md",
       "redirect_url": "/microsoft-365/admin/support/tajikistan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/tanzania.md",
       "redirect_url": "/microsoft-365/admin/support/tanzania"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/thailand.md",
       "redirect_url": "/microsoft-365/admin/support/thailand"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/timor-leste.md",
       "redirect_url": "/microsoft-365/admin/support/timor-leste"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/togo.md",
       "redirect_url": "/microsoft-365/admin/support/togo"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/tokelau.md",
       "redirect_url": "/microsoft-365/admin/support/tokelau"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/tonga.md",
       "redirect_url": "/microsoft-365/admin/support/tonga"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/trinidad-and-tobago.md",
       "redirect_url": "/microsoft-365/admin/support/trinidad-and-tobago"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/tristan-da-cunha.md",
       "redirect_url": "/microsoft-365/admin/support/tristan-da-cunha"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/tunisia.md",
       "redirect_url": "/microsoft-365/admin/support/tunisia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/turkey.md",
       "redirect_url": "/microsoft-365/admin/support/turkey"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/turkmenistan.md",
       "redirect_url": "/microsoft-365/admin/support/turkmenistan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/turks-and-caicos-islands.md",
       "redirect_url": "/microsoft-365/admin/support/turks-and-caicos-islands"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/tuvalu.md",
       "redirect_url": "/microsoft-365/admin/support/tuvalu"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/uganda.md",
       "redirect_url": "/microsoft-365/admin/support/uganda"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/ukraine.md",
       "redirect_url": "/microsoft-365/admin/support/ukraine"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/united-arab-emirates.md",
       "redirect_url": "/microsoft-365/admin/support/united-arab-emirates"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/united-kingdom.md",
       "redirect_url": "/microsoft-365/admin/support/united-kingdom"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/united-states.md",
       "redirect_url": "/microsoft-365/admin/support/united-states"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/uruguay.md",
       "redirect_url": "/microsoft-365/admin/support/uruguay"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/uzbekistan.md",
       "redirect_url": "/microsoft-365/admin/support/uzbekistan"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/vanuatu.md",
       "redirect_url": "/microsoft-365/admin/support/vanuatu"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/vatican-city.md",
       "redirect_url": "/microsoft-365/admin/support/vatican-city"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/venezuela.md",
       "redirect_url": "/microsoft-365/admin/support/venezuela"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/vietnam.md",
       "redirect_url": "/microsoft-365/admin/support/vietnam"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/virgin-islands.md",
       "redirect_url": "/microsoft-365/admin/support/virgin-islands"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/wallis-and-futuna.md",
       "redirect_url": "/microsoft-365/admin/support/wallis-and-futuna"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/yemen.md",
       "redirect_url": "/microsoft-365/admin/support/yemen"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/zambia.md",
       "redirect_url": "/microsoft-365/admin/support/zambia"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/support/zimbabwe.md",
       "redirect_url": "/microsoft-365/admin/support/zimbabwe"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/usage-analytics/active-user-in-usage-reports.md",
       "redirect_url": "/microsoft-365/admin/usage-analytics/active-user-in-usage-reports"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/usage-analytics/customize-reports.md",
       "redirect_url": "/microsoft-365/admin/usage-analytics/customize-reports"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/usage-analytics/enable-usage-analytics.md",
       "redirect_url": "/microsoft-365/admin/usage-analytics/enable-usage-analytics"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/usage-analytics/get-the-latest-version-of-usage-analytics.md",
       "redirect_url": "/microsoft-365/admin/usage-analytics/get-the-latest-version-of-usage-analytics"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/usage-analytics/index.md",
       "redirect_url": "/microsoft-365/admin/usage-analytics/index"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/usage-analytics/navigate-and-utilize-reports.md",
       "redirect_url": "/microsoft-365/admin/usage-analytics/navigate-and-utilize-reports"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/usage-analytics/usage-analytics-data-model.md",
       "redirect_url": "/microsoft-365/admin/usage-analytics/usage-analytics-data-model"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/usage-analytics/usage-analytics-errors.md",
       "redirect_url": "/microsoft-365/admin/usage-analytics/usage-analytics-errors"
     },
     {
-      "redirect_document_id": true,
+      "redirect_document_id": false,
       "source_path": "Office365-Admin/usage-analytics/usage-analytics.md",
       "redirect_url": "/microsoft-365/admin/usage-analytics/usage-analytics"
     },
@@ -4068,7 +4068,7 @@
     {
       "source_path": "Office365-Home/index-old.md",
       "redirect_url": "/office365/enterprise",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Office365-Kaizala/index.md",
@@ -4143,27 +4143,27 @@
     {
       "source_path": "Office365-MileIQ/accept-invitation.md",
       "redirect_url": "https://docs.microsoft.com",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Office365-MileIQ/edit-rates.md",
       "redirect_url": "https://docs.microsoft.com",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Office365-MileIQ/give-access-mileiq-admin-center.md",
       "redirect_url": "https://docs.microsoft.com",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Office365-MileIQ/invite-users.md",
       "redirect_url": "https://docs.microsoft.com",
-      "redirect_document_id": true
+      "redirect_document_id": false
     },
     {
       "source_path": "Office365-MileIQ/remove-users.md",
       "redirect_url": "https://docs.microsoft.com",
-      "redirect_document_id": true
+      "redirect_document_id": false
     }
   ]
 }

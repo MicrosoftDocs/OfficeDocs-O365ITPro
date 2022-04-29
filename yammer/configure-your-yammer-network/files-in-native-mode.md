@@ -2,7 +2,7 @@
 title: "Files in Native Mode"
 f1.keywords:
 - NOCSH
-ms.author: v-hareynolds
+ms.author: v-njeremy
 author: v-hareynolds
 manager: gregarroyo
 ms.date: 09/21/2020
@@ -33,14 +33,14 @@ In Native Mode for Microsoft 365, all Yammer files must be stored in SharePoint.
 - After group files are successfully copied to SharePoint, we delete the non-SharePoint version of the files.
 - All files for groups that were previously deleted will be deleted.
 - New files will always be uploaded to SharePoint.
-- Non-SharePoint group files will deleted *within 30 days* after the migration is completed.
-- For any group containing multiple files with the same name, the duplicate-named files will be appended with _X, where X is an increasing number for each duplicate named file (for example, file_1 file_2 file_3 and so on).
-- Yammer files that do not align with SharePoint naming standards will be renamed to meet requirements.
+- Non-SharePoint group files will be deleted *within 30 days* after the migration is completed.
+- For any group containing multiple files with the same name, the duplicate-named files will be appended with _X, where X is an increasing number for each duplicate named file (for example, file_1, file_2, file_3, and so on).
+- Yammer files that don't align with SharePoint naming standards will be renamed to meet requirements.
 
 ## File renaming rules
 
 - Characters not supported in SharePoint will be replaced with an underscore '_'.
-- Duplicate files or those with names that already exist in SharePoint will be renamed using the following format: filename_yammerFileID_extension.
+- Duplicate files or files with names that already exist in SharePoint will be renamed using the following format: filename_yammerFileID_extension.
 - Files with a blank space as the first or last character as well as files that end with a period will have those characters removed.
 - Unnamed files will be named according to the following format: "Yammer File", "Yammer File (2)", "Yammer File (3)", and so on.
 - Files with names starting with \~$ will have the leading tilde removed, for example: "~$Yammer File" will be renamed to "$Yammer File".
@@ -57,7 +57,7 @@ Because migration deletes files and the process is irreversible, we suggest you:
 
 - If third-party APIs are used to upload files, use the [latest version of Upload files into Yammer groups](https://developer.yammer.com/v1.0/docs/upload-files-into-yammer-groups). The previous versions will be blocked and the file upload won’t work.
 
-- Notify users that this migration is going to happen, and that files in Yammer private messages will be deleted, and no longer accessible. Only the latest version of the file is migrated to SharePoint, and the previous versions are not copied. The follower count is not copied. Users can no longer mark files as official.
+- Notify users that this migration is going to happen, and that files in Yammer private messages will be deleted, and no longer accessible. Only the latest version of the file is migrated to SharePoint, and the previous versions are not copied. The follower count isn't copied. Users can no longer mark files as official.
 
 ## Admin step-by-step experience
 
@@ -68,12 +68,12 @@ Because migration deletes files and the process is irreversible, we suggest you:
 3. Download the **Alignment Report**, which provides details on the files that each user and group has.
 
    - Each user has a count for the total number of private message files. These files will be deleted after running the Tool.
-   - Each group has a count of Yammer and SharePoint files. We will attempt to migrate all the Yammer files to SharePoint. There will be no impact to existing SharePoint files.
+   - Each group has a count of Yammer and SharePoint files. We'll attempt to migrate all the Yammer files to SharePoint. There will be no impact to existing SharePoint files.
 
 4. Authorize and run the Tool.
 
-   - SLA - up to 30 days for networks with < 100K files
-   - SLA - up to 45 days for networks with > 100K files
+   - SLA - up to 30 days for networks with < 100 K files
+   - SLA - up to 45 days for networks with > 100 K files
 
 5. Once Microsoft 365 Alignment Tool has completed, review the Error Report and determine if other steps are necessary before your network can be in Native Mode for Microsoft 365.
 
@@ -84,7 +84,7 @@ The following is the expected end user experience for files while the Tool is ru
 |Tasks|Microsoft 365 Yammer Groups|Unconnected Yammer Groups|Private Messages|
 |-----|------------------------|-------------------------|----------------|
 |Delete files|User can delete files|File will be deleted and not migrated to SharePoint.|Files will be deleted and users will no longer have access to these files.|
-|Edit file|Edited files will be stored in SharePoint|Only the latest file will be migrated to SharePoint. If a user edits a file during migration, there is a chance of data loss. Old versions are no longer accessible in SharePoint.|N/A|
+|Edit file|Edited files will be stored in SharePoint|Only the latest file will be migrated to SharePoint. If a user edits a file during migration, there's a chance of data loss. Old versions are no longer accessible in SharePoint.|N/A|
 |New file|New files are stored in SharePoint|File will be in Azure, but migrated to SharePoint by the time the Tool has completed its work.|N/A|
 ||||
 
@@ -94,7 +94,7 @@ If a group has been deleted, all the files from that group will be deleted and n
 
 - All group files will be [stored in SharePoint](https://go.microsoft.com/fwlink/?linkid=2111253), providing a consistent file management experience.
 
-- File search can happen from SharePoint as well as Yammer. Yammer searches the first 5000 characters of files in Azure cloud storage as well as the title and author, but only searches the title and author of files stored in SharePoint.
+- File search can happen from SharePoint and Yammer. Yammer searches the first 5000 characters of files in Azure cloud storage as well as the title and author, but only searches the title and author of files stored in SharePoint.
 
 > [!NOTE]
 > If you receive an error code during the alignment process for Native Mode, you can refer to the [Error Codes section in the Troubleshooting Native Mode topic](../troubleshoot-problems/troubleshoot-native-mode.md#error-codes) for more information.

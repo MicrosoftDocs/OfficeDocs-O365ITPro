@@ -7,7 +7,7 @@ author: ipinkseattle
 manager: pamgreen
 ms.date: 5/13/2020
 audience: Admin
-ms.topic: Overview
+ms.topic: how-to
 ms.service: o365-administration
 ms.localizationpriority: high
 search.appverid:

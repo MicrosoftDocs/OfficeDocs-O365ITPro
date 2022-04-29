@@ -8,7 +8,7 @@ ms.service: sharepoint-online
 ms.topic: article
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
+ms.author: v-njeremy
 ---
 
 # A Yammer user is displayed as "Former member" when you use Office 365 sign in
@@ -21,9 +21,9 @@ Assume that you recently started to use the Office 365 sign-in process for Yamme
 
 - Another account for your user name in Yammer is displayed as **Former member**.
 
-For example, Lea Terry uses lterry@contoso.com as the principal name (UPN) to sign in to her computer. She uses lea.terry@contoso.com to receive email messages. Until today, Lea used to sign in to Yammer by using lea.terry@contoso.com. Although she wasn't using it, there was additional user account for her in Yammer under lterry@contoso.com.
+For example, Lea Terry uses lterry@contoso.com as the principal name (UPN) to sign in to their computer. She uses lea.terry@contoso.com to receive email messages. Until today, Lea used to sign in to Yammer by using lea.terry@contoso.com. Although she wasn't using it, there was additional user account for them in Yammer under lterry@contoso.com.
 
-Today, after she signs in to Yammer by using her Office 365 credentials, Lea is redirected to the Yammer account that has the lterry@contoso.com email address instead of the account that has the lea.terry@contoso.com email address. The lea.terry@contoso.com account now is displayed as **Former Member**. That account is not associated with her messages and groups.
+Today, after they sign in to Yammer by using their Office 365 credentials, Lea is redirected to the Yammer account that has the lterry@contoso.com email address instead of the account that has the lea.terry@contoso.com email address. The lea.terry@contoso.com account now is displayed as **Former Member**. That account is not associated with their messages and groups.
 
 ## Solution
 
