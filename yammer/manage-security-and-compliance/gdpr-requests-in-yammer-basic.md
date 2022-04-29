@@ -2,7 +2,7 @@
 title: "Manage GDPR data subject requests in Yammer Basic"
 f1.keywords:
 - NOCSH
-ms.author: v-teflor
+ms.author: v-njeremy
 author: TeresaFG-writer
 manager: pamgreen
 ms.date: 02/28/2020
@@ -122,7 +122,7 @@ You can export your own data in Yammer Basic, and can choose to delete any data 
 
 There is some user data that is not included in an export. The following table shows how to change or delete this data if needed. 
   
-|||
+|&nbsp;|&nbsp;|
 |:-----|:-----|
 |**Type of data** <br/> |**How to change or delete it** <br/> |
 |Bookmarked messages, group membership, followed or following users, and followed topic  <br/> |For steps, see [Tips for staying organized in Yammer](https://support.office.com/article/40ae9666-75c0-4254-a84c-d87a9542f380.aspx).  <br/> |

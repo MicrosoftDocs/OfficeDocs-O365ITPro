@@ -2,7 +2,7 @@
 title: "Add, block, or remove Yammer users"
 f1.keywords:
 - NOCSH
-ms.author: v-darcyjayne
+ms.author: v-njeremy
 author: djayneMSFT
 manager: pamgreen
 ms.date: 02/17/2020

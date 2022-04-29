@@ -39,6 +39,6 @@ To change your Kaizala app language, go to Settings > Language and update the la
 ## Text translation supported languages
 Microsoft Kaizala text translation feature is supported in the following languages:
 
-|         |        |          |
+| &nbsp; | &nbsp; | &nbsp; |
 |:--------|:--------|:--------|
 | Afrikaans<br>Arabic<br>Bangla<br>Bosnian(Latin)<br>Bulgarian<br>Cantonese(Traditional)<br>Catalan<br>ChineseSimplified<br>ChineseTraditional<br>Croatia<br>Czech<br>Danish<br>Dutch<br>English<br>Estonian<br>Fijian<br>Filipino<br>Finnish<br>French<br>German<br>Greek<br>Gujarati<br> HaitianCreole<br>Hebrew Hindi<br> |HmongDaw<br>Hungarian<br>Icelandic<br>Indonesian<br>Irish<br>Italian<br>Japanese<br>Kannada<br>Kazakh<br>Kiswahili<br>Klingon<br>Korean<br>Latvian<br>Lithuanian<br>Malagasy<br>Malay<br>Malayalam<br>Maltese<br>Maori<br>Marathi<br>Norwegian<br>Persian<br>Polish<br>Portuguese(Brazil)<br> | Portuguese(Portugal)<br>Punjabi<br>QueretaroOto<br>Romanian<br>Russian<br>Samoan<br>Serbian(Cyrillic)<br>Serbian(Latin)<br>Slovak<br>Slovenian<br>Spanish<br>Swedish<br>Tahitian<br>Tamil<br>Telugu<br>Thai<br>Tongan<br>Turkish<br>Ukrainian<br>Urdu<br>Vietnamese<br>Welsh<br>YucatecMaya |
