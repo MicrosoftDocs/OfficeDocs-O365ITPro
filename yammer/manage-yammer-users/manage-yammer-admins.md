@@ -2,7 +2,7 @@
 title: "Manage Yammer admins"
 f1.keywords:
 - NOCSH
-ms.author: natjeremy
+ms.author: v-njeremy
 author: natjeremy
 manager: pamgreen
 ms.date: 4/22/2022
@@ -47,7 +47,7 @@ The Global Administrator role is assigned in Azure Active Directory. Any user as
 |:-----|:-----|
 |**Tasks** <br/> |All the tasks a Verified Admin can do, and: <br/><br> Add and remove the Global  Administrator role and the Office 365 reports reader role from other users <br/><br> View reports in the Office 365 Usage Reporting dashboard <br/><br> Manage other Microsoft 365 services<br/><br>  |
 |**Who can give this role to others** <br/> | Other users assigned the Global Administrator role.          |
-|**How is the Global Administrator role added or removed?** <br/> | **To assign a new Global Administrator, see:**<br> [Assign admin roles for adding the role in Azure Active Directory](https://docs.microsoft.com/microsoft-365/admin/add-users/assign-admin-roles). <br> <br/> **To remove a  Global Administrator from Yammer:** <p> In the Yammer admin center, click **admins**. In the row for the admin, select **Change status of Microsoft 365 Admins**. This takes you to the Microsoft 365 page where the role can be changed.|
+|**How is the Global Administrator role added or removed?** <br/> | **To assign a new Global Administrator, see:**<br> [Assign admin roles for adding the role in Azure Active Directory](/microsoft-365/admin/add-users/assign-admin-roles). <br> <br/> **To remove a  Global Administrator from Yammer:** <p> In the Yammer admin center, click **admins**. In the row for the admin, select **Change status of Microsoft 365 Admins**. This takes you to the Microsoft 365 page where the role can be changed.|
 
 <a name="bmk_yadmin"> </a>
 ## Yammer Administrator (Azure Active Directory)
@@ -57,7 +57,7 @@ The Yammer Administrator role is assigned in Azure Active Directory. Any user as
 |:-----|:-----|
 |**Tasks** <br/> |All the tasks a Yammer Verified Admin can perform. <p>For instructions on typical tasks for Yammer Verified Admins, see [Yammer admin help](../index.yml).   |
 |**Who can give this role to others** <br/> | Another user with the role of Global Administrator or Privileged Role Administrator.       |
-|**How is the Yammer Administrator role added or removed?** <br/> | **To assign a new Yammer Administrator, see:** [Assign admin roles for adding the role in Azure Active Directory](https://docs.microsoft.com/microsoft-365/admin/add-users/assign-admin-roles).  |
+|**How is the Yammer Administrator role added or removed?** <br/> | **To assign a new Yammer Administrator, see:** [Assign admin roles for adding the role in Azure Active Directory](/microsoft-365/admin/add-users/assign-admin-roles).  |
 
 <a name="bmk_verified"> </a>
 ## Yammer Verified Admin
