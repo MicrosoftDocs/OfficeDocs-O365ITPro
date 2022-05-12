@@ -55,7 +55,7 @@ You can choose to enforce Office 365 sign-in for Yammer for all users in the net
   
 ## Use Yammer with other Office 365 services
 
-Yammer integrates seamlessly with other services in Office 365. For example, you can share [Stream or Office 365 Video](https://support.office.com/article/ca1cc1a9-a615-46e1-b6a3-40dbd99939a6) and [Group and share documents in Office Delve](https://support.office.com/article/da0c5804-01ef-4edd-8b87-e576b19bef3e#BKMK_WorkTogetherByUsingYammer) with other users using Yammer. 
+Yammer integrates seamlessly with other services in Office 365. For example, you can share [Stream or Office 365 Video](/stream/streamnew/new-stream) and [Group and share documents in Office Delve](https://support.office.com/article/da0c5804-01ef-4edd-8b87-e576b19bef3e#BKMK_WorkTogetherByUsingYammer) with other users using Yammer. 
   
 ## Make Yammer the default enterprise social network in SharePoint
 
