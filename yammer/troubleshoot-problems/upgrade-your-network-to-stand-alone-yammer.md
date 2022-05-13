@@ -49,7 +49,7 @@ You can activate Yammer Enterprise through the Microsoft 365 admin center by fol
     
 Upon activation, your Office 365 Global Administrators will become administrators in the corresponding Yammer network and can customize and administer Yammer. Please note that Yammer administrators must have a domain that matches the Yammer network. For example, on the contoso.com network, only Office 365 global administrators with an @contoso.com email address will become Yammer administrators. Also, Yammer administrator account email addresses must not contain "admin," "support" or "user."
   
-For more information about the upgrade to Yammer Enterprise, see [Yammer Plans &amp; Pricing](https://www.microsoft.com/\microsoft-365/compare-microsoft-365-enterprise-plans). 
+For more information about the upgrade to Yammer Enterprise, see [Yammer Plans &amp; Pricing](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans). 
   
 ## Determine your Yammer Enterprise upgrade strategy
 
