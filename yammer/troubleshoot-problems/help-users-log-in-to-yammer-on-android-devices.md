@@ -110,7 +110,7 @@ Follow these steps to configure your Security Token Service (STS) and Web Applic
     
 10. Finally, if your organization uses active load balancers to distribute traffic between servers, these servers should also have their local certificate stores updated (or at least verified).
     
-If the above steps didn't work for you, look into these similar issues, or contact [Yammer Support](https://answers.microsoft.com/msoffice/wiki/msoffice_yammer-mso_o365app/welcome-to-yammer-support/2bdde618-2e1a-4983-9651-4a56f26e8e38):
+If the above steps didn't work for you, look into these similar issues, or contact [Yammer Support](https://support.microsoft.com/office/yammer-help-center-8663922d-8f76-47c2-827a-ee86e8cac00f):
   
 [An external certificate that is not yet valid](/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/dn383637(v=ws.11))
   

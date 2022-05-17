@@ -42,7 +42,7 @@ Microsoft 365 connected groups have many advantages over non-connected Yammer gr
 - Use data classification to create your own classifications of Microsoft 365 groups, such as unclassified, corporate confidential, or top secret. ([Configuring group settings](/azure/active-directory/users-groups-roles/groups-settings-cmdlets))
 - See the group in the Global Address List (GAL) in Outlook.
 - Monitor group usage with the Microsoft 365 groups activity report. ([Microsoft 365 Groups activity report](https://support.office.com/article/Office-365-Reports-in-the-admin-center-Office-365-groups-a27f1a99-3557-4f85-9560-a28e3d822a40))
-- Create optional groups naming policies. ([Microsoft 365 Groups naming policy](https://support.office.com/article/office-365-groups-naming-policy))
+- Create optional groups naming policies. ([Microsoft 365 Groups naming policy](/azure/active-directory/enterprise-users/groups-naming-policy))
 - Use the optional group expiration policy to help clean up unused groups. See [Microsoft 365 Group Expiration Policy](/microsoft-365/admin/create-groups/office-365-groups-expiration-policy)
 - Use planned additional features that will only be available with connected groups. This includes getting local data center residency for newly uploaded files that are stored in SharePoint. ([Microsoft 365 Roadmap](https://go.microsoft.com/fwlink/?LinkId=509914))
   

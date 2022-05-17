@@ -36,11 +36,11 @@ You can [Add a Yammer tab to a Teams channel](https://support.office.com/article
 
 ## Yammer and Skype for Business
 
-You can [Add a Yammer feed to a Skype Meeting Broadcast](https://support.office.com/article/0d92d1c4-4032-4b5b-bee4-cdeab1aea7c0), or [use Skype for business from within Yammer](https://support.office.com/article/e221b8ae-9647-4b46-b79e-257c36b1a1f8.aspx).
+You can [Add a Yammer feed to a Skype Meeting Broadcast](https://support.office.com/article/0d92d1c4-4032-4b5b-bee4-cdeab1aea7c0), or use Skype for business from within Yammer.
 
 ## Yammer Embed
 
- [Yammer Embed](https://go.microsoft.com/fwlink/?LinkId=524147) delivers Yammer feeds to existing business applications, such as Skype for Business, the company intranet, CRM tools, or content management systems. 
+ [Yammer Embed](/rest/api/yammer/embed-feed) delivers Yammer feeds to existing business applications, such as Skype for Business, the company intranet, CRM tools, or content management systems. 
 
 ## Yammer Connect
 
