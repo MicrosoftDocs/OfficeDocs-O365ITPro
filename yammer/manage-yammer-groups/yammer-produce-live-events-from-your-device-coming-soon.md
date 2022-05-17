@@ -147,7 +147,7 @@ Four (4) hours.
 
 [Live events in Yammer](yammer-live-events.md)
 
-[Attend a live event in Yammer](https://go.microsoft.com/fwlink/?linkid=2117053)
+[Attend a live event in Yammer](https://support.microsoft.com/office/attend-a-live-event-in-new-yammer-41f1afe3-2a8e-4998-a25b-843d96791b10)
 
 [Microsoft Teams live event overview](https://support.office.com/article/microsoft-teams-live-events-overview-d077fec2-a058-483e-9ab5-1494afda578a)
 

@@ -30,10 +30,6 @@ Kaizala public groups allow companies to use a single channel on Kaizala, where 
 - **Members** are the people belonging to a group.
 - **Subscribers** are people who discovered a public group and want to be part of it. In some cases, they need the approval of the public group admin.
 
-## Kaizala demo page
-
-To see an interactive step-by-step demo and explanation of the configurations, see the [Kaizala Demo page](https://kaizalademo.office.com/).
-
 ## Create a public group
 
 1. On the Kaizala management portal, from the left navigation pane, choose **Public Groups**.

@@ -25,7 +25,7 @@ To resolve this issue, the Yammer Service Principal must be enabled.
 
 Before you follow these steps, make sure that the following prerequisites are met:
 
-- Install the Azure Active Directory Module for Windows PowerShell. For more information, go to [Connect PowerShell to Office 365 services](https://support.office.com/article/managing-office-365-and-exchange-online-with-windows-powershell-06a743bb-ceb6-49a9-a61d-db4ffdf54fa6).
+- Install the Azure Active Directory Module for Windows PowerShell. For more information, go to [Connect PowerShell to Office 365 services](/microsoft-365/enterprise/connect-to-microsoft-365-powershell).
 
 - These steps can only be performed by an Office 365 global admin.
 
