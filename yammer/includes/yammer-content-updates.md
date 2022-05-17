@@ -2,6 +2,14 @@
 
 
 
+## Week of May 09, 2022
+
+
+| Published On |Topic title | Change |
+|------|------------|--------|
+| 5/11/2022 | [Manage Yammer admins](/Yammer/manage-yammer-users/manage-yammer-admins) | modified |
+
+
 ## Week of April 25, 2022
 
 
