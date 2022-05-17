@@ -30,7 +30,7 @@ Microsoft Flow automates business process by providing a platform to integrate o
     
 - A shop owner wants to receive an email for each sales response he gets on his surveys, sent to his customer group on Kaizala.
     
-- An organization admin wants to send an announcement to a employee in the organization, whenever a new employee joins a particular organization group
+- An organization admin wants to send an announcement to an employee in the organization, whenever a new employee joins a particular organization group
     
 ## Create a Flow using Kaizala Trigger
 
