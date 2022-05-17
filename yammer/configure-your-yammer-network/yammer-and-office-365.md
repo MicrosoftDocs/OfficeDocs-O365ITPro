@@ -154,7 +154,7 @@ Below is the list of key capabilities (related to managing Yammer in Office 365)
 
     To access the other network, Dorena can do the following.
 
-  - Get invited as a guest user from the other fabrikam.com network. If both networks are configured to use the **Enforce Office 365 identity** configuration, this option is the only option.
+  - Get invited as a guest from the other fabrikam.com network. If both networks are configured to use the **Enforce Office 365 identity** configuration, this option is the only option.
 
   - Create a new account in the other network, and log in with email and password.
 
@@ -222,7 +222,7 @@ You have the following options to move out of this unsupported configuration:
 |:-----|:-----|
 |`Contoso.onmicrosoft.com`  <br/> `Contoso.com`  <br/> `Fabrikam.com`  <br/> |`Contoso.onmicrosoft.com`  <br/> `Contoso.com`  <br/> `Fabrikam.com`  <br/> |
 
-- Create separate Yammer networks, one per tenant.Â In the example above, you would remove either `contoso.com` or `fabrikam.com` from the Yammer network, and create a new network with that domain. To remove Yammer domains from your network, contact the [Yammer Support](https://go.microsoft.com/fwlink/?LinkId=523736) team. Before removing a domain from a network, you will need to delete all the user accounts containing that domain. If needed, these users can later be invited as guests from the newly created network. At the end, you will reach the following state:
+- Create separate Yammer networks, one per tenant. In the example above, you would remove either `contoso.com` or `fabrikam.com` from the Yammer network, and create a new network with that domain. To remove Yammer domains from your network, contact the [Yammer Support](https://go.microsoft.com/fwlink/?LinkId=523736) team. Before removing a domain from a network, you will need to delete all the user accounts containing that domain. If needed, these users can later be invited as guests from the newly created network. At the end, you will reach the following state:
 
 |**Domains on the Office 365 tenant1**|**Domains on the Yammer network**|
 |:-----|:-----|
@@ -232,7 +232,7 @@ You have the following options to move out of this unsupported configuration:
 |:-----|:-----|
 |`Fabrikam.onmicrosoft.com`  <br/> `Fabrikam.com`  <br/> |`Fabrikam.onmicrosoft.com`  <br/> `Fabrikam.com`  <br/> |
 
-Even after you move into a 1 tenant: 1 network configuration, you could accidentally move back to a many tenants: 1 network configuration. Say, due to some reason the `contoso.com` network has an another domain `tailspin.com`, which has not yet been added to the Office 365 tenant. In this situation, a new Office 365 tenant is created for `tailspin.com`. Now two tenants (`contoso.com` and `tailspin.com`) are connected to the same Yammer network. **To avoid getting into this situation, we recommend that you add all the domains in your Yammer network to your Office 365 tenant.** If you do get into this situation, you can use the guidance above to get back to the recommended 1 tenant: 1 network configuration and regain all the benefits.
+Even after you move into a 1 tenant: 1 network configuration, you could accidentally move back to a many tenants: 1 network configuration. Say, due to some reason the `contoso.com` network has another domain `tailspin.com`, which has not yet been added to the Office 365 tenant. In this situation, a new Office 365 tenant is created for `tailspin.com`. Now two tenants (`contoso.com` and `tailspin.com`) are connected to the same Yammer network. **To avoid getting into this situation, we recommend that you add all the domains in your Yammer network to your Office 365 tenant.** If you do get into this situation, you can use the guidance above to get back to the recommended 1 tenant: 1 network configuration and regain all the benefits.
   
 ### FAQ
 
