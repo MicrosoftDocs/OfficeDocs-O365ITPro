@@ -34,7 +34,7 @@ For information about when email notifications are sent, see [Yammer email and p
   
 ## Initial setup: Follow Office 365 email best practices
 
-Follow the mail flow guidelines in [Security best practices for Office 365](https://support.office.com/article/9295e396-e53d-49b9-ae9b-0b5828cdedc3). If these configurations are not in place, users may be required to take additional steps to verify every message sent to Yammer by email.
+Follow the mail flow guidelines in [Security best practices for Office 365](/microsoft-365/admin/security-and-compliance/secure-your-business-data). If these configurations are not in place, users may be required to take additional steps to verify every message sent to Yammer by email.
   
 > [!NOTE]
 > These email setting changes must be done by your internal email administrator. Yammer admins and support can't help configure your mail systems.
