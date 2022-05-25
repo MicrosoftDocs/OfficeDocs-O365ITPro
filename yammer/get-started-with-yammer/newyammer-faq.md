@@ -41,7 +41,7 @@ The new Yammer experience is built fully in Fluent, the Microsoft design languag
 
 ### Conversations
 - [New reactions](https://support.microsoft.com/office/use-reactions-in-new-yammer-02b05cf1-e920-4891-a5a4-0f181948adad) – including Love, Laugh, Celebrate, Thank, and Sad – provide a wider range of ways to interact with colleagues on conversations
-- Enable users to [report a conversation](https://docs.microsoft.com/yammer/manage-yammer-groups/configure-conversation-reporting) to better moderate your network
+- Enable users to [report a conversation](/yammer/manage-yammer-groups/configure-conversation-reporting) to better moderate your network
 - Close conversations that have concluded
 - New publisher experience provides the ability to include any type of content in an announcement and to announce any type of post
 - With new bolder conversation styling, posts, questions, and praise stand out for even greater engagement 
@@ -72,7 +72,7 @@ The new Yammer experience is built fully in Fluent, the Microsoft design languag
 
 - Brand your network with your company logo on the home page
 - Make your communities shine with vibrant cover photos
-- Customize [All Company](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community), just like any other community, by adding a cover photo and avatar
+- Customize [All Company](/yammer/manage-yammer-groups/yammer-all-company-yammer-community), just like any other community, by adding a cover photo and avatar
 - [Restrict posting in All Company](https://support.microsoft.com/office/restrict-all-company-posts-in-yammer-3219d2ae-db15-4c9f-9dd2-28559ae39a97) to make it an official corporate communications channel 
 
 ### Profiles Experince
@@ -103,14 +103,14 @@ The new Yammer experience is built fully in Fluent, the Microsoft design languag
 
 ### Integrations
 - Work with [Yammer from Teams with the Teams Communities app](https://support.microsoft.com/office/use-the-yammer-communities-app-for-microsoft-teams-930c86f1-e1e2-4e45-a66a-ce8faca71a21), including notifications 
-- Updated [Yammer Embed](https://docs.microsoft.com/rest/api/yammer/embed-feed?msclkid=f6d1c908b6a111ec89f0506358918321) experience with ability to customize the look and feel of the embed feed
+- Updated [Yammer Embed](/rest/api/yammer/embed-feed?msclkid=f6d1c908b6a111ec89f0506358918321) experience with ability to customize the look and feel of the embed feed
 - Updated [SharePoint](https://support.microsoft.com/en-us/office/new-yammer-use-a-yammer-web-part-in-sharepoint-online-995eb339-2ed9-4ab0-b26d-7837d3153221) layouts to choose from using the new Yammer UX, including vertical and horizontal feed choices 
 - React and respond to Yammer via [interactive emails in Outlook](https://support.microsoft.com/en-us/office/work-with-yammer-from-outlook-fd695485-225b-410f-b24a-17f971b46b25)
 - Interact with Yammer directly from Community app for Outlook
 
 ### Admins
 - Yammer admins, verified admins, and global admins can [bring extra attention to a conversation by featuring it](https://support.microsoft.com/office/feature-a-conversation-in-new-yammer-92469ece-8a63-424f-9ad6-802ad90fc5c4) for the network 
-- Create a [report a conversation](https://docs.microsoft.com/yammer/manage-yammer-groups/configure-conversation-reporting) workflow to moderate your network 
+- Create a [report a conversation](/yammer/manage-yammer-groups/configure-conversation-reporting) workflow to moderate your network 
 - Admins can [mute a community](https://support.microsoft.com/office/mute-a-community-for-your-organization-in-new-yammer-840b305d-d23e-491b-a0e3-cfe904408ed3) for the network, and end-users can mute a community in their feeds 
 - Admins can toggle the new Yammer experience for their network
 
