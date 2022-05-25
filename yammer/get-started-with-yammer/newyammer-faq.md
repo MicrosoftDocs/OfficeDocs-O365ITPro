@@ -41,7 +41,7 @@ The new Yammer experience is built fully in Fluent, the Microsoft design languag
 
 ### Conversations
 - [New reactions](https://support.microsoft.com/office/use-reactions-in-new-yammer-02b05cf1-e920-4891-a5a4-0f181948adad) – including Love, Laugh, Celebrate, Thank, and Sad – provide a wider range of ways to interact with colleagues on conversations
-- Enable users to [report a conversation](yammer/manage-yammer-groups/configure-conversation-reporting) to better moderate your network
+- Enable users to [report a conversation](/yammer/manage-yammer-groups/configure-conversation-reporting) to better moderate your network
 - Close conversations that have concluded
 - New publisher experience provides the ability to include any type of content in an announcement and to announce any type of post
 - With new bolder conversation styling, posts, questions, and praise stand out for even greater engagement 
@@ -72,7 +72,7 @@ The new Yammer experience is built fully in Fluent, the Microsoft design languag
 
 - Brand your network with your company logo on the home page
 - Make your communities shine with vibrant cover photos
-- Customize [All Company](yammer/manage-yammer-groups/yammer-all-company-yammer-community), just like any other community, by adding a cover photo and avatar
+- Customize [All Company](/yammer/manage-yammer-groups/yammer-all-company-yammer-community), just like any other community, by adding a cover photo and avatar
 - [Restrict posting in All Company](https://support.microsoft.com/office/restrict-all-company-posts-in-yammer-3219d2ae-db15-4c9f-9dd2-28559ae39a97) to make it an official corporate communications channel 
 
 ### Profiles Experince
