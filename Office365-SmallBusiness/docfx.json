@@ -40,13 +40,16 @@
       "uhfHeaderId": "MSDocsHeader-M365-IT",
       "feedback_system": "None",
       "hideEdit": true,
-      "contributors_to_exclude": [ 
-        "rjagiewich", 
-        "traya1", 
-        "rmca14", 
-        "claydetels19", 
+      "contributors_to_exclude": [
+        "rjagiewich",
+        "traya1",
+        "rmca14",
+        "claydetels19",
         "jborsecnik",
         "tiburd",
+        "AngelaMotherofDragons",
+        "dstrome",
+        "v-dihans",
         "garycentric"
       ]
     },
