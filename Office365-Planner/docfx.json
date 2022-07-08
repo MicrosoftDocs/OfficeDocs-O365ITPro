@@ -48,13 +48,16 @@
       "feedback_system": "None",
       "feedback_product_url": "https://feedbackportal.microsoft.com/feedback/forum/a1a93b69-2f1c-ec11-b6e7-0022481f8472",
       "hideEdit": true,
-      "contributors_to_exclude": [ 
-        "rjagiewich", 
-        "traya1", 
-        "rmca14", 
-        "claydetels19", 
+      "contributors_to_exclude": [
+        "rjagiewich",
+        "traya1",
+        "rmca14",
+        "claydetels19",
         "jborsecnik",
         "tiburd",
+        "AngelaMotherofDragons",
+        "dstrome",
+        "v-dihans",
         "garycentric"
       ]
     },
