@@ -61,7 +61,7 @@ A: There are both short-term and long term benefits:
 
     - Seamlessly manage Yammer from Microsoft 365: admins can manage the Yammer service from Microsoft 365 in the same way they currently manage other Microsoft 365 services. For example, admins can manage the lifecycle of all Yammer users and domains centrally in Microsoft 365.
 
-    - Suite connected groups: by integrating tightly with the Microsoft 365 suite, a new group created in Yammer can be a Micorosoft 365 group. Therefore, features such as dynamic group membership will now be available to admins. Note that you need to [Enforce Microsoft 365 identity](../configure-your-yammer-network/enforce-office-365-identity.md) for Yammer users in order to use connected groups.
+    - Suite connected groups: by integrating tightly with the Microsoft 365 suite, a new group created in Yammer can be a Microsoft 365 group. Therefore, features such as dynamic group membership will now be available to admins. Note that you need to [Enforce Microsoft 365 identity](../configure-your-yammer-network/enforce-office-365-identity.md) for Yammer users in order to use connected groups.
 
 - Immediate benefits for end users
 
