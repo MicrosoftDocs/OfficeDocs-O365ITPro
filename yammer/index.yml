@@ -163,7 +163,7 @@ landingContent:
             url: ./manage-yammer-users/aad-account-required.md
   
   # Card (optional)
-  - title: Work with external users
+  - title: Work with guests (external users)
     linkLists:
       - linkListType: how-to-guide
         links:
