@@ -3,7 +3,7 @@ title: "Yammer Native Mode: step-by-step guide"
 f1.keywords:
 - NOCSH
 ms.author: pamgreen
-author: ToniSFrench
+author: v-jebizie
 manager: pamgreen
 ms.date: 12/28/2021
 audience: Admin
@@ -22,6 +22,9 @@ description: "Learn more about the process of migrating to Native Mode with this
 Networks that want to take advantage of the new compliance features available in Yammer will need to make sure their network is aligned to Native Mode. Native Mode also provides other benefits, such as the ability to host Live Events in every Yammer community, simplify file administration through SharePoint, and also apply Microsoft 365 Group management policies.
 
 Any network that was created after January 16, 2020 is already in Native Mode and can make use of these features right out of the box! Networks created prior to this date will need to use the Native Mode Alignment Tool to ensure their network is fully backed by Microsoft 365 prior to accessing these new features.
+
+ > [!NOTE]
+> Native Mode is strongly recommended for reasons of security, compliance, and M365 integration.
 
 The following steps show you what actions to take before and during a transition to Native Mode. For more information on what Native Mode means for your Yammer Network, see [Overview of Native Mode](../configure-your-yammer-network/native-mode.md).
 
