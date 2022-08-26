@@ -42,7 +42,7 @@ Native Mode has the following requirements:
 - There can't be any network-level or thread-level guests.
 
  > [!NOTE]
-> Native Mode is strongly recommended for reasons of security, compliance, and Microsoft 365 integration
+> Native Mode is strongly recommended for reasons of security, compliance, and Microsoft 365 integration.
 
 ## How does the Tool work with your network?
 
