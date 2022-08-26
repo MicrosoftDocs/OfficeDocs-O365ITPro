@@ -22,7 +22,7 @@ description: "Learn about external groups in Yammer and how to opt out if you do
 
 You can work with external users in Yammer if your network isn’t aligned to native mode by creating an external group. You can also limit and turn off collaboration in external groups.
 
-This experience differs from working with the Yammer guest experience, which is powered by Azure Active Directory B2B and requires native mode. For a comparison of experiences, see [Collaborate with guests in a Yammer community](/work-with-external-users/collaborate-guests-external-yammer-community).
+This experience differs from working with the Yammer guest experience, which is powered by Azure Active Directory B2B and requires native mode. For a comparison of experiences, see [Collaborate with guests in a Yammer community](/yammer/work-with-external-users/collaborate-guests-external-yammer-community).
 
  > [!NOTE]
 > Native Mode is strongly recommended for reasons of security, compliance, and Microsoft 365 integration. For more information, see [Overview of Native Mode](/configure-your-yammer-network/overview-native-mode).
