@@ -3,7 +3,7 @@ title: "Non-Native and Hybrid Yammer Networks upgrades"
 f1.keywords:
 - NOCSH
 ms.author: v-jebizie
-author: jebizie
+author: v-jebizie
 manager: dmillerdyson
 ms.date: 08/26/2022
 audience: Admin
