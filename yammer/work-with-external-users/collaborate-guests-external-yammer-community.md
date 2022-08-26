@@ -24,9 +24,9 @@ External collaboration is a key ingredient for the success of any organization. 
 ![Yammer business-to-business guest support.](../media/yammer-b2b-azure-guests.png)
 
  > [!NOTE]
- > Native Mode is strongly recommended for reasons of security, compliance, and Microsoft 365 integration. For more information, see [Overview of Native Mode](/configure-your-yammer-network/overview-native-mode).
+ > Native Mode is strongly recommended for reasons of security, compliance, and Microsoft 365 integration. For more information, see [Overview of Native Mode](../configure-your-yammer-network/overview-native-mode.md).
  
-There are two methods of working with guests, depending on how your organization’s Yammer network is structured. A Yammer network [aligned to native mode](../configure-your-yammer-network/overview-native-mode.md) leverages the Azure AD-B2B guest framework to power external users while a Yammer network that is currently not aligned to native mode uses the Yammer- specific guest framework.
+There are two methods of working with guests, depending on how your organization’s Yammer network is structured. A Yammer network [aligned to native mode](../configure-your-yammer-network/overview-native-mode.md) leverages the Azure AD-B2B guest framework to power external users while a Yammer network that is currently not aligned to native mode uses the Yammer-specific guest framework.
 
 ## Comparison of guest experiences
 
