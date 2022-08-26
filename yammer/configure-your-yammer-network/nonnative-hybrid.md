@@ -32,9 +32,9 @@ description: Details on non-native and hybrid Yammer networks.
  -	Email blocked lists
  -	Secret groups
 
- If your organization has active guests, [Azure Active Directory](https://docs.microsoft.com/yammer/get-started-with-yammer/azure-ad-b2b-guests-yammer) B2B guest functionality can be used for guests who reside in the same geography/area as the Yammer network. This includes US guests for US networks and EU guests for EU networks. Guests will need to be reinvited to your network.
+ If your organization has active guests, [Azure Active Directory](/yammer/get-started-with-yammer/azure-ad-b2b-guests-yammer) B2B guest functionality can be used for guests who reside in the same geography/area as the Yammer network. This includes US guests for US networks and EU guests for EU networks. Guests will need to be reinvited to your network.
 
-If your organization currently uses an email blocked list to manage access to your Yammer network, you can continue to manage access from the Azure Active Directory Portal. Learn more by visiting [Turn off Yammer access for Office 365 users ](https://docs.microsoft.com/yammer/manage-yammer-users/turn-off-user-access) and [Manage Yammer licenses in Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365).
+If your organization currently uses an email blocked list to manage access to your Yammer network, you can continue to manage access from the Azure Active Directory Portal. Learn more by visiting [Turn off Yammer access for Office 365 users ](/yammer/manage-yammer-users/turn-off-user-access) and [Manage Yammer licenses in Office 365](/yammer/manage-yammer-users/manage-yammer-licenses-in-office-365).
 
 These feature equivalents are only available to networks in Native Mode. There's no feature equivalent to secret groups in Microsoft 365. All groups must be public or private.
 
@@ -43,7 +43,7 @@ These feature equivalents are only available to networks in Native Mode. There's
  ## What do you need to do to prepare?
  **If you would like to self-initiate your migration:**
 
- There's a [step-by-step guide](https://docs.microsoft.com/yammer/configure-your-yammer-network/native-mode-step-by-step-guide) to Native Mode migration. You can run an alignment report that will identify gaps in your current network alignment with Native Mode. It's critical that you back up your network’s data and communicate the migration to your users before running the Alignment Tool mentioned in the guide. This is because some data may be deleted during the process.
+ There's a [step-by-step guide](/yammer/configure-your-yammer-network/native-mode-step-by-step-guide) to Native Mode migration. You can run an alignment report that will identify gaps in your current network alignment with Native Mode. It's critical that you back up your network’s data and communicate the migration to your users before running the Alignment Tool mentioned in the guide. This is because some data may be deleted during the process.
 
  **If you would like Microsoft to initiate your migration:**
 
