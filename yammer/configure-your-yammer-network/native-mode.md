@@ -62,7 +62,7 @@ The Tool prepares your network for Native Mode by disabling some features and mi
 
 - Disables support for guests in the network, and removes existing guests from the network, along with their associated Private messages and files.
 
-- Disables support for adding an guests to an individual thread. Guests who were previously added to individual threads will no longer have access.
+- Disables support for adding guests to an individual thread. Guests who were previously added to individual threads will no longer have access.
 
 - Deletes all group messages and files for previously deleted groups. Going forward, group messages will be deleted consistent with your network's retention policy.
 
