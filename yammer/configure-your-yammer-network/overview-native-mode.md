@@ -35,7 +35,7 @@ A Yammer network must be in one of three modes:
   
   In this mode, users and admins can't add features that would take the network out of Native Mode.
 
-- **Non-Native Mode**. In this mode, the network doesn't meet one or more requirements. For example, the network might not enforce Microsoft 365 identity. All external networks and Yammer Basic networks are in this mode because they cannot connect to Microsoft 365 or Office 365.
+- **Non-Native Mode**. In this mode, the network doesn't meet one or more requirements. For example, the network might not enforce Microsoft 365 identity. All external networks and Yammer Basic networks are in this mode because they can't connect to Microsoft 365 or Office 365.
 
 - **Hybrid Mode**. In this mode, users and groups might not be associated with their counterparts in Azure AD and Microsoft 365 or Office 365, and files might not be stored in SharePoint. The network might be in the process of meeting all requirements for Native Mode, but the admin hasn't committed the network to Native Mode.
 
@@ -62,16 +62,16 @@ When you align your Yammer network in Native Mode, the [Native Mode Alignment To
 - Yammer honors Microsoft 365 group creation rights and enforces Microsoft 365 group creation restrictions.
 - No external groups or network-level guests, but external networks are supported in the [US Geo](../manage-security-and-compliance/security-and-compliance.md).
 - All files uploaded to groups will be stored in SharePoint.
-- Files cannot be uploaded to Yammer private messages.
-- Verified and Network network admins are required to have either Global admin privileges or Group admin privileges from Microsoft 365 in order to administer changes to groups in which they are not a group owner.
+- Files can't be uploaded to Yammer private messages.
+- Verified and Network network admins are required to have either Global admin privileges or Group admin privileges from Microsoft 365 in order to administer changes to groups in which they aren't a group owner.
 
 ### Non-Native (not connected)
 
 - External groups, network-level guests, and external networks are supported in the US Geo.
 - All Yammer users can create groups.
-- Files are not stored in SharePoint.
+- Files aren't stored in SharePoint.
 - Files can be attached to Yammer private messages.
-- Verified and Network network admins are not required to have any additional admin privileges from Microsoft 365 in order to administer changes to groups.
+- Verified and Network network admins aren't required to have any additional admin privileges from Microsoft 365 in order to administer changes to groups.
 
 ### Hybrid
 
@@ -80,7 +80,7 @@ When you align your Yammer network in Native Mode, the [Native Mode Alignment To
 - All Yammer users can create groups.
 - New files uploaded to Microsoft 365-connected groups are stored in SharePoint.
 - Files can be attached to Yammer private messages.
-- Verified and Network network admins are not required to have any additional admin privileges from Microsoft 365 in order to administer changes to groups.
+- Verified and Network network admins aren't required to have any additional admin privileges from Microsoft 365 in order to administer changes to groups.
 
 ## Related articles
 
