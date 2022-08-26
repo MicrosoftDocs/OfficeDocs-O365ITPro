@@ -60,9 +60,9 @@ The Tool prepares your network for Native Mode by disabling some features and mi
 
 - Deletes all internal users (and their associated files and Private messages) in the network who aren't mapped to an Office 365 identity in AAD.
 
-- Disables support for external users  in the network, and removes existing external users from the network, along with their associated Private messages and files.
+- Disables support for guests in the network, and removes existing guests from the network, along with their associated Private messages and files.
 
-- Disables support for adding an external user to an individual thread. External users who were previously added to individual threads will no longer have access.
+- Disables support for adding an guests to an individual thread. Guests who were previously added to individual threads will no longer have access.
 
 - Deletes all group messages and files for previously deleted groups. Going forward, group messages will be deleted consistent with your network's retention policy.
 
