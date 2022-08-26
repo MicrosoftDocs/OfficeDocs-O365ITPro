@@ -103,6 +103,8 @@ landingContent:
             url: ./configure-your-yammer-network/consolidate-multiple-yammer-networks.md
           - text: FAQ about Consolidating multiple Yammer networks
             url: ./configure-your-yammer-network/faq-consolidate-multiple-yammer-networks.md
+          - text: Non-Native and Hybrid Yammer Networks upgrades
+            url: ./configure-your-yammer-network/nonnative-hybrid.md
 
   # Card
   - title: Security and compliance
