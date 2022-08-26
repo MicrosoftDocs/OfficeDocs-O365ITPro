@@ -42,7 +42,7 @@ Native Mode has the following requirements:
 - There can't be any network-level or thread-level guests.
 
  > [!NOTE]
-> Native Mode is strongly recommended for reasons of security, compliance, and M365 integration
+> Native Mode is strongly recommended for reasons of security, compliance, and Microsoft 365 integration
 
 ## How does the Tool work with your network?
 
@@ -60,7 +60,7 @@ The Tool prepares your network for Native Mode by disabling some features and mi
 
 - Deletes all internal users (and their associated files and Private messages) in the network who aren't mapped to an Office 365 identity in AAD.
 
-- Disables support for guests in the network, and removes existing guests from the network, along with their associated Private messages and files.
+- Disables support for external users  in the network, and removes existing external users from the network, along with their associated Private messages and files.
 
 - Disables support for adding an external user to an individual thread. External users who were previously added to individual threads will no longer have access.
 
