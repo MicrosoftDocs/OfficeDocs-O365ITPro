@@ -26,7 +26,7 @@ Existing Yammer networks are eligible to migrate to Native Mode, and admins can 
 In Native Mode, all Yammer users are in Azure Active Directory (Azure AD), all groups are Microsoft 365 groups, and all files are stored in SharePoint Online.
 
  > [!NOTE]
-> Native Mode is strongly recommended for reasons of security, compliance, and M365 integration
+> Native Mode is strongly recommended for reasons of security, compliance, and M365 integration.
 
 A Yammer network must be in one of three modes:
 
