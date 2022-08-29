@@ -24,6 +24,8 @@ You can work with external users in Yammer if your network isn’t aligned to na
 
 This experience differs from working with the Yammer guest experience, which is powered by Azure Active Directory B2B and requires native mode. For a comparison of experiences, see [Collaborate with guests in a Yammer community](../work-with-external-users/collaborate-guests-external-yammer-community.md).
 
+[!NOTE] Native Mode is strongly recommended for reasons of security, compliance, and Microsoft 365 integration. For more information, see [Overview of Native Mode].(/configure-your-yammer-network/overview-native-mode)
+
 ## Create and manage external groups in Yammer
 
 You can create a group that includes external users, which is called an external group. You must create the group as an external group - you can't change an existing internal group to be an external group.
