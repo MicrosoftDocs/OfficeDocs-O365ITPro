@@ -2,7 +2,7 @@
 title: "Work with external groups in Yammer networks not aligned to native mode"
 f1.keywords:
 - NOCSH
-ms.author: pamgreen
+ms.author: v-jebizie
 author: v-jebizie
 manager: pamgreen
 ms.date: 9/23/2019
@@ -20,20 +20,20 @@ description: "Learn about external groups in Yammer and how to opt out if you do
 
 # Work with external groups in Yammer networks not aligned to native mode
 
-You can work with external users in Yammer if your network isn’t aligned to native mode by creating an external group. You can also limit and turn off collaboration in external groups.
+You can work with guests in Yammer if your network isn’t aligned to native mode by creating an external group. You can also limit and turn off collaboration in external groups.
 
-This experience differs from working with the Yammer guest experience, which is powered by Azure Active Directory B2B and requires native mode. For a comparison of experiences, see [Collaborate with guests in a Yammer community](/yammer/work-with-external-users/collaborate-guests-external-yammer-community).
+This experience differs from working with the Yammer guest experience, which is powered by Azure Active Directory B2B and requires native mode. For a comparison of experiences, see [Collaborate with guests in a Yammer community](../work-with-external-users/collaborate-guests-external-yammer-community.md).
 
- > [!NOTE]
-> Native Mode is strongly recommended for reasons of security, compliance, and Microsoft 365 integration. For more information, see [Overview of Native Mode](/configure-your-yammer-network/overview-native-mode).
+>[!NOTE]
+>Native Mode is strongly recommended for reasons of security, compliance, and Microsoft 365 integration. For more information, see [Overview of Native Mode](../configure-your-yammer-network/overview-native-mode.md).
 
 ## Create and manage external groups in Yammer
 
-You can create a group that includes external users, which is called an external group. You must create the group as an external group - you can't change an existing internal group to be an external group.
+You can create a group that includes guests, which is called an external group. You must create the group as an external group - you can't change an existing internal group to be an external group.
   
-The group admin can add external users to the group. In public external groups, other users in the group can suggest adding an external user, but the group admin has control over whether that user is added, and has to approve the addition. In private external groups, only the admin can add external members.
+The group admin can add guests to the group. In public external groups, others in the group can suggest adding a guest, but the group admin has control over whether that user is added, and has to approve the addition. In private external groups, only the admin can add external members.
   
-External groups look different than internal Yammer groups, so you can easily distinguish which groups have external participants. The group header for an external group shows that additional networks are participating in the group.
+External groups look different than internal Yammer groups, so you can easily distinguish which groups have external participants. The group header for an external group shows that other networks are participating in the group.
   
 ![Screenshot of a Yammer group header, with a globe icon that shows that it is an external group.](../media/99bb31d5-4557-4abe-bfc3-74d9d377ac69.png)
   
@@ -44,11 +44,11 @@ External groups are marked with a globe icon in the left navigation.
 Users invited to participate in an external group hosted on a different network are required to accept the invitation before being able to view any content in the group.
 
 >[!NOTE] 
->This feature is not available for Yammer Enterprise networks in Native Mode or the [EU Geo](../manage-security-and-compliance/data-residency.md).
+>This feature isn't available for Yammer Enterprise networks in Native Mode or the [EU Geo](../manage-security-and-compliance/data-residency.md).
   
 ## Create an external group
 
-When you create a group, you can decide if it's an internal or external group. You can't change this setting after you create the group.
+When you create a group, you can decide if it is an internal or external group. You can't change this setting after you create the group.
   
 1. In Yammer, under the list of groups, select **Create Group**.
     
@@ -125,7 +125,7 @@ By default for Yammer Enterprise networks in the US Geo, users can add external 
 
 2. When you disable external access to your groups and conversations:
 
-    - When a user tries to add an external participant in Yammer, the user receives an error message stating that they are unable to add external participants because it violates their company's policy. The user will not be allowed to post the message. 
+    - When a user tries to add an external participant in Yammer, the user receives an error message stating that they are unable to add external participants because it violates their company's policy. The user won't be allowed to post the message. 
 
     - Any current external participants are blocked from using external conversations or threads that they may have been participating in.
 
