@@ -20,7 +20,7 @@ description: "Learn about external groups in Yammer and how to opt out if you do
 
 # Work with external groups in Yammer networks not aligned to native mode
 
-You can work with external users in Yammer if your network isn’t aligned to native mode by creating an external group. You can also limit and turn off collaboration in external groups.
+You can work with guests in Yammer if your network isn’t aligned to native mode by creating an external group. You can also limit and turn off collaboration in external groups.
 
 This experience differs from working with the Yammer guest experience, which is powered by Azure Active Directory B2B and requires native mode. For a comparison of experiences, see [Collaborate with guests in a Yammer community](../work-with-external-users/collaborate-guests-external-yammer-community.md).
 
@@ -28,9 +28,9 @@ This experience differs from working with the Yammer guest experience, which is 
 
 ## Create and manage external groups in Yammer
 
-You can create a group that includes external users, which is called an external group. You must create the group as an external group - you can't change an existing internal group to be an external group.
+You can create a group that includes guests, which is called an external group. You must create the group as an external group - you can't change an existing internal group to be an external group.
   
-The group admin can add external users to the group. In public external groups, other users in the group can suggest adding an external user, but the group admin has control over whether that user is added, and has to approve the addition. In private external groups, only the admin can add external members.
+The group admin can add guests to the group. In public external groups, others in the group can suggest adding a guest, but the group admin has control over whether that user is added, and has to approve the addition. In private external groups, only the admin can add external members.
   
 External groups look different than internal Yammer groups, so you can easily distinguish which groups have external participants. The group header for an external group shows that other networks are participating in the group.
   
