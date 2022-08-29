@@ -3,7 +3,7 @@ title: "Work with external groups in Yammer networks not aligned to native mode"
 f1.keywords:
 - NOCSH
 ms.author: pamgreen
-author: v-jebizie
+author: ToniSFrench
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -22,10 +22,7 @@ description: "Learn about external groups in Yammer and how to opt out if you do
 
 You can work with external users in Yammer if your network isn’t aligned to native mode by creating an external group. You can also limit and turn off collaboration in external groups.
 
-This experience differs from working with the Yammer guest experience, which is powered by Azure Active Directory B2B and requires native mode. For a comparison of experiences, see [Collaborate with guests in a Yammer community](/yammer/work-with-external-users/collaborate-guests-external-yammer-community).
-
- > [!NOTE]
-> Native Mode is strongly recommended for reasons of security, compliance, and Microsoft 365 integration. For more information, see [Overview of Native Mode](/configure-your-yammer-network/overview-native-mode).
+This experience differs from working with the Yammer guest experience, which is powered by Azure Active Directory B2B and requires native mode. For a comparison of experiences, see [Collaborate with guests in a Yammer community]((../work-with-external-users/collaborate-guests-external-yammer-community.md).
 
 ## Create and manage external groups in Yammer
 
@@ -48,7 +45,7 @@ Users invited to participate in an external group hosted on a different network 
   
 ## Create an external group
 
-When you create a group, you can decide if it's an internal or external group. You can't change this setting after you create the group.
+When you create a group, you can decide if it is an internal or external group. You can't change this setting after you create the group.
   
 1. In Yammer, under the list of groups, select **Create Group**.
     
@@ -140,7 +137,7 @@ A: If your administrator opted out of allowing external messaging, you won't be 
   
 ### Q: Can I create an external group on an external network?
 
-A: No. The creation of external groups is limited to canonical networks and isn't available on external networks.
+A: No. The creation of external groups is limited to canonical networks and is not available on external networks.
 
 ### Q: Are there differences in working with messages in external groups?
 
