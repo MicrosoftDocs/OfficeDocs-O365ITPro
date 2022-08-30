@@ -22,7 +22,7 @@ Storyline empowers everyone within your organization to connect and contribute, 
 
 When storyline is enabled in your organization, you'll see the following changes in Yammer and the Viva Engage app.  
 
-1. Internal (non-guest) users who have access to Yammer and Viva Engage see a new default Storyline tab on their user profile page.    
+1. Internal (non-guest) users who have access to Yammer and Viva Engage see a new default storyline tab on their user profile page.    
 2. Users see a new “storylines” page from which they can access a personalized feed of content posted to storyline, or toggle to a focused feed that includes only storyline content from the people the user has followed. 
 
 ## Configuration quick start guide 
@@ -37,7 +37,7 @@ Once storyline has reached general availability, a single toggle can be used to 
 
 When you enable storyline in your organization, it becomes available to all internal users who have access to Yammer and Viva Engage. All internal users will have their own storyline feed on their profile pages and will be able to see, react, and respond to others’ storyline posts. Guests won't have their own storyline, and won't be able to see our engage with storyline content from your internal users who do. 
 
-When you disable storyline, it removes the Storylines tab from all user profile pages and removes the Storylines landing page. However, disabling storyline doesn't delete any conversations that were posted to storyline beforehand. While more difficult to find with the removal of those pages, storyline content can still be accessed via direct links to the conversations and can be discovered through search. Likewise, this content will continue to be available through network data export, and will be available through eDiscovery for networks that are in native mode.  
+When you disable storyline, it removes the storylines tab from all user profile pages and removes the storylines landing page. However, disabling storyline doesn't delete any conversations that were posted to storyline beforehand. While more difficult to find with the removal of those pages, storyline content can still be accessed via direct links to the conversations and can be discovered through search. Likewise, this content will continue to be available through network data export, and will be available through eDiscovery for networks that are in native mode.  
 
 ## Preview features
 This toggle allows you to preview some of the features that will be available in Yammer and the Viva Engage app through Viva Engage. The features available through this preview will be available to all of the internal users in your tenant who have access to Yammer and Viva Engage, irrespective of license status. Pricing and licensing requirements for these features post-preview are yet to be determined. 
@@ -81,15 +81,15 @@ It isn't possible to prevent any internal user from seeing storyline content if 
 We plan to add the capability of limiting who gets their own storyline shortly after storyline reaches general availability. Once available, you'll be able to designate, via AAD groups, which users will have a personal storyline feed appear on their user profile page in Yammer. Users to whom you don’t grant a storyline will be able to reply and react to storyline posts from users who do have their own storyline. 
   
 ## Getting support 
-**IMPORTANT**: The Storyline public preview is unsupported. The Service Level Agreement (SLA) for Microsoft Online Services doesn't apply to this preview. 
+**IMPORTANT**: The storyline public preview is unsupported. The Service Level Agreement (SLA) for Microsoft Online Services doesn't apply to this preview. 
 
-When a reproducible break-fix issue affects the Storyline public preview and a support case is opened, the issue will be logged for later investigation by the Yammer product group. The support case will be closed when adequate information has been captured. It may not be possible to resolve all issues reported during the public preview. 
+When a reproducible break-fix issue affects the storyline public preview and a support case is opened, the issue will be logged for later investigation by the Yammer product group. The support case will be closed when adequate information has been captured. It may not be possible to resolve all issues reported during the public preview. 
 
-### Do SLAs apply to the Storyline public preview? 
+### Do SLAs apply to the storyline public preview? 
 The Service Level Agreement for Microsoft Online Services doesn't apply to this preview. 
 
 ### What is a break-fix issue? 
-Break-fix issues are technical problems you experience while using the REPLACEPRODUCTNAME public preview. Break-fix is an industry term that refers to work involved in supporting a technology when it fails in the normal course of its function, which requires intervention by a support organization to be restored to working order. 
+Break-fix issues are technical problems you experience while using the storyline public preview. Break-fix is an industry term that refers to work involved in supporting a technology when it fails in the normal course of its function, which requires intervention by a support organization to be restored to working order. 
 
 ### How do I open a support case? 
 Please see the [Support for business products - Admin Help](https://aka.ms/yammersupportcase) page for general information. Your organization may have specific guidance for opening support cases, so you may need to talk with your IT team. 
@@ -97,10 +97,10 @@ Please see the [Support for business products - Admin Help](https://aka.ms/yamme
 ### How should I submit feature requests and feedback? 
 Feature requests and feedback on the product during preview should be submitted through the in-product feedback dialog boxes. 
 
-Microsoft Support won't be accepting formal feature requests for the Storyline public preview submitted via the Design Change Request (DCR) process during the preview period. 
+Microsoft Support won't be accepting formal feature requests for the storyline public preview submitted via the Design Change Request (DCR) process during the preview period. 
 
 ### What severity of cases should be accepted during the preview? 
-Please open non-critical (severity B or C) cases during the preview period for break/fix issues affecting the Storyline public preview. Critical (severity A) cases won't be accepted for preview features. 
+Please open non-critical (severity B or C) cases during the preview period for break/fix issues affecting the storyline public preview. Critical (severity A) cases won't be accepted for preview features. 
 
 ### What steps should I take before reporting a technical problem? 
 Before reporting a technical problem to Microsoft Support, please check the following: 
