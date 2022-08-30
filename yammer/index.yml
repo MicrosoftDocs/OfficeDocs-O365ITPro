@@ -39,8 +39,6 @@ landingContent:
             url: https://www.microsoft.com/microsoft-365/success/?products=yammer&rtc=2
           - text: Yammer end-user help
             url: https://support.office.com/yammer
-          - text: Manage storyline for Microsoft Viva Engage and Yammer
-            url: ./get-started-with-yammer/manage-storyline.md
       - linkListType: get-started
         links:
           - text: Admin quick start
@@ -107,6 +105,8 @@ landingContent:
             url: ./configure-your-yammer-network/faq-consolidate-multiple-yammer-networks.md
           - text: Non-Native and Hybrid Yammer Networks upgrades
             url: ./configure-your-yammer-network/nonnative-hybrid.md
+          - text: Manage storyline for Microsoft Viva Engage and Yammer
+            url: ./get-started-with-yammer/manage-storyline.md
 
   # Card
   - title: Security and compliance
