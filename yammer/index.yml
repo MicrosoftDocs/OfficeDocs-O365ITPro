@@ -106,7 +106,7 @@ landingContent:
           - text: Non-Native and Hybrid Yammer Networks upgrades
             url: ./configure-your-yammer-network/nonnative-hybrid.md
           - text: Manage storyline for Microsoft Viva Engage and Yammer
-            url: ./configure-your-yammer-network/manage-storyline.md
+            url: ./configure-your-yammer-network/manage-storyline-viva.md
 
   # Card
   - title: Security and compliance
