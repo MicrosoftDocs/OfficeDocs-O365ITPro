@@ -31,11 +31,11 @@ Configuration and management of storyline is straightforward. Yammer Network and
 ### Enabling storyline
 Once storyline has reached general availability, a single toggle can be used to enable or disable storyline. During public preview, admins will have two toggles for enabling storyline within their organization. 
 
-* **Enable public preview of storyline**: This toggle is defaulted to the OFF position. Select this option if you would like to turn storyline on for your organization during public preview. This toggle will be removed once storyline has reached general availability. 
+* **Enable public preview of storyline**: This toggle is defaulted to the OFF position. Select this option if you would like to turn on storyline for your organization during public preview. This toggle will be removed once storyline has reached general availability. 
 
 * **Enable storyline when it reaches general availability**: This toggle is defaulted to the ON position, which means storyline will become available to your users when the feature has been fully released. This control is independent of the public preview control, so that customers can choose whether or not to automatically enable storyline regardless of their usage of storyline in public preview.  
 
-When you enable storyline in your organization, it becomes available to all internal users who have access to Yammer and Viva Engage. All internal users will have their own storyline feed on their profile pages and will be able to see, react, and respond to others’ storyline posts. Guests won't have their own storyline, and won't be able to see our engage with storyline content from your internal users who do. 
+When you enable storyline in your organization, it becomes available to all internal users who have access to Yammer and Viva Engage. All internal users will have their own storyline feed on their profile pages and will be able to see, react, and respond to others’ storyline posts. Guests won't have their own storyline, and won't be able to see or engage with storyline content from your internal users who do. 
 
 When you disable storyline, it removes the storylines tab from all user profile pages and removes the storylines landing page. However, disabling storyline doesn't delete any conversations that were posted to storyline beforehand. While more difficult to find with the removal of those pages, storyline content can still be accessed via direct links to the conversations and can be discovered through search. Likewise, this content will continue to be available through network data export, and will be available through eDiscovery for networks that are in native mode.  
 
@@ -92,7 +92,7 @@ The Service Level Agreement for Microsoft Online Services doesn't apply to this 
 Break-fix issues are technical problems you experience while using the storyline public preview. Break-fix is an industry term that refers to work involved in supporting a technology when it fails in the normal course of its function, which requires intervention by a support organization to be restored to working order. 
 
 ### How do I open a support case? 
-Please see the [Support for business products - Admin Help](https://aka.ms/yammersupportcase) page for general information. Your organization may have specific guidance for opening support cases, so you may need to talk with your IT team. 
+See the [Support for business products - Admin Help](https://aka.ms/yammersupportcase) page for general information. Your organization may have specific guidance for opening support cases, so you may need to talk with your IT team. 
 
 ### How should I submit feature requests and feedback? 
 Feature requests and feedback on the product during preview should be submitted through the in-product feedback dialog boxes. 
@@ -100,10 +100,10 @@ Feature requests and feedback on the product during preview should be submitted 
 Microsoft Support won't be accepting formal feature requests for the storyline public preview submitted via the Design Change Request (DCR) process during the preview period. 
 
 ### What severity of cases should be accepted during the preview? 
-Please open non-critical (severity B or C) cases during the preview period for break/fix issues affecting the storyline public preview. Critical (severity A) cases won't be accepted for preview features. 
+Open non-critical (severity B or C) cases during the preview period for break/fix issues affecting the storyline public preview. Critical (severity A) cases won't be accepted for preview features. 
 
 ### What steps should I take before reporting a technical problem? 
-Before reporting a technical problem to Microsoft Support, please check the following: 
+Before reporting a technical problem to Microsoft Support, check the following: 
 
 * Can the issue be reproduced consistently? If the issue isn't occurring now, then it may have been resolved by a recent product update. 
 * Can the issue be reproduced in multiple browsers? Testing with at least two different web browsers is best practice. 
