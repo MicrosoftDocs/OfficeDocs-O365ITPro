@@ -24,6 +24,7 @@
 ### [Files in Native Mode](configure-your-yammer-network/files-in-native-mode.md)
 ### [Troubleshoot Native Mode](troubleshoot-problems/troubleshoot-native-mode.md)
 ### [FAQ: Consolidating multiple Yammer networks](configure-your-yammer-network/faq-consolidate-multiple-yammer-networks.md)
+### [Manage storyline for Microsoft Viva Engage and Yammer](configure-your-yammer-network/manage-storyline-viva.md)
 ## Manage security and compliance
 ### [Security and compliance overview](manage-security-and-compliance/security-and-compliance.md)
 ### [Yammer security settings](manage-security-and-compliance/yammer-security-settings.md)
