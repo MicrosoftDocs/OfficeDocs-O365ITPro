@@ -105,6 +105,8 @@ landingContent:
             url: ./configure-your-yammer-network/faq-consolidate-multiple-yammer-networks.md
           - text: Non-Native and Hybrid Yammer Networks upgrades
             url: ./configure-your-yammer-network/nonnative-hybrid.md
+          - text: Manage storyline for Microsoft Viva Engage and Yammer
+            url: ./configure-your-yammer-network/manage-storyline-viva.md
 
   # Card
   - title: Security and compliance
@@ -163,7 +165,7 @@ landingContent:
             url: ./manage-yammer-users/aad-account-required.md
   
   # Card (optional)
-  - title: Work with external users
+  - title: Work with guests (external users)
     linkLists:
       - linkListType: how-to-guide
         links:
