@@ -47,7 +47,7 @@ The preview is currently scheduled to continue until at least December 31, 2022.
 The features included in the preview include: 
 * Conversation insights for storyline – users are able to see detailed metrics for conversations they’ve posted to their storyline including impressions, reactions, and comments 
 
-* Storyline update – This collects any unseen storyline posts for the week from followed people and sends it to the user once per week in an email or notification in their Teams activity feed. The storyline update isn't sent if the people followed don't post, or if all of the posts were already seen by the user.  
+* Storyline digest – This collects any unseen storyline posts for the week from followed people and sends it to the user once per week in an email or notification in their Teams activity feed. The storyline digest isn't sent if the people followed don't post, or if all of the posts were already seen by the user.  
 
 * Post on behalf of (POBO) for storyline – During the preview, any user who has assigned POBO delegates can give those delegates the additional privilege of posting to the assigning user’s storyline.  
  
