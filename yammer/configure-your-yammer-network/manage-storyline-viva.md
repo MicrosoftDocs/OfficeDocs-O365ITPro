@@ -54,7 +54,7 @@ The features included in the preview include:
 * Custom cover photo – This feature allows users to customize their user profile page by uploading a photo to be the background image for the header of their user profile page.     
  
 ## Security and compliance 
- 
+
 Storyline is built on the same content and conversation platform as community messages in Yammer and Viva Engage. This means that you can use the same tools for storyline that you use today for monitoring and governance.  
 
 * eDiscovery through the compliance portal for native mode networks  
