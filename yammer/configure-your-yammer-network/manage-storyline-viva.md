@@ -83,7 +83,8 @@ It isn't possible to prevent any internal user from seeing storyline content if 
 We plan to add the capability of limiting who gets their own storyline shortly after storyline reaches general availability. Once available, you'll be able to designate, via AAD groups, which users will have a personal storyline feed appear on their user profile page in Yammer. Users to whom you don’t grant a storyline will be able to reply and react to storyline posts from users who do have their own storyline. 
   
 ## Getting support 
-**IMPORTANT**: The storyline public preview is unsupported. The Service Level Agreement (SLA) for Microsoft Online Services doesn't apply to this preview. 
+>[!IMPORTANT]
+>The storyline public preview is unsupported. The Service Level Agreement (SLA) for Microsoft Online Services doesn't apply to this preview. 
 
 When a reproducible break-fix issue affects the storyline public preview and a support case is opened, the issue will be logged for later investigation by the Yammer product group. The support case will be closed when adequate information has been captured. It may not be possible to resolve all issues reported during the public preview. 
 
