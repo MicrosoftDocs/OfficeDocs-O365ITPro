@@ -37,7 +37,7 @@ Once storyline has reached general availability, a single toggle can be used to 
 
 When you enable storyline in your organization, it becomes available to all internal users who have access to Yammer and Viva Engage. All internal users will have their own storyline feed on their profile pages and will be able to see, react, and respond to others’ storyline posts. Guests won't have their own storyline, and won't be able to see or engage with storyline content from your internal users who do. 
 
-When you disable storyline, it removes the storylines tab from all user profile pages and removes the storylines landing page. However, disabling storyline doesn't delete any conversations that were posted to storyline beforehand. While more difficult to find with the removal of those pages, storyline content can still be accessed via direct links to the conversations and can be discovered through search. Likewise, this content will continue to be available through network data export, and will be available through eDiscovery for networks that are in native mode.  
+When you disable storyline, it removes the storylines tab from all user profile pages and removes the storylines landing page. Disabling storyline prevents new storyline conversations from being started, but does not delete any conversations that were posted prior to storyline being disabled. Previously posted storyline content can still be accessed through search and the Yammer Inbox by the people who participated in the storyline conversation. Users who didn't participate in the conversation won't have access after storyline has been disabled. Storyline content will continue to be available through network data export and will be available through eDiscovery for networks that are in native mode.  
 
 ## Preview features
 This toggle allows you to preview some of the features that will be available in Yammer and the Viva Engage app through Viva Engage. The features available through this preview will be available to all of the internal users in your tenant who have access to Yammer and Viva Engage, irrespective of license status. Pricing and licensing requirements for these features post-preview are yet to be determined. 
@@ -45,11 +45,13 @@ This toggle allows you to preview some of the features that will be available in
 The preview is currently scheduled to continue until at least December 31, 2022. All features from this preview will be turned off automatically at the end of the preview without any intervention or obligations required from you. 
 
 The features included in the preview include: 
-* Conversation insights for storyline – users are able to see detailed metrics for conversations they’ve posted to their storyline including impressions, reactions, and comments 
+* Conversation insights for storyline – Users are able to see detailed metrics for conversations they’ve posted to their storyline including impressions, reactions, and comments. 
 
 * Storyline digest – This collects any unseen storyline posts for the week from followed people and sends it to the user once per week in an email or notification in their Teams activity feed. The storyline digest isn't sent if the people followed don't post, or if all of the posts were already seen by the user.  
 
-* Post on behalf of (POBO) for storyline – During the preview, any user who has assigned POBO delegates can give those delegates the additional privilege of posting to the assigning user’s storyline.  
+* Post on behalf of (POBO) for storyline – During the preview, any user who has assigned POBO delegates can give those delegates the additional privilege of posting to the assigning user’s storyline. 
+
+* Custom cover photo – This feature allows users to customize their user profile page by uploading a photo to be the background image for the header of their user profile page.     
  
 ## Security and compliance 
  
