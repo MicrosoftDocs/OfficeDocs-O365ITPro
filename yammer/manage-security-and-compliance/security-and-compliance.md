@@ -109,7 +109,7 @@ A: Only employees with a legitimate business need can access customer data, and 
 ### Q: Is the data encrypted?
 <a name="Encryption"> </a>
 
-A: All data in transit into and out of the production environment is always encrypted . Communication with Yammer is over HTTPS (TLS 1.2 supported) regardless of user endpoint (web, desktop app, mobile app, API). In addition to being encrypted in transit, Yammer data is encrypted at rest with AES-256 bit key encryption.
+A: All data in transit into and out of the production environment is always encrypted. Communication with Yammer is over HTTPS (TLS 1.2 supported) regardless of user endpoint (web, desktop app, mobile app, API). In addition to being encrypted in transit, Yammer data is encrypted at rest with AES-256 bit key encryption.
 
 Current versions of the Yammer iOS and Android mobile apps use Apple and Google services for final delivery to end user devices. To ensure confidentiality of information between the Yammer service and the device we use Push Notification Encryption to protect notifications in transit. Encrypted notifications are available for the Yammer iOS mobile app version 7.36.0 or later. They're also available for the Yammer Android mobile app version 5.6.5 or later.
 
