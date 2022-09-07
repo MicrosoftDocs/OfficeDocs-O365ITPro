@@ -81,6 +81,11 @@ It isn't possible to prevent any internal user from seeing storyline content if 
  
 ### Can I control which users get their own storyline?  
 We plan to add the capability of limiting who gets their own storyline shortly after storyline reaches general availability. Once available, you'll be able to designate, via AAD groups, which users will have a personal storyline feed appear on their user profile page in Yammer. Users to whom you don’t grant a storyline will be able to reply and react to storyline posts from users who do have their own storyline. 
+
+### How do I delete custom cover photos that are uploaded to a person’s storyline? 
+When the preview features toggle is in the ON position, uploaded cover photos can be deleted by the user themselves, or by Network and Verified Admins, by going to the user profile page and choosing the delete option under “Update cover photo.” 
+
+If you want to delete a previously uploaded cover photo when the preview toggle is in the OFF position, you will need to temporarily opt in to the preview so you can access the delete cover photo option as discussed above.   
   
 ## Getting support 
 > [!IMPORTANT]
@@ -114,7 +119,3 @@ Before reporting a technical problem to Microsoft Support, check the following:
 * Are multiple users affected? Issues affecting multiple users are more likely to be prioritized. 
 * Do you have clear screenshots? Closely cropped screenshots can miss important information that is showing elsewhere on the screen. 
 * Is there any relevant information in the browser developer tools? Support may ask you to check the JavaScript console for error information. While not everyone is familiar with JavaScript, you can often hit F12 in your browser on Windows and look for red error messages in the console tab. 
-
-### How do I delete custom cover photos that are uploaded to a person’s storyline? 
-When the preview features toggle is in the ON position, uploaded cover photos can be deleted by the user themselves, or by Network and Verified Admins, by going to the user profile page and choosing the delete option under “Update cover photo.” 
-If you want to delete a previously uploaded cover photo when the preview toggle is in the OFF position, you will need to temporarily opt in to the preview so you can access the delete cover photo option as discussed above.   
