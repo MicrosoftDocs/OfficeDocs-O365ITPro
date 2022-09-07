@@ -3,7 +3,7 @@ title: "Overview of security and compliance in Yammer"
 f1.keywords:
 - NOCSH
 ms.author: pamgreen
-author: ToniSFrench
+author: v-jebizie
 manager: pamgreen
 ms.date: 9/23/2019
 audience: Admin
@@ -25,7 +25,7 @@ Yammer Enterprise administrative tools help you protect your Yammer data and com
 
 For information about policies, tools, and best practices for all of Office 365, see [Overview of security and compliance in Office 365](https://support.office.com/article/dcb83b2c-ac66-4ced-925d-50eb9698a0b2).
 
-Yammer Enterprise offers admins security and compliance tools that are not part of the free Yammer Basic. Items marked with an asterisk (\*) are not available in Yammer Basic. The [Security FAQ](security-and-compliance.md#Security) section of this article describes security, privacy, and business continuity features that apply to both Yammer Basic and Yammer Enterprise.
+Yammer Enterprise offers admins security and compliance tools that aren't part of the free Yammer Basic. Items marked with an asterisk (\*) aren't available in Yammer Basic. The [Security FAQ](security-and-compliance.md#Security) section of this article describes security, privacy, and business continuity features that apply to both Yammer Basic and Yammer Enterprise.
 
 ## Security Admin Features
 
@@ -46,7 +46,7 @@ Yammer Enterprise offers admins security and compliance tools that are not part 
 | Task <br/> | How To <br/> |
 |:-----|:-----|
 |Comply with GDPR requirements.  <br/> |[Manage GDPR data subject requests in Yammer Enterprise *](gdpr-requests-in-yammer-enterprise.md) <br/> [Manage GPPR data subject requests in Yammer Basic](gdpr-requests-in-yammer-enterprise.md) <br/> |
-|View compliance reports. Yammer is Tier-C compliant in the Office 365 Compliance Framework, which covers SOC 1, Soc 2, ISO 27001, HIPAA, and EU Model Clauses.  <br/> |[Compliance Framework Documentation for Office 365](/compliance/regulatory/offering-home)\*  <br/> [ISO 27001 Certificate](https://go.microsoft.com/fwlink/?linkid=868132) <br/> [Soc 2 Type 2 Report](https://go.microsoft.com/fwlink/?linkid=868133) <br/> |
+|View compliance reports. Yammer is Tier-C compliant in the Office 365 Compliance Framework, which covers SOC 1, Soc 2, ISO 27001, HIPAA, EU Model Clauses, IRAP, and (SEC) Rule 17a-4(f).  <br/> |[Compliance Framework Documentation for Office 365](/compliance/regulatory/offering-home)\*  <br/> [ISO 27001 Certificate](https://go.microsoft.com/fwlink/?linkid=868132) <br/> [Soc Two Type 2 Report](https://go.microsoft.com/fwlink/?linkid=868133) <br/> |
 |Control data retention policies, and view private messages if needed for discovery purposes.  <br/> |[Manage Yammer data compliance](manage-data-compliance.md) \*  <br/> |
 |Export data to review compliance issues  <br/> |[Export data from Yammer Enterprise](export-yammer-enterprise-data.md) \*  <br/> [Export data from Yammer Basic](export-yammer-basic-data.md) <br/> |
 |Track changes to users, admins, and groups.  <br/> |[Track Yammer Events in the Office 365 Audit log and with the Management Activity API](track-yammer-events.md) \*  <br/> |
@@ -83,17 +83,17 @@ A: Only users with a valid and verified company email address can join your Yamm
 
 ### Q: What endpoints need to be reachable for Yammer users?
 
-A: As of October 22, 2018, all Yammer users need to be able to access *.yammer.com. Do not use a list of IP address ranges to control access to Yammer since these may change and create access problems for users. For information about the October 2018 change, see [Using hard-coded IP addresses for Yammer is not recommended](https://techcommunity.microsoft.com/t5/Yammer-Blog/Using-hard-coded-IP-addresses-for-Yammer-is-not-recommended/ba-p/276592).
+A: As of October 22, 2018, all Yammer users need to be able to access *.yammer.com. Don't use a list of IP address ranges to control access to Yammer since they may change and create access problems for users. For information about the October 2018 change, see [Using hard-coded IP addresses for Yammer isn't recommended](https://techcommunity.microsoft.com/t5/Yammer-Blog/Using-hard-coded-IP-addresses-for-Yammer-is-not-recommended/ba-p/276592).
 
 For complete Office 365 URL and IP address ranges info, see [Office 365 endpoints](/office365/enterprise/office-365-endpoints).
 
 ### Q: Where is the data hosted?
 
-A: Yammer data is hosted in Microsoft managed datacenters. See [Where is your data located](/microsoft-365/enterprise/o365-data-locations) to find the data centers for the country in which your company is located. Yammer is operated out of Microsoft's global network of data centers with 24/7/365 video surveillance, biometric and pin-based locks, strict personnel access controls and detailed visitor entry logs.
+A: Yammer data is hosted in Microsoft managed datacenters. See [Where is your data located](/microsoft-365/enterprise/o365-data-locations) to find the data centers for the country in which your company is located. Yammer operates out of Microsoft's global network of data centers. These centers have 24/7/365 video surveillance, biometric and pin-based locks, strict personnel access controls and detailed visitor-entry logs.
 
 For more information, see [Yammer data residency](data-residency.md).
 
-### Q: What is Yammer's privacy policy? How do you treat my data?
+### Q: What's Yammer's privacy policy? How do you treat my data?
 
 A: Our privacy policy is publicly shared and available here, as part of the: [Microsoft Online Services Privacy Statement](https://go.microsoft.com/fwlink/?LinkID=331314).
 
@@ -109,15 +109,15 @@ A: Only employees with a legitimate business need can access customer data, and 
 ### Q: Is the data encrypted?
 <a name="Encryption"> </a>
 
-A: All data in transit into and out of the production environment is encrypted at all times. Communication with Yammer is over HTTPS (TLS 1.2 supported) regardless of user endpoint (web, desktop app, mobile app, API). In addition to being encrypted in transit, Yammer data is encrypted at rest with AES-256 bit key encryption.
+A: All data in transit into and out of the production environment is always encrypted. Communication with Yammer is over HTTPS (TLS 1.2 supported) regardless of user endpoint (web, desktop app, mobile app, API). In addition to being encrypted in transit, Yammer data is encrypted at rest with AES-256 bit key encryption.
 
-Current versions of the Yammer iOS and Android mobile apps use Apple and Google services for final delivery to end user devices. To ensure confidentiality of information between the Yammer service and the device we use Push Notification Encryption to protect notifications in transit. Encrypted notifications are available for the Yammer iOS mobile app version 7.36.0 or later, and for the Yammer Android mobile app version 5.6.5 or later.
+Current versions of the Yammer iOS and Android mobile apps use Apple and Google services for final delivery to end user devices. To ensure confidentiality of information between the Yammer service and the device we use Push Notification Encryption to protect notifications in transit. Encrypted notifications are available for the Yammer iOS mobile app version 7.36.0 or later. They're also available for the Yammer Android mobile app version 5.6.5 or later.
 
 ### Q: What is Yammer's architecture?
 
 A: Yammer's architecture is driven by the needs of an Enterprise Social Network (ESN). An ESN is successful only if users adopt and engage with the platform. As such, Yammer is architected and developed in a way to support adoption and engagement, allowing rapid iterations of technology.
 
-Yammer is a set of loose components, coupled with APIs. These are developed and released independently using a variety of different best-in-class codes and technologies. Yammer is a public cloud, SaaS, multitenant architecture only. We use a data-driven, rapidly iterating development approach to measure the success of the platform using the key metrics of end-user engagement and adoption.
+Yammer is a set of loose components, coupled with APIs. These are developed and released independently using many different best-in-class codes and technologies. Yammer is a public cloud, SaaS, multitenant architecture only. We use a data-driven, rapidly iterating development approach to measure the success of the platform using the key metrics of end-user engagement and adoption.
 
 ### Q: Who owns the data posted in the Yammer network?
 
@@ -129,7 +129,7 @@ A: It is the data controller's responsibility to comply with the data protection
 
 ### Q: Can we perform an on‐site visit or audit of your facilities?
 
-A: Yammer does not permit customers to perform on‐site audits. With over 200,000 customers, this is not feasible, and it is also a risk to the security of the service. We will answer any security questions openly and transparently.
+A: Yammer doesn't permit customers to perform on‐site audits. With over 200,000 customers, audits aren't feasible. It's also a risk to the security of the service. We'll answer any security questions openly and transparently.
 
 ### Q: Do you conduct third‐party audits or testing?
 
@@ -141,17 +141,17 @@ A: Yammer is a true multi-tenant model. As such, customers' data is logically se
 
 ### Q: What is the difference between the security of an enterprise social network and Facebook?
 
-A: Your Yammer network is private to your company. Only users with a valid and verified email address for your company can join your Yammer network. Yammer was built from the ground up as an Enterprise Social Network with security built‐in at every level and a high degree of control available as well as integration with corporate security systems such as Active Directory and single sign-on.
+A: Your Yammer network is private to your company. Only users with a valid and verified email address for your company can join your Yammer network. Yammer was created as an Enterprise Social Network with security built‐in at every level and a high degree of control available. It includes integration with corporate security systems such as Active Directory and single sign-on.
 
 ### Q: What is the difference between security of Yammer Basic and Yammer Enterprise?
 
-A: The underlying security of both is identical. Yammer Enterprise brings more administrative control and provides the ability to integrate with other systems (e.g. Active Directory, Active Directory Federation Services, SharePoint, Microsoft Dynamics CRM, Salesforce).
+A: The underlying security of both is identical. Yammer Enterprise brings more administrative control. It also provides the ability to integrate with other systems (such as Active Directory, Active Directory Federation Services, SharePoint, Microsoft Dynamics CRM, Salesforce).
 
 For details of the security-related administrative controls available in Yammer Enterprise, see the tables at the beginning of this article.
 
 ### Q: Does Yammer sell our data?
 
-A: No. Yammer does not mine or sell any customer data. All data belongs to the customer (either the user or the organization, dependent on the Yammer version in use).
+A: No. Yammer doesn't mine or sell any customer data. All data belongs to the customer (either the user or the organization, dependent on the Yammer version in use).
 
 ### Q: Can I export all my data?
 
@@ -183,7 +183,7 @@ A: For Yammer Enterprise, if you enforce Office 365 identity in Yammer. For more
 
 A: Yammer is available for major mobile platforms, including the iPhone, iPad, and Android. Users can install the Yammer application from their respective app store.
 
-Yammer Enterprise offers session management capabilities so that a user or administrator can end any Yammer session on any device if required.
+Yammer Enterprise offers session management capabilities so that a user or administrator can end any Yammer session on any device if needed.
 
 Yammer Enterprise devices can be managed with Microsoft Intune. For more information, see [Manage Yammer with Microsoft Intune](manage-yammer-with-intune.md).
 
@@ -193,7 +193,7 @@ A: Only users with a valid and verified company email address can join your Yamm
 
 In a free Yammer Basic network, users can invite their colleagues with the same email address suffix to collaborate. Users can also suspend other users from having access to the Yammer network.
 
-In Yammer Enterprise, administrators can provision and remove users in bulk using a .csv file and also to synchronize with Azure Active Directory to automatically add users who are not already on Yammer and remove users from Yammer if their Active Directory account is disabled or deleted.
+In Yammer Enterprise, administrators can provision and remove users in bulk using a .csv file and also to synchronize with Azure Active Directory to automatically add users who aren't already on Yammer and remove users from Yammer if their Active Directory account is disabled or deleted.
 
 For more information, see [Manage Yammer users across their lifecycle from Office 365](../manage-yammer-users/manage-users-across-their-lifecycle.md) and [Bulk update users by importing a .CSV file](../manage-yammer-users/add-block-or-remove-users.md#BulkUpdateUsers).
 
