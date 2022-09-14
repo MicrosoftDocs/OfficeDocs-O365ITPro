@@ -46,7 +46,7 @@ Yammer Enterprise offers admins security and compliance tools that aren't part o
 | Task <br/> | How To <br/> |
 |:-----|:-----|
 |Comply with GDPR requirements.  <br/> |[Manage GDPR data subject requests in Yammer Enterprise *](gdpr-requests-in-yammer-enterprise.md) <br/> [Manage GPPR data subject requests in Yammer Basic](gdpr-requests-in-yammer-enterprise.md) <br/> |
-|View compliance reports. Yammer is Tier-C compliant in the Office 365 Compliance Framework, which covers SOC 1, Soc 2, ISO 27001, HIPAA, EU Model Clauses, IRAP, and (SEC) Rule 17a-4(f).  <br/> |[Compliance Framework Documentation for Office 365](/compliance/regulatory/offering-home)\*  <br/> [ISO 27001 Certificate](https://go.microsoft.com/fwlink/?linkid=868132) <br/> [Soc Two Type 2 Report](https://go.microsoft.com/fwlink/?linkid=868133) <br/> |
+|View compliance reports. Yammer is Tier-C compliant in the Office 365 Compliance Framework, which covers SOC 1, HIPAA, EU Model Clauses, IRAP, and (SEC) Rule 17a-4(f).  <br/> |[Compliance Framework Documentation for Office 365](/compliance/regulatory/offering-home)\* 
 |Control data retention policies, and view private messages if needed for discovery purposes.  <br/> |[Manage Yammer data compliance](manage-data-compliance.md) \*  <br/> |
 |Export data to review compliance issues  <br/> |[Export data from Yammer Enterprise](export-yammer-enterprise-data.md) \*  <br/> [Export data from Yammer Basic](export-yammer-basic-data.md) <br/> |
 |Track changes to users, admins, and groups.  <br/> |[Track Yammer Events in the Office 365 Audit log and with the Management Activity API](track-yammer-events.md) \*  <br/> |
