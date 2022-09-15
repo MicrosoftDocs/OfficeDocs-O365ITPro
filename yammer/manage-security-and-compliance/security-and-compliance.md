@@ -46,7 +46,7 @@ Yammer Enterprise offers admins security and compliance tools that aren't part o
 | Task <br/> | How To <br/> |
 |:-----|:-----|
 |Comply with GDPR requirements.  <br/> |[Manage GDPR data subject requests in Yammer Enterprise *](gdpr-requests-in-yammer-enterprise.md) <br/> [Manage GPPR data subject requests in Yammer Basic](gdpr-requests-in-yammer-enterprise.md) <br/> |
-|View compliance reports. Yammer is Tier-C compliant in the Office 365 Compliance Framework, which covers SOC 1, Soc 2, ISO 27001, HIPAA, EU Model Clauses, IRAP, and (SEC) Rule 17a-4(f).  <br/> |[Compliance Framework Documentation for Office 365](/compliance/regulatory/offering-home)\*  <br/> [ISO 27001 Certificate](https://go.microsoft.com/fwlink/?linkid=868132) <br/> [Soc Two Type 2 Report](https://go.microsoft.com/fwlink/?linkid=868133) <br/> |
+|View compliance reports. Yammer is Tier-C compliant in the Office 365 Compliance Framework, which covers SOC 1, HIPAA, EU Model Clauses, IRAP, and (SEC) Rule 17a-4(f).  <br/> |[Compliance Framework Documentation for Office 365](/compliance/regulatory/offering-home)\* 
 |Control data retention policies, and view private messages if needed for discovery purposes.  <br/> |[Manage Yammer data compliance](manage-data-compliance.md) \*  <br/> |
 |Export data to review compliance issues  <br/> |[Export data from Yammer Enterprise](export-yammer-enterprise-data.md) \*  <br/> [Export data from Yammer Basic](export-yammer-basic-data.md) <br/> |
 |Track changes to users, admins, and groups.  <br/> |[Track Yammer Events in the Office 365 Audit log and with the Management Activity API](track-yammer-events.md) \*  <br/> |
@@ -125,7 +125,7 @@ A: Data posted into a free Yammer Basic network is owned by the individuals post
 
 ### Q: Do you comply with the data protection act in my country?
 
-A: It is the data controller's responsibility to comply with the data protection legislation that affects them. Yammer has controls in place to facilitate data controllers' (individuals and companies) compliance with their data protection legislation.
+A: It's the data controller's responsibility to comply with the data protection legislation that affects them. Yammer has controls in place to facilitate data controllers' (individuals and companies) compliance with their data protection legislation.
 
 ### Q: Can we perform an on‐site visit or audit of your facilities?
 
@@ -199,4 +199,4 @@ For more information, see [Manage Yammer users across their lifecycle from Offic
 
 ### Q: How can users without email addresses access Yammer?
 
-A: Yammer works with many large organizations where it is important to hear the voice of all workers, including those without email addresses. In this case, Yammer can grant these users access based on a unique identifier.
+A: Yammer works with many large organizations where it's important to hear the voice of all workers, including those without email addresses. In this case, Yammer can grant these users access based on a unique identifier.
