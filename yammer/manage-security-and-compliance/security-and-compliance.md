@@ -125,7 +125,7 @@ A: Data posted into a free Yammer Basic network is owned by the individuals post
 
 ### Q: Do you comply with the data protection act in my country?
 
-A: It is the data controller's responsibility to comply with the data protection legislation that affects them. Yammer has controls in place to facilitate data controllers' (individuals and companies) compliance with their data protection legislation.
+A: It's the data controller's responsibility to comply with the data protection legislation that affects them. Yammer has controls in place to facilitate data controllers' (individuals and companies) compliance with their data protection legislation.
 
 ### Q: Can we perform an on‐site visit or audit of your facilities?
 
@@ -199,4 +199,4 @@ For more information, see [Manage Yammer users across their lifecycle from Offic
 
 ### Q: How can users without email addresses access Yammer?
 
-A: Yammer works with many large organizations where it is important to hear the voice of all workers, including those without email addresses. In this case, Yammer can grant these users access based on a unique identifier.
+A: Yammer works with many large organizations where it's important to hear the voice of all workers, including those without email addresses. In this case, Yammer can grant these users access based on a unique identifier.
