@@ -17,7 +17,7 @@ search.appverid:
 # Introduction 
 Yammer Live Events create connection and engagement between leaders and employees, bringing live video and interactive discussions to a whole new level.
 
-As a part of bringing new Teams experiences into Yammer, we’re delighted to announce the public preview of broadcasting Yammer Live Events over the Teams player instead of using Microsoft Stream. This means that attendees will view newly created Live Events over the Teams Embed Player instead of the Microsoft Stream player. To learn about participating in the Yammer Live Events Convergence Preview, please see the [Preview Terms & Conditions and FAQ](microsoft.sharepoint-df.com/:w:/t/moderatedqainteamspoweredbyyammer/EcuX4_rPu3pCgzqEoUzLm5QBHSKvmsRt4h8_L2PzsXXYeQ?e=Y0DsTy).
+As a part of bringing new Teams experiences into Yammer, we’re delighted to announce the public preview of broadcasting Yammer Live Events over the Teams player instead of using Microsoft Stream. This means that attendees will view newly created Live Events over the Teams Embed Player instead of the Microsoft Stream player. To learn about participating in the Yammer Live Events Convergence Preview, please see the Preview Terms & Conditions and FAQ.
 
 There are two **new** ways in which Yammer Live Events can be produced: 
 1.	**Microsoft Teams QuickStart (new)**: Use Microsoft Teams to produce your live event. This is used for simple live events where all you need are the audio and video devices to the presenter’s computer, or when you are inviting a remote presenter for the event.
@@ -32,7 +32,7 @@ There are two **new** ways in which Yammer Live Events can be produced:
 
 ## Yammer network and group requirements
 * To host a live event in Yammer, your organization must have **Enforce Office 365** identity selected, and you must be using Microsoft 365 connected Yammer groups. For more information see Enforce Office 365 identity for [Yammer users](/yammer/configure-your-yammer-network/enforce-office-365-identity) and [Yammer and Microsoft 365 groups](/yammer/manage-yammer-groups/yammer-and-office-365-groups).
-* The event must be held in either a public Yammer Microsoft 365 connected group, or a private Yammer Microsoft 365 connected group that includes everyone who will be invited to the live event. For more information, see [Create a group in Yammer](support.office.com/article/create-a-group-in-yammer-b407af4f-9a58-4b12-b43e-afbb1b07c889) and [Manage a group in Yammer](support.office.com/article/manage-a-group-in-yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).
+* The event must be held in either a public Yammer Microsoft 365 connected group, or a private Yammer Microsoft 365 connected group that includes everyone who will be invited to the live event. For more information, see [Create a group in Yammer](article/create-a-group-in-yammer-b407af4f-9a58-4b12-b43e-afbb1b07c889.md) and [Manage a group in Yammer](article/manage-a-group-in-yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2.md).
 
 ## Requirements for Live Event Attendees
 *	Everyone who attends a Yammer live event must have a Microsoft 365 or an Office 365 plan that includes a license for Yammer (for example, Office 365 A3, A5, F1, E1, E3, or E5).
