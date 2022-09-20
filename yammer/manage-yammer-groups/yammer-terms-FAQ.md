@@ -14,6 +14,7 @@ search.appverid:
 - MET150
 ---
 
+# Yammer Live Events convergence preview Terms & Conditions and FAQ
 Yammer Live Events create connection and engagement between leaders and employees, bringing live video and interactive discussions to a whole new level.
 
 As a part of bringing new Teams experiences into Yammer, we’re delighted to announce the public preview of broadcasting Yammer Live Events using the Teams player instead of Microsoft Stream. 
