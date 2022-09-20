@@ -9,10 +9,9 @@ f1.keywords:
 - NOCSH
 ms.topic: article
 ms.service: yammer
-ms.localization_priority: medium
+ms.localization_priority: Priority
 search.appverid:
 - MET150
- description: "Learn about Yammer live events preview."
 ---
 
 # Introduction 
@@ -28,11 +27,11 @@ There are two **new** ways in which Yammer Live Events can be produced:
 
 2.	**Microsoft Teams external app or device (new)**: Use this This type of event is typically used for large-scale events such as executive town halls, where a single stream from a media mixer is broadcasted to the audience.
 (a)	This type of event uses Teams to encode the broadcast stream.
-(b)	You need to use an [external encoder (app or device)](https://docs.microsoft.com/en-us/stream/live-encoder-setup) to produce the event.
+(b)	You need to use an [external encoder (app or device)](https://docs.microsoft.com/stream/live-encoder-setup) to produce the event.
 (c) Attendees view the event in Yammer.
 
 ## Yammer network and group requirements
-* To host a live event in Yammer, your organization must have **Enforce Office 365** identity selected, and you must be using Microsoft 365 connected Yammer groups. For more information see Enforce Office 365 identity for [Yammer users](/yammer/configure-your-yammer-network/enforce-office-365-identity) and [Yammer and Microsoft 365 groups](/yammer-and-office-365-groups).
+* To host a live event in Yammer, your organization must have **Enforce Office 365** identity selected, and you must be using Microsoft 365 connected Yammer groups. For more information see Enforce Office 365 identity for [Yammer users](/yammer/configure-your-yammer-network/enforce-office-365-identity) and [Yammer and Microsoft 365 groups](/yammer/manage-yammer-groups/yammer-and-office-365-groups).
 * The event must be held in either a public Yammer Microsoft 365 connected group, or a private Yammer Microsoft 365 connected group that includes everyone who will be invited to the live event. For more information, see [Create a group in Yammer](https://support.office.com/article/create-a-group-in-yammer-b407af4f-9a58-4b12-b43e-afbb1b07c889) and [Manage a group in Yammer](https://support.office.com/article/manage-a-group-in-yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).
 
 ## Requirements for Live Event Attendees
@@ -44,13 +43,14 @@ There are two **new** ways in which Yammer Live Events can be produced:
 Yammer has partnered with Teams to provide the best technology for running your live event. Because of this, creation and production of live events require Teams licenses and specific permissions. These permissions aren't controlled in Yammer settings. The requirements depend on the production methods you plan to use.
 
 *	**Scheduling**:
-*	Only Yammer Community managers can create and schedule a live event in Yammer.
-*	When a live event is scheduled in Yammer, the organizer, any co-producers, and presenters will receive a calendar invite with information about this live event (as a placeholder). This invite is not sent to attendees.
+    *	Only Yammer Community managers can create and schedule a live event in Yammer.
+    
+    *	When a live event is scheduled in Yammer, the organizer, any co-producers, and presenters will receive a calendar invite with information about this live event (as a placeholder). This invite is not sent to attendees.
 
 *	**Producing**:
-  *	**Events produced using an external app or device**: To produce any kind of event in Yammer, you will need to have your Microsoft Teams license enabled. For external app or device events, the person who presents or produces the event must have a Teams license and permission to create live events. By default, only Microsoft Stream administrators have permission to create live events. Use the Stream admin settings to give permission to specific users. For steps to grant or remove permissions in Stream, see [Administration controls for live events in Stream](/stream/live-event-administration).
+    *	**Events produced using an external app or device**: To produce any kind of event in Yammer, you will need to have your Microsoft Teams license enabled. For external app or device events, the person who presents or produces the event must have a Teams license and permission to create live events. By default, only Microsoft Stream administrators have permission to create live events. Use the Stream admin settings to give permission to specific users. For steps to grant or remove permissions in Stream, see [Administration controls for live events in Stream](https://docs.microsoft.com/stream/live-event-administration).
 
-  * **Events produced using Teams**: The person who presents or produces the event must have a Teams license and specific policies set in Teams. For requirements, see [Who can create and schedule live events in Teams](/microsoftteams/teams-live-events/plan-for-teams-live-events#who-can-create-and-schedule-live-events). For steps to set policies, see [Set up live events policies](/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-3-set-up-live-events-policies).
+    * **Events produced using Teams**: The person who presents or produces the event must have a Teams license and specific policies set in Teams. For requirements, see [Who can create and schedule live events in Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#who-can-create-and-schedule-live-events). For steps to set policies, see [Set up live events policies](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-3-set-up-live-events-policies).
 
 ## FAQ
 1.	**How many participants can view a live event at once?** 
