@@ -1,45 +1,42 @@
 ---
- title: "Yammer Live Events convergence preview Terms & Conditions and FAQ"
- description: "Yammer Live Events convergence preview Terms & Conditions and FAQ"
- ms.author: v-jebizie
- author: v-jebizie
- manager: dmillerdyson
- audience: Admin
- f1.keywords:
- - NOCSH
- ms.topic: article
- ms.service: yammer
- ms.localization_priority: Priority
- search.appverid:
- - MET150
- ---
+title: "Yammer Live Events convergence preview Terms & Conditions and FAQ"
+description: "Yammer Live Events convergence preview Terms & Conditions and FAQ"
+ms.author: v-jebizie
+author: v-jebizie
+manager: dmillerdyson
+audience: Admin
+f1.keywords:
+- NOCSH
+ms.topic: article
+ms.service: yammer
+ms.localization_priority: Priority
+search.appverid:
+- MET150
+---
 
-Yammer Live Events convergence preview Terms & Conditions and FAQ
 Yammer Live Events create connection and engagement between leaders and employees, bringing live video and interactive discussions to a whole new level.
 
 As a part of bringing new Teams experiences into Yammer, we’re delighted to announce the public preview of broadcasting Yammer Live Events using the Teams player instead of Microsoft Stream. 
 
 The Videos on Demand (VOD) will be stored in the SharePoint site of the Yammer community and allow for full functionality (post-event AI transcripts, editing transcripts, and full support of M365 information protection policies).
 
-This preview and associated feedback are governed by the Preview terms in the Online Services Terms. Features will change during the preview and certain capabilities might not be at parity with the existing Yammer experience. 
+This preview and associated feedback are governed by the Preview terms in the [Online Services Terms] (/Licensing/product-licensing/products.md). Features will change during the preview and certain capabilities might not be at parity with the existing Yammer experience. 
 
 Note: Only a Microsoft 365 Global Administrator can authorize participation in the preview. 
 
-Resources: 
-•	Preview Sign up form https://forms.office.com/r/DPF6rh00m8 
-•	Preview documentation: Yammer Live Events Convergence Preview Documentation.docx  
-•	Preview validation and feedback https://forms.office.com/r/98mDquqnuc 
-•	Questions?  Post in the Yammer Customer Connection Community or, email YamConvergence@service.microsoft.com 
+**Resources**: 
+* Preview Sign up form https://forms.office.com/r/DPF6rh00m8 
+* Preview documentation: Yammer Live Events Convergence Preview Documentation.docx  
+* Preview validation and feedback https://forms.office.com/r/98mDquqnuc 
+* Questions?  Post in the Yammer Customer Connection Community or, email YamConvergence@service.microsoft.com 
 
-Preview FAQ
+**Preview FAQ**
 1.	What is the Yammer Live Events Convergence Preview?
 This preview enables event organizers to produce and broadcast their Yammer Live Events in their community using the new Teams player. Attendees will watch the newly produced Live Events videos in their Yammer community on the Teams player instead of Microsoft Stream.
 
 2.	What are the new options for producing Yammer Live Events?
 Live Event producers can produce their events using the new Teams QuickStart or Teams External app or device options. These options are listed above the legacy Stream options to produce the event. 
  
-New Yammer Live Events options 
-
 3.	Where are the videos stored once they are produced?
 The Video-on-Demand is stored in the SharePoint Community where the event was hosted is automatically shared with members of the private community, or with everyone across the Yammer network if the event was produced in a public community. 
 
@@ -54,7 +51,7 @@ We’d love all your feedback! Specifically, please test and provide feedback on
 1.	Produce an event using the new Teams QuickStart and/or External App or Device
 2.	Watching a Live Event (Live) and on demand as an attendee on Yammer
 
-Please validate and provide feedback here.
+Please validate and provide feedback [here](https://forms.office.com/r/98mDquqnuc).
 
 7.	Can I preview in a test tenant? 
 Yes, please have the Microsoft 365 Global Administrator for the test tenant complete the Preview Sign up form. Once the preview is enabled you will be informed via email.
