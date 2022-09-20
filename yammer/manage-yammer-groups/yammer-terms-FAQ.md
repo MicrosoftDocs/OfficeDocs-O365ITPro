@@ -42,41 +42,39 @@ Live Event producers can produce their events using the new Teams QuickStart or 
 The Video-on-Demand is stored in the SharePoint Community where the event was hosted is automatically shared with members of the private community, or with everyone across the Yammer network if the event was produced in a public community. 
 
 4.	Can Event Producers edit videos?
-Yes, the videos can be edited in SharePoint. The edited video in SharePoint is automatically updated for attendees to watch. Please note that it could take 10 minutes before producers can edit their videos after the event is completed.  
+Yes, the videos can be edited in SharePoint. The edited video in SharePoint is automatically updated for attendees to watch. Note that it could take 10 minutes before producers can edit their videos after the event is completed.  
 
 5.	What happens to the old live events videos that were broadcast via Microsoft Stream?
 Live Events videos created using Stream will continue to function – attendees can continue to watch those videos on demand broadcasted on Microsoft Stream. We will announce a process to migrate the Stream videos to SharePoint in the future.
 
 6.	What should I test and provide feedback on? 
-We’d love all your feedback! Specifically, please test and provide feedback on the following:
-1.	Produce an event using the new Teams QuickStart and/or External App or Device
-2.	Watching a Live Event (Live) and on demand as an attendee on Yammer
+We’d love all your feedback! Specifically, test and provide feedback on the following:
+(1).   Produce an event using the new Teams QuickStart and/or External App or Device.
+(2).   Watching a Live Event (Live) and on demand as an attendee on Yammer.
 
-Please validate and provide feedback [here](https://forms.office.com/r/98mDquqnuc).
+You can validate and provide feedback [here](https://forms.office.com/r/98mDquqnuc).
 
 7.	Can I preview in a test tenant? 
-Yes, please have the Microsoft 365 Global Administrator for the test tenant complete the Preview Sign up form. Once the preview is enabled you will be informed via email.
+Yes, have the Microsoft 365 Global Administrator for the test tenant complete the Preview Sign up form. Once the preview is enabled you will be informed via email.
 
 8.	How does the preview get enabled? 
-Please have your Microsoft 365 Global Administrator complete the Preview Sign up form. 
+Have your Microsoft 365 Global Administrator complete the Preview Sign up form. 
 
 9.	How do I provide feedback? 
-Thank you for providing your feedback! Please provide feedback through this survey or by emailing YamConvergence@service.microsoft.com 
+Thank you for providing your feedback! Provide feedback through this survey or by emailing YamConvergence@service.microsoft.com .
 
 10.	Does the Service Level Agreement apply in the Live Events Convergence preview? 
-The SLA for Microsoft Online Services does not apply to this preview.
+The SLA for Microsoft Online Services doesn't apply to this preview.
  
 11.	Can I open a Support case to investigate an issue with the Live Events Convergence preview? 
-No, we’re not offering break/fix support through Microsoft’s Support Channels during this preview. Please do not open Support Cases for issues related to the Live Events Convergence experience during the preview timeframe. Live Events Convergence is unsupported. During the preview, if any issues arise, we request that you report the issue on this conversation or email YamConvergence@service.microsoft.com. Please note that any existing support for Yammer Live Events (based on Stream) is not impacted by this preview. 
+No, we’re not offering break/fix support through Microsoft’s Support Channels during this preview. Don't open Support Cases for issues related to the Live Events Convergence experience during the preview timeframe. Live Events Convergence is unsupported. During the preview, if any issues arise, we request that you report the issue on this conversation or email YamConvergence@service.microsoft.com. Note that any existing support for Yammer Live Events (based on Stream) isn't impacted by this preview. 
 
 12.	Can I opt out of the preview? 
-Yes, you can opt out of the preview after electing to be a part of the preview. Please have your Microsoft 365 Global Administrator email YamConvergence@service.microsoft.com to ask your tenant to be removed from the preview.
+Yes, you can opt out of the preview after electing to be a part of the preview. Have your Microsoft 365 Global Administrator email YamConvergence@service.microsoft.com to ask your tenant to be removed from the preview.
 
 13.	When is Live Events Convergence becoming Generally Available? 
-Roll out for General Availability (GA) is planned for Q4 2022. Please note that this date is subject to change. Once GA, the feature will be turned on for all Yammer networks – you don’t need to do anything to turn on the feature. 
+Roll out for General Availability (GA) is planned for Q4 2022. Note that this date is subject to change. Once GA, the feature will be turned on for all Yammer networks – you don’t need to do anything to turn on the feature. 
 
 14.	Are there any limitations in the preview?
-a.	As this is a new feature on Yammer that depends on Teams, your tenant must also be set up for the Teams Public Preview. Sign up here for the Teams Public Preview. 
-b.	If you don’t see the Live Event video in the SharePoint Community where the event was produced, and it’s been 24 hours after your event has completed, please email YamConvergence@service.microsoft.com 
-
-
+(a).   As this is a new feature on Yammer that depends on Teams, your tenant must also be set up for the Teams Public Preview. Sign up here for the Teams Public Preview. 
+(b).   If you don’t see the Live Event video in the SharePoint Community where the event was produced, and it’s been 24 hours after your event has completed, email YamConvergence@service.microsoft.com 
