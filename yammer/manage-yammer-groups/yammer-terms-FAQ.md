@@ -42,7 +42,7 @@ This preview enables event organizers to produce and broadcast their Yammer Live
 
 Live Event producers can produce their events using the new Teams QuickStart or Teams External app or device options. These options are listed above the legacy Stream options to produce the event. 
 
-![New Yammer Live Events options](media/new-yammer-live-events-options.png) 
+![New Yammer Live Events options](/media/new-yammer-live-events-options.png) 
 
 *New Yammer Live Events options*
  
@@ -62,9 +62,9 @@ Live Events videos created using Stream will continue to function – attendees 
 
 We’d love all your feedback! Specifically, test and provide feedback on the following:
 
-1.   Produce an event using the new Teams QuickStart and/or External App or Device.
+  1.   Produce an event using the new Teams QuickStart and/or External App or Device.
 
-2.   Watching a Live Event (Live) and on demand as an attendee on Yammer.
+  2.   Watching a Live Event (Live) and on demand as an attendee on Yammer.
 
 You can validate and provide feedback [here](https://forms.office.com/r/98mDquqnuc).
 
@@ -98,6 +98,6 @@ Roll out for General Availability (GA) is planned for Q4 2022. Note that this da
 
 **14.	Are there any limitations in the preview?**
 
-a.   As this is a new feature on Yammer that depends on Teams, your tenant must also be set up for the Teams Public Preview. Sign up [here for the Teams Public Preview](/MicrosoftTeams/public-preview-doc-updates).
+      a.   As this is a new feature on Yammer that depends on Teams, your tenant must also be set up for the Teams Public Preview. Sign up [here for the Teams Public Preview](/MicrosoftTeams/public-preview-doc-updates).
 
-b.   If you don’t see the Live Event video in the SharePoint Community where the event was produced, and it’s been 24 hours after your event has completed, email [YamConvergence@service.microsoft.com](mailto:YamConvergence@service.microsoft.com). 
+      b.   If you don’t see the Live Event video in the SharePoint Community where the event was produced, and it’s been 24 hours after your event has completed, email [YamConvergence@service.microsoft.com](mailto:YamConvergence@service.microsoft.com). 
