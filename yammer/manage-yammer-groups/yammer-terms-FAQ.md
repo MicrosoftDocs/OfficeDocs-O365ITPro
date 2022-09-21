@@ -94,6 +94,6 @@ Roll out for General Availability (GA) is planned for Q4 2022. Note that this da
 
 **14.	Are there any limitations in the preview?**
 
-(a).   As this is a new feature on Yammer that depends on Teams, your tenant must also be set up for the Teams Public Preview. Sign up [here for the Teams Public Preview](http://learn.microsoft.com/MicrosoftTeams/public-preview-doc-updates).
+(a).   As this is a new feature on Yammer that depends on Teams, your tenant must also be set up for the Teams Public Preview. Sign up [here for the Teams Public Preview](https://learn.microsoft.com/MicrosoftTeams/public-preview-doc-updates).
 
 (b).   If you don’t see the Live Event video in the SharePoint Community where the event was produced, and it’s been 24 hours after your event has completed, email [YamConvergence@service.microsoft.com](mailto:YamConvergence@service.microsoft.com). 
