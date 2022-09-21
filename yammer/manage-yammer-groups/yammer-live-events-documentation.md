@@ -55,6 +55,10 @@ For more information see Enforce Office 365 identity for [Yammer users](/yammer/
 *	Everyone who attends a Yammer live event must have a Microsoft 365 or an Office 365 plan that includes a license for Yammer (for example, Office 365 A3, A5, F1, E1, E3, or E5).
 *	Only members of your Yammer network can attend live events. Guests and external users do not have access to live events.
 *	To attend a live event in Teams, a Teams license is required.
+
+ ![The Microsoft Employee Townhall Yammer Live Events](/media/MicrosoftEmployeeTownhall.png) 
+
+*The Microsoft Employee Townhall Yammer Live Events*  
  
 ## Permissions for scheduling, creating, and producing live events in Yammer
 Yammer has partnered with Teams to provide the best technology for running your live event. Because of this, creation and production of live events require Teams licenses and specific permissions. These permissions aren't controlled in Yammer settings. The requirements depend on the production methods you plan to use.
