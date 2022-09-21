@@ -56,7 +56,7 @@ For more information see Enforce Office 365 identity for [Yammer users](/yammer/
 *	Only members of your Yammer network can attend live events. Guests and external users do not have access to live events.
 *	To attend a live event in Teams, a Teams license is required.
 
- ![The Microsoft Employee Townhall Yammer Live Events](/media/MicrosoftEmployeeTownhall.png) 
+ ![The Microsoft Employee Townhall Yammer Live Events](/media/microsoft-employee-townhall.png) 
 
 *The Microsoft Employee Townhall Yammer Live Events*  
  
