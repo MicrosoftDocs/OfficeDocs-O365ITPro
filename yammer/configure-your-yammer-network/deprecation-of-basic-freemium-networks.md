@@ -25,7 +25,7 @@ We will be deprecating Yammer Basic/Freemium networks by the end of 2022 for smo
 
 **A.**  If your organization has an Office 365 or Microsoft 365 license, enterprise Yammer is included. See [Add Yammer basic domains to your Office 365 tenant](/yammer/configure-your-yammer-network/add-basic-domains-to-office-365).
 
-If your organization doesn't have a license, [subscriptions are available](/microsoft-365/compare-microsoft-365-enterprise-plans.md) starting at $8 per user per month.
+If your organization doesn't have a license, [subscriptions are available](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans?rtc=1) starting at $8 per user per month.
 
 **Q. My organization has an enterprise Yammer network, but we have users from Freemium networks collaborating with us. Can they still join our network as guests after it's discontinued?**
 
@@ -41,7 +41,7 @@ If your organization doesn't have a license, [subscriptions are available](/micr
 
 **Q. We are a nonprofit organization that relies on a free version of Yammer. What can we do?**
 
-**A.**  Microsoft offers special pricing for legally registered nonprofit organizations around the world. Learn more about eligibility [here](/nonprofits/eligibility.md).
+**A.**  Microsoft offers special pricing for legally registered nonprofit organizations around the world. Learn more about eligibility [here](https://microsoft.com/nonprofits/eligibility).
 
 **Q. What if we just want to export our data from the basic network?**
 
