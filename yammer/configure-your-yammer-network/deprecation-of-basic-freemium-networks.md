@@ -3,9 +3,9 @@ title: "Deprecation of Basic/Freemium Networks"
 f1.keywords:
 - NOCSH
 ms.author: pamgreen
-author: natjeremy
+author: v-jebizie
 manager: pamgreen
-ms.date: 04/19/2022
+ms.date: 09/22/2022
 audience: Admin
 ms.topic: article
 ms.service: yammer
@@ -14,28 +14,40 @@ ms.custom: Adm_Yammer
 search.appverid: 
 - MOE150
 - MET150
-description: "Learn what to do now that we are deprecating Yammer Basic/Freemium networks."
+description: "We will be deprecating Yammer Basic/Freemium networks by the end of 2022 for smoother integration and bringing exciting new functionality to our customers."
 ---
 
-# Deprecation of Basic/Freemium Networks
-
+# Deprecation of Basic/Fremium Networks
 
 We will be deprecating Yammer Basic/Freemium networks by the end of 2022 for smoother integration and bringing exciting new functionality to our customers.
 
-### Q. We still want a Yammer network. What can we do?
+**Q. We still want a Yammer network. What can we do?**
 
-**A.** If your organization has an Office 365 or Microsoft 365 license, enterprise Yammer is included, see [Add Yammer basic domains to your Office 365 tenant](../configure-your-yammer-network/add-basic-domains-to-office-365.md).
+**A.**  If your organization has an Office 365 or Microsoft 365 license, enterprise Yammer is included. See [Add Yammer basic domains to your Office 365 tenant](/yammer/configure-your-yammer-network/add-basic-domains-to-office-365).
 
-If your organization doesn't have a license, [subscriptions  are available](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) starting at $8 per user per month.
+If your organization doesn't have a license, [subscriptions are available](
+https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans?rtc=1) starting at $8 per user per month.
 
-### Q. My organization has an enterprise Yammer network, but we have users from Freemium networks collaborating with us. Can they still join our network as guests after it’s discontinued?
+**Q. My organization has an enterprise Yammer network, but we have users from Freemium networks collaborating with us. Can they still join our network as guests after it's discontinued?**
 
-**A.** Not unless they upgrade their license too. If you’re based in the US, you can invite them to collaborate with you through an [external network](../work-with-external-users/create-and-manage-an-external-network.md).
+**A.**  Not unless they upgrade their license too. If you're based in the US, you can invite them to collaborate with you through an [external network](/yammer/work-with-external-users/create-and-manage-an-external-network).
 
-### Q. What if we want to keep all our data from the old network and move it to the new network?
+**Q. What if we want to keep all our data from the old network and move it to the new network?**
 
-**A.** Contact [YammerBasicDeprecation@service.microsoft.com](mailto:YammerBasicDeprecation@service.microsoft.com) as soon as possible to discuss options. We want to make this transition as simple as possible for you.
+**A.**  Data migration isn't a service provided by Microsoft. You can [engage a partner](https://go.microsoft.com/fwlink/p/?LinkID=862345&clcid=0x409&culture=en-us&country=US) for data migration service from your basic network to your new enterprise network.
 
-### Q. What is the latest date we can upgrade and maintain access to our Basic/Freemium network data?
+**Q. I don't have an enterprise network provisioned yet. Can I just add my basic network domain to Office 365/Microsoft 365? Will that allow me to upgrade in place?**
 
-**A.** You will lose access to your old network on or before December 1, 2022. Data will be deleted 30 days after loss of access. It is critical that your organization make the decision whether to upgrade your network and migrate your data, and contact the deprecation team at  [YammerBasicDeprecation@service.microsoft.com](mailto:YammerBasicDeprecation@service.microsoft.com), prior to June 30, 2022 because additional support is required for organizations located outside of the US.
+**A.**   **NO.** Adding your basic network domain to Office 365/Microsoft 365 will delete the contents of your basic network. Export your basic network data first.
+
+**Q. We are a nonprofit organization that relies on a free version of Yammer. What can we do?**
+
+**A.**  Microsoft offers special pricing for legally registered nonprofit organizations around the world. Learn more about eligibility [here](https://www.microsoft.com/nonprofits/eligibility?activetab=pivot1%3aprimaryr4).
+
+**Q. What if we just want to export our data from the basic network?**
+
+**A.**  Please contact support to receive temporary administrator role access to your basic network in order to perform a full export of the network data.
+
+**Q. What is the latest date we can upgrade and maintain access to our Basic/Freemium network data?**
+
+**A.**  You will lose access to your old network on or before December 1, 2022. Data will be deleted 30 days after loss of access.
