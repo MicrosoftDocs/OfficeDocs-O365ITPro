@@ -24,6 +24,8 @@ description: Learn about the Kaizala app and how to send secure instant messages
 
 # Welcome to Microsoft Kaizala
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 Microsoft Kaizala is a simple and secure mobile messaging app for large group communications and work management. It lets people easily communicate across and within organizations. Kaizala makes it easy to connect with colleagues, vendors, distributors, partners, and customers using a simple chat interface.
 
 Kaizala lets you send instant messages, Kaizala Actions, and invoices. It also lets you easily schedule work, provide training materials, and send attachments like pictures, documents, videos, audio files, and more. Kaizala enables instant feedback from others about anything you want. With Kaizala Actions, you can send out polls and surveys to thousands of people. Everyone’s responses are automatically aggregated and presented in a readable report.

@@ -23,6 +23,8 @@ description: Learn how to create large groups and add users to them in Kaizala.
 
 # Create large groups for discussions
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 Use Kaizala to create groups that reflect how your organization works. For example, Contoso Corp could have several groups, such as Contoso – All Employees, Contoso - Finance, Contoso – Sales, Contoso - Sales (East), and so on.
 
 Use the Kaizala management portal to manage your groups centrally, and to add or manage users in bulk (even in thousands) while retaining complete control over chat data. 

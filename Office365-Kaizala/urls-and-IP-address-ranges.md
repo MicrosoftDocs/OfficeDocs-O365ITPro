@@ -23,6 +23,8 @@ description: Learn how to configure URLs and IP address ranges for connectivity 
 
 # URLs and address ranges for Kaizala
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 Microsoft Kaizala requires connectivity to the internet. Organizations, if required by firewall protections, must allow certain IP addresses and URLs to enable their users to access the Kaizala app and its services.
 
 > [!NOTE]

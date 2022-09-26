@@ -23,6 +23,8 @@ description: Learn how to use the Analytics dashboard to view reports and teleme
 
 # Adoption and activity reports in Kaizala
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 ## Adoption reports
 
 Adoption reports help the admins drive app installation among their group member and organization members by providing actionable insights about installations. Global admins can view details for all members that are part of organization while group admins can view details of the groups of which they are an admin. 

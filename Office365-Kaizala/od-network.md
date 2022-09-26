@@ -23,6 +23,8 @@ description: Learn how to classify users in organization directory categories.
 
 # Organization directory network 
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 Organization directory is classified into two networks: *Employee* and *Others*. Microsoft Kaizala enables organizations to classify their users as employees. Unclassified users are part of Others.
 
 ## View all users in a network
