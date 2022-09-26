@@ -23,6 +23,8 @@ description: Learn how to create custom actions with Kaizala.
 
 # Create your own Kaizala Actions
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 You can design a custom Kaizala Action through the Action Designer interface within the Kaizala management portal. This can be done by building on the out-of-the-box Survey Action.
 
 Here’s how to quickly get your workforce ready to create custom Kaizala Actions.

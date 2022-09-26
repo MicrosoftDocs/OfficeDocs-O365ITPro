@@ -23,6 +23,8 @@ description: Learn how to enable group policies in Kaizala.
 
 # Kaizala group policies
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 Policies enable the admins to make groups more secure. Policies can be applied based on an organization's scenarios and needs.
 
 To change group policies, select a group, select the icon near the group name, and then select **Edit policies**.

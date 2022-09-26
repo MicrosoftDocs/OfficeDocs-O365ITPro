@@ -23,6 +23,8 @@ description: Learn how to enable and disable Azure Active Directory (Azure AD) a
 
 # Azure Active Directory sync with the Kaizala Directory
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 The Azure Active Directory (Azure AD) sync feature lets you sync user information in Azure AD with the Kaizala Directory, which serves as your organization directory. As an admin, you can import data and sync changes occurring in the Azure AD. You can use this feature for:
 
 - **User management** - Any user changes in Azure AD are automatically synced with the organization directory and associated groups. For example, if a user’s job title is changed in Azure AD, the information will be updated in the organization directory. Similarly, if a user is deleted from the organization’s Azure AD, the user is automatically removed from the organization group.

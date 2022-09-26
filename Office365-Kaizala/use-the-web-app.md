@@ -23,6 +23,8 @@ description: Learn how to use Kaizala Web to access Kaizala from a browser windo
 
 # Kaizala Web
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 Kaizala Web lets you access Kaizala through a browser on your computer. It gives you many of the same features as the Kaizala app. Before you can use Kaizala Web, you need to log in to the Kaizala app on your mobile device.
   
 For more info about Kaizala, see [Microsoft Kaizala](https://products.office.com/en/business/microsoft-kaizala).

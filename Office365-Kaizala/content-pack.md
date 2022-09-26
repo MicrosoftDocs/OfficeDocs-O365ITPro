@@ -22,6 +22,8 @@ description: Learn how to use the Kaizala content pack within Power BI to gain i
 
 # Kaizala content pack
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 Use the Kaizala content pack within Power BI to gain insights on how your organization is using Kaizala. You can visualize and analyze Kaizala usage data, create custom reports, and share the insights within your organization. Once the content pack is published, it'll be available through AppSource, and can then be imported through Power BI.
   
 - Visualize data exactly how you want to.
