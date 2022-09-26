@@ -23,6 +23,8 @@ description: Learn how to use Kaizala Actions to get work done within a conversa
 
 # Kaizala Actions
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 Actions help people get work done through a conversation in Kaizala. Some Actions – like Jobs, Surveys, and Polls – are ready out-of-the-box with pre-defined settings. Once you publish an Action, people can find it in the Kaizala app and use it in a conversation from the Action Palette.
 
 You can create new Kaizala Actions through the Action Designer, found in the [Kaizala management portal](https://manage.kaiza.la).

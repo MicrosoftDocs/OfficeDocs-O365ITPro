@@ -23,6 +23,8 @@ description: Learn how to send instant messages, pictures, and documents to grou
 
 # Kaizala groups
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 You can create Kaizala groups from the mobile app and the management portal. You can add members to groups one at a time, or through a bulk upload. Keep in mind, bulk uploads are only possible through the Kaizala management portal.
   
 For information about how to add users to Kaizala groups, see [Kaizala users](users.md). 

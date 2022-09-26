@@ -22,6 +22,8 @@ description: Learn how to send secure instant messages, Kaizala Actions, attachm
 
 # Kaizala management portal
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 The best way to launch and scale Kaizala is through the management portal.
 
 The Kaizala management portal is a web-based entry point that provides management, reporting, and extensibility capabilities for Kaizala. It lets you create new groups, add users, and view ready-to-use reports. With the Kaizala management portal, your organization can quickly onboard thousands or even millions of people to Kaizala, including employees, partners, vendors, and customers. The only thing each person needs is a unique phone number.
