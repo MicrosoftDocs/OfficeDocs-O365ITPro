@@ -22,6 +22,8 @@ description: Learn how to export users' organizational data from the Kaizala man
 
 # Export or delete a user's organizational data in Kaizala
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 When users in your organization use Kaizala, consumer data is generated. Organizational data may also be generated if the user participates in an enterprise group established by the organization. Admins can export a user's organizational data from the Kaizala management portal. Kaizala users can export their private data from the Kaizala mobile app. Check out [Export or delete your data in the Kaizala mobile app](export-or-delete-your-data.md) for more info. 
   
 ## How admins can export organizational data
