@@ -40,8 +40,6 @@ There are two **new** ways in which Yammer Live Events can be produced:
      
        c.   Attendees view the event in Yammer.
 
-
- *New Yammer Live Events options*
  
  ## Yammer network and group requirements
 
