@@ -1,5 +1,5 @@
 ---
-title: "Yammer Live Events convergence preview Terms & Conditions and FAQ"
+title: "Yammer Encoded Events powered by Microsoft Teams Public Preview Terms & Conditions and FAQ"
 description: "Yammer Live Events convergence preview Terms & Conditions and FAQ"
 ms.author: v-jebizie
 author: v-jebizie
@@ -14,7 +14,8 @@ search.appverid:
 - MET150
 ---
 
-# Yammer Live Events convergence preview Terms & Conditions and FAQ
+# Yammer Encoded Events powered by Microsoft Teams Public Preview Terms & Conditions and FAQ 
+
 Yammer Live Events create connection and engagement between leaders and employees, bringing live video and interactive discussions to a whole new level.
 
 As a part of bringing new Teams experiences into Yammer, we’re delighted to announce the public preview of broadcasting Yammer Live Events using the Teams player instead of Microsoft Stream. 
@@ -27,24 +28,20 @@ This preview and associated feedback are governed by the Preview terms in the [O
 > Only a Microsoft 365 Global Administrator can authorize participation in the preview. 
 
 **Resources**: 
-* Preview Sign up form https://forms.office.com/r/DPF6rh00m8 
+* Preview Sign up [form](https://forms.office.com/r/DPF6rh00m8) 
 * Preview documentation: [Yammer Live Events Convergence Preview Documentation](/yammer/manage-yammer-groups/yammer-live-events-documentation)
-* Preview validation and feedback https://forms.office.com/r/98mDquqnuc 
-* Questions?  Post in the Yammer Customer Connection Community or, email [YamConvergence@service.microsoft.com](mailto:YamConvergence@service.microsoft.com) 
+* Preview validation and feedback [form](https://forms.office.com/r/98mDquqnuc) 
+* Questions?  Email [YamConvergence@service.microsoft.com](mailto:YamConvergence@service.microsoft.com) 
 
 **Preview FAQ**
 
-**1.	What is the Yammer Live Events Convergence Preview?**
+**1.	What is this preview?**
 
 This preview enables event organizers to produce and broadcast their Yammer Live Events in their community using the new Teams player. Attendees will watch the newly produced Live Events videos in their Yammer community on the Teams player instead of Microsoft Stream.
 
 **2.	What are the new options for producing Yammer Live Events?**
 
 Live Event producers can produce their events using the new Teams QuickStart or Teams External app or device options. These options are listed above the legacy Stream options to produce the event. 
-
-![New Yammer Live Events options](/media/new-yammer-live-events-options.png) 
-
-*New Yammer Live Events options*
  
 **3.	Where are the videos stored once they are produced?**
 
