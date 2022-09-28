@@ -1,5 +1,5 @@
 ---
-title: "Yammer Live Events Convergence Preview Documentation"
+title: "Yammer Encoded Events powered by Microsoft Teams Public Preview Documentation"
 description: "Yammer Live Events Convergence Preview Documentation"
 ms.author: v-jebizie
 author: v-jebizie
@@ -14,12 +14,14 @@ search.appverid:
 - MET150
 ---
 
-# Yammer Live Events Convergence Preview Documentation
+# Yammer Encoded Events powered by Microsoft Teams Public Preview Documentation
 
 ## Introduction 
 Yammer Live Events create connection and engagement between leaders and employees, bringing live video and interactive discussions to a whole new level.
 
-As a part of bringing new Teams experiences into Yammer, we’re delighted to announce the public preview of broadcasting Yammer Live Events over the Teams player instead of using Microsoft Stream. This means that attendees will view newly created Live Events over the Teams Embed Player instead of the Microsoft Stream player. To learn about participating in the Yammer Live Events Convergence Preview, please see the [Preview Terms & Conditions and FAQ](/yammer/manage-yammer-groups/yammer-terms-FAQ).
+As a part of bringing new Teams experiences into Yammer, we’re delighted to announce the public preview of broadcasting Yammer Live Events over the Teams player instead of using Microsoft Stream. This means that attendees will view newly created Live Events over the Teams Embed Player instead of the Microsoft Stream player. 
+
+To learn about participating in the Yammer Live Events Convergence Preview, please see the [Preview Terms & Conditions and FAQ](/yammer/manage-yammer-groups/yammer-terms-FAQ).
 
 There are two **new** ways in which Yammer Live Events can be produced: 
 1.	**Microsoft Teams QuickStart (new)**: Use Microsoft Teams to produce your live event. This is used for simple live events where all you need are the audio and video devices to the presenter’s computer, or when you are inviting a remote presenter for the event.
@@ -39,8 +41,6 @@ There are two **new** ways in which Yammer Live Events can be produced:
        c.   Attendees view the event in Yammer.
 
 
- ![New Yammer Live Events options](/media/new-yammer-live-events-options.png) 
-
  *New Yammer Live Events options*
  
  ## Yammer network and group requirements
@@ -56,7 +56,6 @@ For more information see Enforce Office 365 identity for [Yammer users](/yammer/
 *	Only members of your Yammer network can attend live events. Guests and external users do not have access to live events.
 *	To attend a live event in Teams, a Teams license is required.
 
- ![The Microsoft Employee Townhall Yammer Live Events](/media/microsoft-employee-townhall.png) 
 
 *The Microsoft Employee Townhall Yammer Live Events*  
  
@@ -90,4 +89,4 @@ The Video-on-Demand is stored in the SharePoint Community where the event was ho
 Yes, the videos can be edited in SharePoint. The edited video in SharePoint is automatically 	updated for attendees to watch. Please note that it could take 10 minutes before producers can 	edit their videos after the event is completed. 
 
 6.	**What happens to the old live events videos that were broadcast via Microsoft Stream?**
-Live Events videos created using Stream will continue to function – attendees can continue to watch those videos on demand broadcasted on Microsoft Stream. We will announce a process to migrate the Stream videos to SharePoint in the future.
+Live Events videos created using Stream will continue to function – attendees can continue to watch those videos on demand broadcasted on Microsoft Stream. Please see this [article](/stream/streamnew/stream-classic-to-new-migration-overview) for information on migrating your videos from Stream to SharePoint.
