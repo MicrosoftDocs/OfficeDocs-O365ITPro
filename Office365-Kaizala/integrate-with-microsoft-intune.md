@@ -22,6 +22,8 @@ description: Learn how to protect your organization's Kaizala data by using Micr
 
 # Kaizala integration with Microsoft Intune
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 Microsoft Intune has now been integrated into Kaizala. You can now use it to protect your organization's Kaizala data. With Intune, you can:
   
 - Manage the mobile devices your workforce uses, to access organization data.

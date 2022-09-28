@@ -23,6 +23,8 @@ description: Learn how to Migrate Kaizala Pro subscriptions to Microsoft365 or O
 
 # Migrate Kaizala Pro subscriptions to Microsoft365 or Office 365 versions
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 Effective July 1, 2020, Microsoft is ending sales of the Kaizala Pro standalone service. You will no longer be able to purchase new Kaizala Pro subscriptions after this date, and existing Kaizala Pro subscriptions will not renew automatically when they expire.
 
 Kaizala and Teams will continue to be accessible as part of the Microsoft365 and Office365 plans listed below. If you have one of the licenses listed below, you will still be able to access the Kaizala service through these licenses. Otherwise, to continue accessing the Kaizala service, click on the links below to learn more about these Microsoft 365 and Office 365 solutions.

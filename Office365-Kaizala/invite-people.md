@@ -23,6 +23,8 @@ description: Learn how to invite people to install Kaizala.
 
 # Invite people to install Kaizala
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 Now that the company phone directory book has been formed in Kaizala, it’s time to invite everyone to install Kaizala. There are multiple ways to invite people in your organization to install Kaizala. 
 
 ## Step 1 – Send SMS invitations to install Kaizala

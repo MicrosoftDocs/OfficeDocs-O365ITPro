@@ -14,6 +14,7 @@ ms.custom: Adm_Yammer
 ms.collection:
 - m365solution-spcomms
 - m365solution-scenario
+- highpri
 search.appverid:
 - MET150
 - MOP150

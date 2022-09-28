@@ -22,6 +22,8 @@ description: Learn how to use Kaizala connectors to integrate your organization'
 
 # Kaizala Connectors
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 Kaizala Connector allows developers to integrate an organization's systems and processes with Kaizala using REST based APIs. For example, you can:
   
 - automate group creation

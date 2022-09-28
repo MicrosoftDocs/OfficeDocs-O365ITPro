@@ -22,6 +22,8 @@ description: Learn how Kaizala Text Translation feature works.
 
 # Kaizala Text Translation
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 Kaizala now enables you to translate any text message into the language of your preference as well as lets you send a text message in your preferred language without worrying about receivers’ chosen language.
 
 Microsoft Kaizala introduces inline text translation feature where you can communicate seamlessly in any language. This feature supports over 60+ languages and you can find the list below and this is available in both Android and iOS.
