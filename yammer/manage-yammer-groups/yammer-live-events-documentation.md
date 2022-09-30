@@ -36,7 +36,7 @@ There are two **new** ways in which Yammer Live Events can be produced:
 
        a.   This type of event uses Teams to encode the broadcast stream.
      
-       b.  You need to use an [external encoder (app or device)](/stream/live-encoder-setup) to  produce the event.
+       b.  You need to use an [external encoder (app or device)](https://go.microsoft.com/fwlink/?linkid=2203724) to  produce the event.
      
        c.   Attendees view the event in Yammer.
 
