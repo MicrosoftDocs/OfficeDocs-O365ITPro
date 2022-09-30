@@ -21,7 +21,7 @@ Yammer Live Events create connection and engagement between leaders and employee
 
 As a part of bringing new Teams experiences into Yammer, we’re delighted to announce the public preview of broadcasting Yammer Live Events over the Teams player instead of using Microsoft Stream. This means that attendees will view newly created Live Events over the Teams Embed Player instead of the Microsoft Stream player. 
 
-To learn about participating in the Yammer Live Events Convergence Preview, please see the [Preview Terms & Conditions and FAQ](/yammer/manage-yammer-groups/yammer-terms-FAQ).
+To learn about participating in the Yammer Live Events Convergence Preview, please see the [Preview Terms & Conditions and FAQ](/yammer/manage-yammer-groups/yammer-terms-faq).
 
 There are two **new** ways in which Yammer Live Events can be produced: 
 1.	**Microsoft Teams QuickStart (new)**: Use Microsoft Teams to produce your live event. This is used for simple live events where all you need are the audio and video devices to the presenter’s computer, or when you are inviting a remote presenter for the event.
