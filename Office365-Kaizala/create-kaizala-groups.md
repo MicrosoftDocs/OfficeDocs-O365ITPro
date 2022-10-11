@@ -23,6 +23,8 @@ description: Learn how to create Kaizala groups from the Kaizala management port
 
 # Create Kaizala groups
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 You can create different [types of groups](groups-in-kaizala.md) from the Kaizala mobile app, Kaizala web app, and Kaizala management portal. The following section describes how to create groups from the portal.
 
 ## Create a flat group

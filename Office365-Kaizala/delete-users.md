@@ -23,6 +23,8 @@ description: Learn how to delete users to the organization directory in Kaizala.
 
 # Delete users from the organization directory in Kaizala
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 Organization admins only can delete users from an organization. They can delete users one at a time or delete multiple users at the same time.
 
 ## Delete a single user

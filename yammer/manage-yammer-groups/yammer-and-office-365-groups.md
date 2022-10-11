@@ -2,10 +2,10 @@
 title: "Yammer and Microsoft 365 Groups"
 f1.keywords:
 - NOCSH
-ms.author: v-njeremy
+ms.author: v-jebizie
 author: DJayneMSFT
 manager: pamgreen
-ms.date: 12/11/2019
+ms.date: 09/23/2022
 audience: Admin
 ms.topic: overview
 ms.service: yammer
@@ -55,7 +55,7 @@ To use Microsoft 365 connected groups in Yammer, make sure your Yammer network m
 - Since October 16, 2018, all Yammer networks must be in a 1:1 network configuration. This means you have one Yammer network that is associated with one Office 365 tenant. This is required as of October 16, 2018. For more information, see [FAQ: Consolidating multiple Yammer networks](../configure-your-yammer-network/faq-consolidate-multiple-yammer-networks.md).
 
 >[!NOTE]
-> If you want to ensure that all of your groups are connected, please align your network to Native Mode.  To learn more about Yammer in Native Mode, see [Overview of Native Mode](../configure-your-yammer-network/overview-native-mode.md).
+> If you want to ensure that all of your groups are connected, align your network to Native Mode.  To learn more about Yammer in Native Mode, see [Overview of Native Mode](../configure-your-yammer-network/overview-native-mode.md).
 
 Here's how the process works after your network becomes eligible for connected groups:
 
@@ -81,7 +81,7 @@ When you create a Microsoft 365 connected group from Yammer, in addition to your
 If your network has the Yammer files stored in SharePoint feature that began rollout in December 2018, new files added to the group are stored in SharePoint. To see where Yammer files are stored for your network, go to [How do I tell where my Yammer files are stored?](https://support.office.com/article/7a647cb4-6005-4350-a258-68f00a5f7b29)
 
 >[!IMPORTANT]
-> If you create a Microsoft 365 group from any other app such as Outlook, it will not include Yammer. To have the connected group include Yammer, you must create the group in Yammer.
+> If you create a Microsoft 365 group from any other app such as Outlook, it won't include Yammer. To have the connected group include Yammer, you must create the group in Yammer.
 
 ## Yammer networks in Native Mode
 
@@ -115,11 +115,11 @@ A: In the Yammer admin center, go to **Network Admin** > **Security Settings**. 
   
 ### Q: Can I disable Microsoft 365 Yammer connected groups?
   
-A: No, but you can [Manage who can create Groups](/office365/admin/create-groups/manage-creation-of-groups). These restrictions do not apply to tenant admins.
+A: No, but you can [Manage who can create Groups](/office365/admin/create-groups/manage-creation-of-groups). These restrictions don't apply to tenant admins.
 
 ### Q: If I restrict who can create Microsoft 365 groups for my tenant, will the groups that restricted users create in Yammer be Microsoft 365 connected?
   
-A: No. Groups created by people who you have restricted from creating Microsoft 365 groups will not be Microsoft 365 connected.
+A: No. Groups created by people who you have restricted from creating Microsoft 365 groups won't be Microsoft 365 connected.
   
 ### Q: If I have multiple Yammer networks that are mapped to Microsoft 365, will the Microsoft 365 connected Yammer groups work?
   
@@ -127,13 +127,13 @@ A: No. The Microsoft 365 connected Yammer groups experience will work only for O
   
 ### Q: I don't want my existing groups to get connected to Microsoft 365. Can I turn this off?
   
-A: No, but you can [[Manage who can create Groups](/office365/admin/create-groups/manage-creation-of-groups), which will also apply to the conversion of existing groups. Only groups with at least one admin with group creation privileges can be connected to Microsoft 365.
+A: No, but you can [Manage who can create Groups](/office365/admin/create-groups/manage-creation-of-groups), which will also apply to the conversion of existing groups. Only groups with at least one admin with group creation privileges can be connected to Microsoft 365.
 
-If you apply new a creation policy, this will not retroactively change groups that are already connected to Microsoft 365. This will only impact new groups moving forward.
+If you apply new a creation policy, this won't retroactively change groups that are already connected to Microsoft 365. This will only impact new groups moving forward.
 
 ### Q: I have an unconnected group. How can I get it to be connected?
 
-A: When your network first becomes eligible for connected groups, all groups that meet the criteria are converted to connected groups. After that, if a group that wasn't eligible becomes eligible, for example if your network has Microsoft group creation policies applied and you add a group admin with group creation permission, the group is not automatically connected. To have a group connected, you can submit a support request to have all eligible groups in your network connected.
+A: When your network first becomes eligible for connected groups, all groups that meet the criteria are converted to connected groups. After that, if a group that wasn't eligible becomes eligible, for example if your network has Microsoft group creation policies applied and you add a group admin with group creation permission, the group isn't automatically connected. To have a group connected, you can submit a support request to have all eligible groups in your network connected.
 
 ## FAQ - General
 
@@ -143,7 +143,7 @@ A: Currently, only private and public internal groups can be connected groups. E
   
 ### Q: Can I make my Microsoft 365 connected Yammer group private and not list it in the Group Directory (secret)?
   
-A: No. That setting is not available for Microsoft 365 connected Yammer groups.
+A: No. That setting isn't available for Microsoft 365 connected Yammer groups.
 
 ### Q: Can I use an existing group or SharePoint site for a Microsoft 365 connected Yammer group?
 
@@ -159,7 +159,7 @@ For more information about Set-UnifiedGroup, see [Set-UnifiedGroup](/powershell/
 
 ### Q: Where can I create Microsoft 365 connected Yammer groups?
   
-A: Microsoft 365 connected Yammer groups can only be created in Yammer. Microsoft 365 groups created in other locations do not include a Yammer group.
+A: Microsoft 365 connected Yammer groups can only be created in Yammer. Microsoft 365 groups created in other locations don't include a Yammer group.
   
 ### Q: Can I create a Microsoft 365 connected Yammer group from the Microsoft 365 admin center?
   
@@ -167,7 +167,7 @@ A: No, this will be added in later waves. However, for Microsoft 365 connected Y
   
 ### Q: Can I add external users to Microsoft 365 connected Yammer groups?
   
-A: No. This will cause a sync failure because external users are not managed by Azure AD.
+A: No. This will cause a sync failure because external users aren't managed by Azure AD.
   
 ### Q: How many members can my group have?
   
@@ -198,9 +198,13 @@ We recommend storing content that needs the structure and management capabilitie
   
 ### Q: Do my Microsoft 365 connected Yammer groups follow my Microsoft 365 group naming policy?
   
-A: Yes. Any new group created in Yammer will add the prefix and suffix from the group naming policy, and will not allow blocked words in the group name. For more information, see [Microsoft 365 Groups naming policy](https://support.office.com/article/6ceca4d3-cad1-4532-9f0f-d469dfbbb552).
+A: Yes. Any new group created in Yammer will add the prefix and suffix from the group naming policy, and won't allow blocked words in the group name. For more information, see [Microsoft 365 Groups naming policy](https://support.office.com/article/6ceca4d3-cad1-4532-9f0f-d469dfbbb552).
 
-Note that Yammer group names can't contain the following characters: @, #, [, ], <, or >. If the naming policy includes any of these characters, regular Yammer users will not be able to create groups in Yammer. Microsoft 365 admins can still create groups in Yammer.
+Note that Yammer group names can't contain the following characters: @, #, [, ], <, or >. If the naming policy includes any of these characters, regular Yammer users won't be able to create groups in Yammer. Microsoft 365 admins can still create groups in Yammer.
+
+### Q: Can I use my Microsoft 365 connected Yammer group with Group-Based Licensing in Azure AD?
+
+A: By default, Microsoft 365 connected Yammer groups aren't compatible with Azure AD Group Based Licensing since the groups aren't security enabled.
 
 ## FAQ - Troubleshooting
 
@@ -221,6 +225,7 @@ To find this information, you can do a data export and look in the groups.csv fi
 ### Q: How long before changes to a connected Microsoft 365 group take effect in Yammer?
 
 Changes to connected groups can take up to 24 hours to take effect throughout your network. This includes changes to group membership, permissions, name, and other settings.
+
   
 ## Related articles
 

@@ -25,6 +25,8 @@ description: Use these steps to get Kaizala into your organization.
 
 # Get started with Kaizala
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 Here are four easy – yet powerful – things you can do to get the most out of Kaizala. This simple getting started guide will enable the following four powerful scenarios for your organization.
 
 | Scenario  | Description |

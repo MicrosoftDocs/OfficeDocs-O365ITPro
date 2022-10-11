@@ -23,6 +23,8 @@ description: Learn how to add users to different groups in Kaizala.
 
 # Manage Kaizala groups
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 ## Add users
 
 Depending on the group type, Kaizala supports multiple ways to add users to a group.

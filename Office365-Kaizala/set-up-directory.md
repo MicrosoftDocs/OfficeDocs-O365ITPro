@@ -22,6 +22,8 @@ description: Learn how to set up the organization directory for Kaizala.
 ---
 # Set up the organization directory for Kaizala
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 Kaizala organization admins can define and manage user attributes for an organization. They can add custom user attributes (such as employee ID or manager) in the Kaizala management portal, which makes it easier for admins and other users to identify a user.
 
 Organization admins can add new attributes and define settings that each attribute can have.

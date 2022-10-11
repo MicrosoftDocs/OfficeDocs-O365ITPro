@@ -23,6 +23,8 @@ description: Learn how to use Kaizala Action cards to manage work.
 
 # Get work done with Kaizala Actions
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 Kaizala offers a wide range of action cards or mini apps that make your daily work management easy and efficient. You can use the out-of-the-box Action cards or create your own customized Kaizala Actions. Let’s get you started with some of the Kaizala Actions such as survey, attendance, and job that can help you get work done.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE2JDVf] 

@@ -23,6 +23,8 @@ description: Learn how to send secure instant messages, Kaizala Actions, and att
 
 # Kaizala mobile app
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 > [!NOTE]
 > Looking for help for end users? See the [Kaizala help center](https://support.office.com/article/get-to-know-kaizala-22700f1d-274f-4533-8956-247c733f6ae6).
 

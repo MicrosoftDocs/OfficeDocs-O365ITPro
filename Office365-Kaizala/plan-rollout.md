@@ -22,3 +22,5 @@ description: Learn how to roll out Kaizala to your organization.
 ---
 
 # Plan your org-wide rollout of Kaizala
+
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
