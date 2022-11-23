@@ -34,7 +34,7 @@ You must have the Office 365 global admin role or the Audit Logs role in Exchang
     
 - **Admins** — including exporting data, triggering private content mode and forcing all users to log out. 
     
-- **Network settings** — including changing network usage policy and changing data retention policy. 
+- **Network settings** — including changing interval for exporting data and changing data retention policy. 
     
 ## View the audit log in the Office 365 Security &amp; Compliance center
 
