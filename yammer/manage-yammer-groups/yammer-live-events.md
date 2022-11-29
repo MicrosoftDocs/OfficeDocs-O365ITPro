@@ -27,7 +27,7 @@ description: "Learn what's needed for group admins to host live video events for
 # Live events in Yammer
 
 > [!IMPORTANT]
-> To continue supporting our customers' needs, we will extend temporary limit increases for live events through June 30, 2023, including:
+> **To continue supporting our customers' needs, we will extend temporary limit increases for live events through June 30, 2023, including:**
 > - Event support for up to 20,000 attendees
 > - 50 events can be hosted simultaneously across a tenant
 > - Event duration of 16 hours per broadcast
