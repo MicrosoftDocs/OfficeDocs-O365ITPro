@@ -27,7 +27,7 @@ description: "Learn what's needed for group admins to host live video events for
 # Live events in Yammer
 
 > [!IMPORTANT]
-> To help support our customers, through December 31, 2021, we will extend limit increases for live events, including:
+> **To continue supporting our customers' needs, we will extend temporary limit increases for live events through June 30, 2023, including:**
 > - Event support for up to 20,000 attendees
 > - 50 events can be hosted simultaneously across a tenant
 > - Event duration of 16 hours per broadcast
@@ -76,7 +76,7 @@ There are two ways live events in Yammer can be produced. The requirements depen
     This is used for simple events when all you need are the audio and video devices connected to the presenter's computer, or when you're inviting a remote presenter for the event. 
    
     - This type of event uses Teams to encode the broadcast stream.
-    - Use Teams to share content from the presenters webcab and screen.
+    - Use Teams to share content from the presenters webcam and screen.
     - Attendees can view this event in Teams only.
 
 ## Yammer network and group requirements
