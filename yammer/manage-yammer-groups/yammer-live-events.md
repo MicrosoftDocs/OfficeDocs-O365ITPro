@@ -76,7 +76,7 @@ There are two ways live events in Yammer can be produced. The requirements depen
     This is used for simple events when all you need are the audio and video devices connected to the presenter's computer, or when you're inviting a remote presenter for the event. 
    
     - This type of event uses Teams to encode the broadcast stream.
-    - Use Teams to share content from the presenters webcab and screen.
+    - Use Teams to share content from the presenters webcam and screen.
     - Attendees can view this event in Teams only.
 
 ## Yammer network and group requirements
