@@ -26,7 +26,7 @@ When storyline is enabled in your organization, you'll see the following changes
 2. Users see a new “storylines” page from which they can access a personalized feed of content posted to storyline, or toggle to a focused feed that includes only storyline content from the people the user has followed. 
 
 ## Configuration quick start guide 
-Configuration and management of storyline is straightforward. Yammer Network and Verified admins can manage storyline for their organizations by clicking the “Manage storyline” link that is behind the gear icon on Yammer.com, and behind the ellipsis in the global header for the Viva Engage app. 
+Configuration and management of storyline is straightforward. Yammer Network and Verified admins can manage storyline for their organizations by selecting the **Manage storyline** link that is behind the gear icon on Yammer.com, and behind the ellipsis in the global header for the Viva Engage app. 
 
 ## Enabling storyline
 Once you have entered the Manage storyline screen, you will see the toggle which controls the availability of storyline within your organization. When you enable storyline in your organization, it becomes available to all internal users who have access to Yammer and Viva Engage. All internal users will have their own storyline feed on their profile pages and will be able to see, react, and respond to others’ storyline posts. Guests won't have their own storyline, and won't be able to see or engage with storyline content from your internal users who do. 
@@ -57,13 +57,13 @@ Storyline is built on the same content and conversation platform as community me
 * Storylines supports the same “[Report a conversation](/yammer/manage-yammer-groups/configure-conversation-reporting)” feature available for community conversations 
 * Microsoft Purview Communications Compliance (E5): Use AI to monitor conversations for bullying, harassment, or topics that are against usage policy 
 
-In addition to the capabilities listed above, storyline also features a feed that includes all storyline posts sorted by the date the storyline conversation was started. To access this feed, go to the storyline landing page. While on the feed, click the filter icon in the upper right corner of the feed to switch the filter to “All”. 
+In addition to the capabilities listed above, storyline also features a feed that includes all storyline posts sorted by the date the storyline conversation was started. To access this feed, go to the storyline landing page. While on the feed, click the filter icon in the upper right corner of the feed to switch the filter to **All**. 
 
 ### Security, compliance, and governance for files uploaded to storyline posts and stories
 
 Storyline posts and stories are backed by Yammer services. Compliance for posts and stories are therefore the same as the rest of Yammer and Viva Engage. If you are in native mode, posts are ingested into the substrate and support the same compliance and e-Discovery capabilities as posts in communities, including communications compliance and retention. Because files are stored in OneDrive, they inherit security and compliance policies configured for files in OneDrive. 
 
-When users are deleted—for example when an individual leaves the company—the system follows the Microsoft 365 user deletion process described in the section called **Delete a user** in the “[Manage Yammer users across their lifecycle from Office 365 – Yammer | Microsoft Docs.](/yammer/manage-yammer-users/manage-users-across-their-lifecycle)” [make sure that link and its title are still correct] 
+When users are deleted—for example when an individual leaves the company—the system follows the Microsoft 365 user deletion process described in the section called **Delete a user** in the “[Manage Yammer users across their lifecycle from Office 365 – Yammer | Microsoft Docs.](/yammer/manage-yammer-users/manage-users-across-their-lifecycle)” 
 
 ## File storage for storyline 
 
@@ -104,7 +104,7 @@ It isn't possible to prevent any internal user from seeing storyline content if 
 We plan to add the capability of limiting who gets their own storyline shortly after storyline reaches general availability. Once available, you'll be able to designate, via AAD groups, which users will have a personal storyline feed appear on their user profile page in Yammer. Users to whom you don’t grant a storyline will be able to reply and react to storyline posts from users who do have their own storyline. 
 
 ### How do I delete custom cover photos that are uploaded to a person’s storyline? 
-When the preview features toggle is in the ON position, uploaded cover photos can be deleted by the user themselves, or by Network and Verified Admins, by going to the user profile page and choosing the delete option under “Update cover photo.” 
+When the preview features toggle is in the ON position, uploaded cover photos can be deleted by the user themselves, or by Network and Verified Admins, by going to the user profile page and choosing the delete option under **Update cover photo**. 
 
 If you want to delete a previously uploaded cover photo when the preview toggle is in the OFF position, you will need to temporarily opt in to the preview so you can access the delete cover photo option as discussed above.   
   
