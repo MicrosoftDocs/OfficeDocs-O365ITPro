@@ -59,11 +59,11 @@ Storyline is built on the same content and conversation platform as community me
 
 In addition to the capabilities listed above, storyline also features a feed that includes all storyline posts sorted by the date the storyline conversation was started. To access this feed, go to the storyline landing page. While on the feed, click the filter icon in the upper right corner of the feed to switch the filter to **All**. 
 
-> ### Security, compliance, and governance for files uploaded to storyline posts and stories
+    ### Security, compliance, and governance for files uploaded to storyline posts and stories
 
-> Storyline posts and stories are backed by Yammer services. Compliance for posts and stories are therefore the same as the rest of Yammer and Viva Engage. If you are in native mode, posts are ingested into the substrate and support the same compliance and e-Discovery capabilities as posts in communities, including communications compliance and retention. Because files are stored in OneDrive, they inherit security and compliance policies configured for files in OneDrive. 
+    Storyline posts and stories are backed by Yammer services. Compliance for posts and stories are therefore the same as the rest of Yammer and Viva Engage. If you are in native mode, posts are ingested into the substrate and support the same compliance and e-Discovery capabilities as posts in communities, including communications compliance and retention. Because files are stored in OneDrive, they inherit security and compliance policies configured for files in OneDrive. 
 
-> When users are deleted—for example when an individual leaves the company—the system follows the Microsoft 365 user deletion process described in the section called **Delete a user** in the “[Manage Yammer users across their lifecycle from Office 365 – Yammer | Microsoft Docs.](/yammer/manage-yammer-users/manage-users-across-their-lifecycle)” 
+    When users are deleted—for example when an individual leaves the company—the system follows the Microsoft 365 user deletion process described in the section called **Delete a user** in the “[Manage Yammer users across their lifecycle from Office 365 – Yammer | Microsoft Docs.](/yammer/manage-yammer-users/manage-users-across-their-lifecycle)” 
 
 ## File storage for storyline 
 
