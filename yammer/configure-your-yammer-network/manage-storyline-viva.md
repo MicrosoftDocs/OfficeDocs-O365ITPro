@@ -1,8 +1,8 @@
 ---
 title: "Manage storyline for Microsoft Viva Engage and Yammer"
 description: "Manage storyline for Microsoft Viva Engage and Yammer"
-ms.author: v-jebizie
-author: v-jebizie
+ms.author: mamiejohnson
+author: mamiepjohnson
 manager: dmillerdyson
 audience: Admin
 f1.keywords:
@@ -58,6 +58,33 @@ Storyline is built on the same content and conversation platform as community me
 * Microsoft Purview Communications Compliance (E5): Use AI to monitor conversations for bullying, harassment, or topics that are against usage policy 
 
 In addition to the capabilities listed above, storyline also features a feed that includes all storyline posts sorted by the date the storyline conversation was started. To access this feed, go to the storyline landing page. While on the feed, click the filter icon in the upper right corner of the feed to switch the filter to “All”. 
+
+### Security, compliance, and governance for files uploaded to storyline posts and stories
+
+Storyline posts and stories are backed by Yammer services. Compliance for posts and stories are therefore the same as the rest of Yammer and Viva Engage. If you are in native mode, posts are ingested into the substrate and support the same compliance and e-Discovery capabilities as posts in communities, including communications compliance and retention. Because files are stored in OneDrive, they inherit security and compliance policies configured for files in OneDrive. 
+
+When users are deleted—for example when an individual leaves the company—the system follows the Microsoft 365 user deletion process described in the section called **Delete a user** in the “[Manage Yammer users across their lifecycle from Office 365 – Yammer | Microsoft Docs.](/yammer/manage-yammer-users/manage-users-across-their-lifecycle)” [make sure that link and its title are still correct] 
+
+## File storage for storyline 
+
+Files attached to storyline posts, and videos or photos shared as stories, are stored in a hidden library in the author’s OneDrive. While there is no entry point to this location in the user experience (UX) of Microsoft 365, you can access it with a URL resembling the following example: https://tenantname-my.sharepoint.com/personal/**useridentifier/VivaEngage/Attachments/Storyline**
+
+You can determine the precise URL for a user's storyline folder by following these steps: 
+
+1. Open the user's OneDrive in the browser.
+2. Note the URL to the user's OneDrive.
+3. Locate the **user identifier**, located in the URL immediately after my.sharepoint.com/personal/ 
+4. Remove everything after the profile identifier and the backslash, and replace with **VivaEngage** (without a space, case insensitive). The resulting URL will resemble this example: https://tenantname-my.sharepoint.com/personal/**useridentifier/VivaEngage**
+5. Press ENTER. The library will appear.  
+6. Open the Attachments folder, then open the Storyline folder. The resulting URL directly to the folder where storyline files are saved will resemble this example: https://tenantname-my.sharepoint.com/personal/**user identifier/VivaEngage/Attachments/Storyline**. 
+
+### Managing files uploaded to storyline posts and stories 
+
+Edit documents and rich media uploaded to posts using the storyline interface. We strongly discourage you from managing (adding, replacing, or deleting) documents and rich media directly in OneDrive, as you will risk breaking the front-end experience of posts and stories in your storyline.  
+
+If you wish to delete files associated with a post or story from the **VivaEngage** library: 
+1. Remove the file from the associated post. From any post, the author or an admin can select the ellipsis (...) menu and choose **Edit**.  
+2. Navigate to the author's **VivaEngage** library and delete the file itself. 
 
 ## Frequently Asked Questions (FAQ)
  
