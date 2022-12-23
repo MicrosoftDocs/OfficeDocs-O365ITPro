@@ -27,7 +27,7 @@ description: "This article shares information on how admins can disallow certain
 
 ### Overview
 
-Container sharing allows planner to extend its authorization from a single container to multiple. When a plan is shared with another "shared container", it allows users who may have access to that container access to the plan.
+Container sharing allows Planner to extend authorization of a plan from a single container to multiple. When a plan is shared with a "shared container", it allows users who don't have access to the host container, but who do have access to that container to access the plan.
 
 ### Container types
 
@@ -39,7 +39,7 @@ Follow the steps in [Prerequisites for making Planner changes in Windows PowerSh
 
 ## Disallow container types for usage in container sharing
 
-Disallowing a type pair will not remove any existing relationship or disallow the creation of the relationship but it will no longer authorize users through an existing/new share of that type.
+Disallowing a Host Container, Shared Container type pair will not remove any existing relationship or disallow the creation of the relationship but it will no longer authorize users through an existing/new share of that type.
 
 > [!NOTE]
 > You'll need to sign in using your Azure Active Directory credentials and use a local PowerShell window (not Azure Cloud Shell).
