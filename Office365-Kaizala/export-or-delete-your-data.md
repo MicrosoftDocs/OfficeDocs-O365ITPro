@@ -22,6 +22,8 @@ description: Learn how to export or delete your data from the Kaizala mobile app
 
 # Export or delete your data in the Kaizala mobile app
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 As a Kaizala user, you can export or delete your data from the Kaizala mobile app.
   
 ## Export your data from the Kaizala mobile app

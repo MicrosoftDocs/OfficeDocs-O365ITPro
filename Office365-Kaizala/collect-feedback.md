@@ -23,6 +23,8 @@ description: Learn how to collect feedback in Kaizala.
 
 # Collect feedback with Kaizala
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 The company connect group is also a convenient mobile channel to collect feedback on relevant issues, decisions, and policies, especially for remote workers.
 
 You can gather feedback from employees, partners, suppliers, and customers through feedback forms, polls, and surveys. All responses are automatically aggregated to give you insights into the responses. 

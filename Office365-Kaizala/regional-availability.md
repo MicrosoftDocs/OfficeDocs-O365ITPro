@@ -22,6 +22,8 @@ description: Learn which regional areas Kaizala Pro is now available.
 
 # Kaizala regional availability
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 Microsoft Kaizala Pro is commercially available internationally, with the exception of the following countries or regions:
 
 - Cuba

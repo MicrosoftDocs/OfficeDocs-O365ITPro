@@ -22,6 +22,8 @@ description: Learn how to solve Kaizala notification issues on certain devices.
 
 # Troubleshoot Kaizala notifications
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 Some devices have certain notifications off by default, so you might miss notifications from Kaizala. This article discusses how to solve these notification issues on certain devices. If you don't see your device's notification info in this list, check your device manufacturer's help pages to learn how to turn on notifications for apps.
   
 ## One Plus A3003

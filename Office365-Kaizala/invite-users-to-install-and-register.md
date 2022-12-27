@@ -23,6 +23,8 @@ description: Learn how to invite users to install and register the Kaizala app i
 
 # Invite users to install Kaizala through SMS 
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 Users are invited to install and register on Kaizala by SMS when an admin has added them to a group from the Kaizala management portal. Admins also have the ability to send a reminder SMS message to users who have not registered on Kaizala by choosing the **Remind Unregistered** option in the Kaizala management portal. 
 
 ## Supported countries for SMS delivery

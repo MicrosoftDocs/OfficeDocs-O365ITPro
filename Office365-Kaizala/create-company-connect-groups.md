@@ -19,6 +19,8 @@ description: Learn how to create company connect groups in Kaizala.
 
 # Create company connect groups in Kaizala
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 *Company connect groups* are one-way communication channels. They allow an organization to broadcast important announcements, updates, and information to the workforce. An organization can create company connect groups for their employees, partners, and customers. 
 
 ## Step 1 – Create a hub-and-spoke group

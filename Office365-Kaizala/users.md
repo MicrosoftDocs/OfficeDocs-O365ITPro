@@ -22,6 +22,8 @@ description: Learn how to create Kaizala users such that they can send instant m
 
 # Create Kaizala users
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 Before you can send instant messages, pictures, and documents, or set up a new poll or survey, you'll have to create Kaizala users. You can add users individually or in bulk. For managing users in groups, see [Kaizala groups](groups-in-kaizala.md).
   
 ## View all users in an organization

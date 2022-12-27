@@ -22,6 +22,8 @@ description: Learn how to use the Kaizala Office add-in to collect user data fro
 
 # Kaizala Office add-in
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 The Kaizala Office add-in allows you to collect user data from your employees, through the Kaizala mobile app. Using the Kaizala Office add-in, you can share a table to pre-existing groups linked with your Kaizala account. The table is published as a survey on the Kaizala mobile app. For each survey response submitted by a Kaizala app user, a row is added to the selected table in Excel.
   
 ## Get the Office add-in
