@@ -26,6 +26,9 @@ description: "Learn what's needed for group admins to host live video events for
 ---
 # Live events in Yammer
 
+> [!NOTE]
+> Yammer live events have historically used Stream live events for video processing. Microsoft is retiring Stream live events on DATE, 2023. Teams live events is the successor service that will allow you to create, host and produce live events within Yammer with the same functionality that you get with Stream. 
+
 > [!IMPORTANT]
 > **To continue supporting our customers' needs, we will extend temporary limit increases for live events through June 30, 2023, including:**
 > - Event support for up to 20,000 attendees
@@ -34,34 +37,22 @@ description: "Learn what's needed for group admins to host live video events for
 >
 > Additionally, live events for up to 100,000 attendees can be requested through the [Microsoft 365 live events assistance program](https://resources.techcommunity.microsoft.com/live-events/assistance/). The team will assess each request and work with you to determine options that may be available. [Learn more.](https://aka.ms/Stream/Blog/LiveEventOptions)
 
-To bring the members of a community together centered around an event, Yammer group admins can host a live video event including Yammer conversations before, during, and after the event.
-
 > [!IMPORTANT]
-> When setting up a live event, we recommend that you configure your video, community, and user permissions at least 24 hours before the event for the best experience. This includes such settings as adding users, updating video permissions, and changing a community from private to public. It can take up to two hours for certain changes to propagate across Microsoft Stream, Microsoft Teams, and Microsoft Yammer. Allowing 24 hours or more can provide time for testing and making adjustments if needed.
+> When setting up a live event, we recommend that you configure your video, community, and user permissions at least 24 hours before the event for the best experience. This includes such settings as adding users, updating video permissions, and changing a community from private to public. It can take up to two hours for certain changes to propagate across Microsoft Stream, Microsoft Teams, and Microsoft Yammer. Allowing 24 hours or more can provide time for testing and adjusting if needed.
 
 Live events can be held in a public group to reach all employees or in a private group so that only those with membership in the group can participate.
 
-> [!TIP]
-> Do you have a question about or need help with live events? Contact our [Live Events Assistance team](https://resources.techcommunity.microsoft.com/live-events/assistance/) to get started!
-
 This article lists the Yammer network requirements, licenses, and permissions for organizing and participating in live events.
-
-- For an overview of how to plan, staff, and communicate your live event, see [How to host a Live Event in Yammer: A step-by-step playbook](https://aka.ms/LiveEventsinYammerplaybook).
-
-- To download templates for communications, go to [Live Event Yammer templates](https://aka.ms/LiveEventYammerTemplates).
- 
-- For steps to create a live event in Yammer, see [Organize a live event in Yammer](https://support.office.com/article/organize-a-live-event-in-yammer-105dd7af-9caf-4a5e-8a44-56d203e96551).
-
-- To see what a live event in Yammer looks like, see [Attend a live event in Yammer](https://support.office.com/article/attend-a-live-event-in-yammer-4b08133c-9ebb-47b0-ab60-4dbfd4bfc965). 
-
-- For answers to frequently asked questions, see [Yammer live event FAQ](https://support.office.com/article/43bbd59d-a734-4c8f-923d-6a239d137d34).
 
 ## Types of live events
 
 To understand how Yammer, Stream, and Teams work together in live events, see [Overview of live events](/microsoftteams/teams-live-events/what-are-teams-live-events#overview). 
 Live events can be created and viewed in Yammer, Stream, or Teams. This article explains the requirements for creating and viewing a live event in Yammer. 
 
-There are two ways live events in Yammer can be produced. The requirements depend on which video production methods you intend to use in your organization.
+> [!NOTE]
+> Yammer live events have historically used Stream live events for video processing. Microsoft is retiring Stream live events on DATE, 2023. Teams live events is the successor service that will allow you to create, host and produce live events within Yammer with the same functionality that you get with Stream. 
+
+There are four ways in which live events in Yammer can be produced - using Microsoft Stream and Teams. The recommended methods are to use the new Teams options to produce live events in Yammer due to Microsoft retiring Stream live events. 
 
 - **Use an external encoder to produce your live event**: 
  
