@@ -21,17 +21,19 @@ description: "This article shares information on how admins can disallow certain
 
 ### Glossary
 
-- `Container` – a resource that specifies authorization rules and the lifetime of the plan (e.g. M365 group, roster, drive item).
-- `Host container` – the container that the plan is contained by.
+- `Container` – a container in Planner Context is the resource that specifies authorization rules and the lifetime of the plan (e.g. M365 group, roster, drive item).
+- `Host container` – the container that the plan is contained by. This is the [Plan.Container](graph/api/resources/plannerplan) of the OData API.
 - `Shared container` – a container that a plan has been shared with so that users with access to the container are granted access to the plan.
 
 ### Overview
 
 Container sharing allows Planner to extend authorization of a plan from a single container to multiple. When a plan is shared with a "shared container", it allows users who don't have access to the host container, but who do have access to that container to access the plan.
 
+> Currently only plans with a `roster` host container can be shared with a `driveItem` container and all other pairings are disabled by Planner. This is to enable certain scenarios in Loop.
+
 ### Container types
 
-Review the current list of container types supported at [plannerPlanContainer resource type](https://learn.microsoft.com/en-us/graph/api/resources/plannerplancontainer?view=graph-rest-beta).
+Review the current [list of container types supported](/graph/api/resources/plannerplancontainer).
 
 ## Prerequisites for making Planner changes in Windows PowerShell
 
@@ -53,6 +55,8 @@ Set-PlannerConfiguration -DisallowedSharedWithContainerTypes @(@{hostContainerTy
 > [!NOTE]
 > Updating the setting replaces the previous configuration; should you want to add an additional disallowed pair, you must update the setting to the entire collection of disallowed pairs.
 
+## Examples
+
 ### Disallow a single type pair
 
 The following cmdlet will disallow plans contained by a `group` to be shared with a `roster` container:
@@ -69,6 +73,19 @@ The following cmdlet will disallow plans contained by a `group` to be shared wit
 Set-PlannerConfiguration -DisallowedSharedWithContainerTypes @(@{hostContainerType = "group"; sharedWithContainerType = "roster"},@{hostContainerType = "roster"; sharedWithContainerType = "driveItem"})
 ```
 
+### Add a disallowed pair to an existing list
+
+The following cmdlet will disallow plans contained by a `roster` to be shared with a `group` to an existing disallow list by retriving the setting and adding to the collection:
+
+```powershell
+$configuration = Get-PlannerConfiguration
+$configuration.DisallowedSharedWithContainerTypes += @{hostContainerType = "roster"; sharedWithContainerType = "group"}
+Set-PlannerConfiguration -DisallowedSharedWithContainerTypes $configuration.DisallowedSharedWithContainerTypes
+```
+
+> [!NOTE]
+> Changes to the settings are not reflected immediately and it may take a few minutes after running the command to change the setting. Please ensure your previous changes have been applied by [verifying your changes](#verifying-your-changes).
+
 ### Re-allow all types
 
 If you’ve changed your mind and would like to allow all types, reverting to the default behaviour, you can do so by running in the powershell:
@@ -77,7 +94,7 @@ If you’ve changed your mind and would like to allow all types, reverting to th
 Set-PlannerConfiguration -DisallowedSharedWithContainerTypes @()
 ```
 
-### Verifying your changes
+## Verifying your changes
 
 To verify your settings:
 
