@@ -22,7 +22,7 @@ description: "This article shares information on how admins can disallow certain
 ### Glossary
 
 - `Container` – a container in Planner Context is the resource that specifies authorization rules and the lifetime of the plan (e.g. M365 group, roster, drive item).
-- `Host container` – the container that the plan is contained by. This is the [Plan.Container](graph/api/resources/plannerplan) of the OData API.
+- `Host container` – the container that the plan is contained by. This is the [Plan.Container](/graph/api/resources/plannerplan) of the OData API.
 - `Shared container` – a container that a plan has been shared with so that users with access to the container are granted access to the plan.
 
 ### Overview
