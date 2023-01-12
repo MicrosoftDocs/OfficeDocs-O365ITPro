@@ -56,6 +56,8 @@ There are four ways in which live events in Yammer can be produced - using Micro
 
 ## New recommended methods to produce Yammer live events using Microsoft Teams:
 
+![Yammer live events showing new Teams options to produce events](../media/live-event-teams.jpg)
+
 - **Use Microsoft Teams QuickStart**: 
   This is used to produce simple live events where all you need are the audio and video devices connected to the presenter’s computer, or when you are inviting a remote presenter for the event. 
 
@@ -74,6 +76,8 @@ This type of production is typically used for large-scale events such as executi
 
 
 ## Microsoft Stream options that will be deprecated (not recommended):
+![Yammer live events showing the legacy Microsoft Stream options to produce events ](../media/live-event-stream.jpg)
+
 
 - **Use an external encoder to produce your live event**: 
  
@@ -93,9 +97,9 @@ This type of production is typically used for large-scale events such as executi
 
 ## Yammer network and group requirements
 
- - To host a live event in Yammer, your organization must have **Enforce Office 365 identity** selected, and you must be using Microsoft 365 connected Yammer groups. For more information see [Enforce Office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md) and [Yammer and Microsoft 365 groups](../manage-yammer-groups/yammer-and-office-365-groups.md).
-
-- The event must be held in either a public Yammer Microsoft 365 connected group, or a private Yammer Microsoft 365 connected group that includes everyone who will be invited to the live event. For more information, see [Create a group in Yammer](https://support.office.com/article/create-a-group-in-yammer-b407af4f-9a58-4b12-b43e-afbb1b07c889) and [Manage a group in Yammer](https://support.office.com/article/manage-a-group-in-yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). 
+ - To host a live event in Yammer, your organization must have **Enforce Office 365 identity** selected, and you must be using Microsoft 365 connected Yammer groups. 
+ - For more information, see [Enforce Office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md) and [Yammer and Microsoft 365 groups](../manage-yammer-groups/yammer-and-office-365-groups.md).
+ - The event must be held in either a public Yammer Microsoft 365 connected group, or a private Yammer Microsoft 365 connected group that includes everyone who will be invited to the live event. For more information, see [Create a group in Yammer](https://support.office.com/article/create-a-group-in-yammer-b407af4f-9a58-4b12-b43e-afbb1b07c889) and [Manage a group in Yammer](https://support.office.com/article/manage-a-group-in-yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). 
 
 ## Requirements for live event attendees
 
@@ -134,27 +138,29 @@ You can prevent creation of live events produced in teams, live events produced 
 
 ## FAQ
 
-**Q: How many participants can view a live event at once?**
+**Q: How many attendees can view a live event at once?**
 
-A. Currently, the limit is 10,000 participants. For events of a higher size, work through the [Live Events Assistance Program](https://resources.techcommunity.microsoft.com/live-events/assistance/).
+A. Currently, the limit is 10,000 attendees. For larger attendee sizes, please contact the Microsoft 365 [Live Events Assistance Program](https://learn.microsoft.com/stream/live-events-assistance).
 
 **Q: What media player is used for live events?**
 
-Events produced using Teams use the Azure Media Player.
-
-Events produced using an external app or device use the Stream player.
-
-Both work on desktop, web, and mobile devices (iOS and Android).
+The new live events are broadcast using the Teams media player and can be viewed live or on-demand on Yammer’s Web and Mobile apps (iOS and Android).
 
 **Q: Why can't I view the video?**
 
-To maintain the privacy of live event content, only authorized users can join a live event and are authenticated as they load the live event page. If authentication isn't successful, you won't be able to view the video.
+To maintain the privacy of live event content, only authorized users can join a live event and are authenticated as they load the live event page. If authentication isn't successful, you won't be able to view the video. To fix this, use your browser's settings to make sure that cookies are enabled and that any extensions that block tokens are disabled. After changing the settings, refresh the event page. 
 
-To fix this, use your browser's settings to make sure that cookies are enabled and that any extensions that block tokens are disabled. After changing the settings, refresh the event page.
+**Q: Where are the videos stored once they are produced?**
 
-**Q: How can I make it easy for my event organizers to get help?**
+The Video-on-Demand is stored in the SharePoint Community where the event was hosted is automatically shared with members of the private community, or with everyone across the Yammer network if the event was produced in a public community. 
 
-In Microsoft 365 and Office 365, you can customize the help pane that comes up when users click the Help icon to add contact information for your local support staff. For more information, see [Add customized help desk info to the help pane](/office365/admin/misc/customize-help-desk).
+**Q: Can Event Producers edit videos?**
+
+Yes, the videos can be edited in SharePoint. The edited video in SharePoint is automatically updated for attendees to watch. Please note that it could take 10 minutes before producers can edit their videos after the event is completed. 
+
+**Q: What happens to the old live events videos that were produced using Microsoft Stream?** 
+
+Live Events videos created using Stream will continue to function - attendees can continue to watch those videos on demand broadcasted on Microsoft Stream. However, you should migrate those videos from Stream to SharePoint – see [this article](https://learn.microsoft.com/stream/streamnew/stream-classic-to-new-migration-overview) on how to migrate content. 
 
 ## Related articles
 
