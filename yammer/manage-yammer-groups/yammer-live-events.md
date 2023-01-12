@@ -54,6 +54,27 @@ Live events can be created and viewed in Yammer, Stream, or Teams. This article 
 
 There are four ways in which live events in Yammer can be produced - using Microsoft Stream and Teams. The recommended methods are to use the new Teams options to produce live events in Yammer due to Microsoft retiring Stream live events. 
 
+## New recommended methods to produce Yammer live events using Microsoft Teams:
+
+- **Use Microsoft Teams QuickStart**: 
+  This is used to produce simple live events where all you need are the audio and video devices connected to the presenter’s computer, or when you are inviting a remote presenter for the event. 
+
+    - This type of event uses Teams to encode the broadcast stream. 
+    - Uses Teams to share content from the presenter’s webcam and screen.
+    - Attendees can view the event on Yammer. 
+    - The video is stored in the SharePoint library connected to the Yammer community in which the live event was produced.
+
+- **Use Teams external app or device**: 
+This type of production is typically used for large-scale events such as executive town halls, where a single stream from a media mixer is broadcast to the audience. 
+
+- This type of event uses Teams to broadcast 
+- You will need to use an external encoder (app or device) to produce the event 
+- Attendees can view the event in Yammer. 
+- The video is stored in the SharePoint library connected to the Yammer community in which the live event was produced. 
+
+
+## Microsoft Stream options that will be deprecated (not recommended):
+
 - **Use an external encoder to produce your live event**: 
  
     This type of event is typically used for large-scale events such as executive town halls, where a single stream from a media mixer is broadcasted to the audience. 
