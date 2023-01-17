@@ -1,10 +1,10 @@
 ---
-title: "Live events in Yammer"
+title: "Organize a Microsoft Teams powered live event in Yammer"
 f1.keywords:
 - NOCSH
-ms.author: pamgreen
-author: ToniSFrench
-manager: pamgreen
+ms.author: mamiejohnson
+author: mamiepjohnson
+manager: dmillerdyson
 ms.date: 9/23/2019
 audience: Admin
 ms.topic: overview
@@ -24,10 +24,10 @@ search.appverid:
 ms.assetid: 4ece0ee2-c268-4636-bf2a-16e454befe57
 description: "Learn what's needed for group admins to host live video events for Yammer users."
 ---
-# Live events in Yammer
+# Organize a Microsoft Teams powered live event in Yammer 
 
 > [!NOTE]
-> Yammer live events have historically used Stream live events for video processing. Microsoft is retiring Stream live events on DATE, 2023. Teams live events is the successor service that will allow you to create, host and produce live events within Yammer with the same functionality that you get with Stream. 
+> Yammer live events have historically used Stream live events for video processing. Microsoft is retiring Stream live events on DATE, 2023. Teams live events is the successor service that will allow you to create, host and produce live events within Yammer with the same functionality that you get with Stream.
 
 > [!IMPORTANT]
 > **To continue supporting our customers' needs, we will extend temporary limit increases for live events through June 30, 2023, including:**
@@ -46,8 +46,7 @@ This article lists the Yammer network requirements, licenses, and permissions fo
 
 ## Types of live events
 
-To understand how Yammer, Stream, and Teams work together in live events, see [Overview of live events](/microsoftteams/teams-live-events/what-are-teams-live-events#overview). 
-Live events can be created and viewed in Yammer, Stream, or Teams. This article explains the requirements for creating and viewing a live event in Yammer. 
+To understand how Yammer, Stream, and Teams work together in live events, see [Overview of live events](/microsoftteams/teams-live-events/what-are-teams-live-events#overview). Live events can be created and viewed in Yammer, Stream, or Teams. This article explains the requirements for creating and viewing a live event in Yammer.
 
 > [!NOTE]
 > Yammer live events have historically used Stream live events for video processing. Microsoft is retiring Stream live events on DATE, 2023. Teams live events is the successor service that will allow you to create, host and produce live events within Yammer with the same functionality that you get with Stream. 
@@ -74,8 +73,8 @@ This type of production is typically used for large-scale events such as executi
 - Attendees can view the event in Yammer. 
 - The video is stored in the SharePoint library connected to the Yammer community in which the live event was produced. 
 
-
 ## Microsoft Stream options that will be deprecated (not recommended):
+
 ![Yammer live events showing the legacy Microsoft Stream options to produce events ](../media/live-event-stream.jpg)
 
 
@@ -104,12 +103,9 @@ This type of production is typically used for large-scale events such as executi
 ## Requirements for live event attendees
 
 - Everyone who attends a Yammer live event must have a Microsoft 365 or an Office 365 plan that includes a license for Yammer (for example, Office 365 A3, A5, F1, E1, E3, or E5) and Microsoft Stream.
-
 - Only members of your Yammer network can attend live events. Guests and external users do not have access to live events.
-
-- For live events in public groups, all members of your Yammer network can attend. For live events in private groups, attendees must be members of the private group in which the live event is hosted. 
-
-- For attending a live event in Teams, a Teams license is required. 
+- For live events in public groups, all members of your Yammer network can attend. For live events in private groups, attendees must be members of the private group in which the live event is hosted.
+- For attending a live event in Teams, a Teams license is required.
 
 ## Permissions for scheduling, creating, and producing live events in Yammer
 
@@ -130,10 +126,9 @@ Yammer has partnered with Teams and Stream to provide the best technology for ru
  
 ### Restrict creation of live events in Yammer
 
-You can prevent creation of live events produced in teams, live events produced with other tools, or both.
+You can prevent the creation of live events produced in teams, live events produced with other tools, or both.
 
 - To prevent creation of live events produced in Teams, remove permissions in Teams for live event scheduling. If a user does not have a license or permission to create a live event in Teams, when they create a live event in Yammer, the produce in Teams option is unavailable.
-
 - If you do not have permission to create live events in Stream, you cannot create live events in Yammer.
 
 ## FAQ
@@ -148,19 +143,19 @@ The new live events are broadcast using the Teams media player and can be viewed
 
 **Q: Why can't I view the video?**
 
-To maintain the privacy of live event content, only authorized users can join a live event and are authenticated as they load the live event page. If authentication isn't successful, you won't be able to view the video. To fix this, use your browser's settings to make sure that cookies are enabled and that any extensions that block tokens are disabled. After changing the settings, refresh the event page. 
+To maintain the privacy of live event content, only authorized users can join a live event and are authenticated as they load the live event page. If authentication isn't successful, you won't be able to view the video. To fix this, use your browser's settings to make sure that cookies are enabled and that any extensions that block tokens are disabled. After changing the settings, refresh the event page.
 
 **Q: Where are the videos stored once they are produced?**
 
-The Video-on-Demand is stored in the SharePoint Community where the event was hosted is automatically shared with members of the private community, or with everyone across the Yammer network if the event was produced in a public community. 
+The Video-on-Demand is stored in the SharePoint Community where the event was hosted is automatically shared with members of the private community, or with everyone across the Yammer network if the event was produced in a public community.
 
 **Q: Can Event Producers edit videos?**
 
-Yes, the videos can be edited in SharePoint. The edited video in SharePoint is automatically updated for attendees to watch. Please note that it could take 10 minutes before producers can edit their videos after the event is completed. 
+Yes, the videos can be edited in SharePoint. The edited video in SharePoint is automatically updated for attendees to watch. Please note that it could take 10 minutes before producers can edit their videos after the event is completed.
 
-**Q: What happens to the old live events videos that were produced using Microsoft Stream?** 
+**Q: What happens to the old live events videos that were produced using Microsoft Stream?**
 
-Live Events videos created using Stream will continue to function - attendees can continue to watch those videos on demand broadcasted on Microsoft Stream. However, you should migrate those videos from Stream to SharePoint – see [this article](https://learn.microsoft.com/stream/streamnew/stream-classic-to-new-migration-overview) on how to migrate content. 
+Live Events videos created using Stream will continue to function - attendees can continue to watch those videos on demand broadcasted on Microsoft Stream. However, you should migrate those videos from Stream to SharePoint – see [this article](https://learn.microsoft.com/stream/streamnew/stream-classic-to-new-migration-overview) on how to migrate content.
 
 ## Related articles
 
