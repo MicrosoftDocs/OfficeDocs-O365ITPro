@@ -28,7 +28,7 @@ When Storyline is enabled in your organization, you'll see the following changes
 ## Configuration quick start guide 
 Configuration and management of Storyline is straightforward. Yammer Network and Verified admins can manage Storyline for their organizations by selecting the **Manage Storyline** link that is behind the gear icon on Yammer.com, and behind the ellipsis in the global header for the Viva Engage app. 
 
-## Enabling storyline
+## Enabling Storyline
 Once you have entered the Manage Storyline screen, you will see the toggle which controls the availability of Storyline within your organization. When you enable Storyline in your organization, it becomes available to all internal users who have access to Yammer and Viva Engage. All internal users will have their own Storyline feed on their profile pages and will be able to see, react, and respond to others’ Storyline posts. Guests won't have their own Storyline, and won't be able to see or engage with Storyline content from your internal users who do. 
 
 When you disable Storyline, it removes the Storylines tab from all user profile pages and removes the Storylines landing page. Disabling Storyline prevents new Storyline conversations from being started, but does not delete any conversations that were posted prior to Storyline being disabled. Previously posted Storyline content can still be accessed through search and the Yammer Inbox by the people who participated in the Storyline conversation. Users who didn't participate in the conversation won't have access after Storyline has been disabled. Storyline content will continue to be available through network data export and will be available through eDiscovery for networks that are in native mode.  
