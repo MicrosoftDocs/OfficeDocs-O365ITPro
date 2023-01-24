@@ -75,7 +75,7 @@ This type of production is typically used for large-scale events such as executi
 ![Yammer live events showing the legacy Microsoft Stream options to produce events ](../media/live-event-stream.jpg)
 
 
-- **Use an external encoder to produce your live event**: 
+- **Use Microsoft Stream external app or device**: 
  
     This type of event is typically used for large-scale events such as executive town halls, where a single stream from a media mixer is broadcasted to the audience. 
 
@@ -83,7 +83,7 @@ This type of production is typically used for large-scale events such as executi
     - You need to use an external encoder (app or device) to produce the event.
     - Attendees view the event in Yammer.
     
-- **Use Teams to produce your live event**:  
+- **Use Microsoft Stream QuickStart**:  
 
     This is used for simple events when all you need are the audio and video devices connected to the presenter's computer, or when you're inviting a remote presenter for the event. 
    
