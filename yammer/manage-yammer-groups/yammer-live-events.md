@@ -1,10 +1,10 @@
 ---
-title: "Live events in Yammer"
+title: "Organize a Microsoft Teams powered live event in Yammer"
 f1.keywords:
 - NOCSH
-ms.author: pamgreen
-author: ToniSFrench
-manager: pamgreen
+ms.author: mamiejohnson
+author: mamiepjohnson
+manager: dmillerdyson
 ms.date: 9/23/2019
 audience: Admin
 ms.topic: overview
@@ -24,7 +24,10 @@ search.appverid:
 ms.assetid: 4ece0ee2-c268-4636-bf2a-16e454befe57
 description: "Learn what's needed for group admins to host live video events for Yammer users."
 ---
-# Live events in Yammer
+# Organize a Microsoft Teams powered live event in Yammer 
+
+> [!NOTE]
+> Yammer live events have historically used Stream live events for video processing. Microsoft is retiring Stream live events on DATE, 2023. Teams live events is the successor service that will allow you to create, host and produce live events within Yammer with the same functionality that you get with Stream.
 
 > [!IMPORTANT]
 > **To continue supporting our customers' needs, we will extend temporary limit increases for live events through June 30, 2023, including:**
@@ -34,36 +37,45 @@ description: "Learn what's needed for group admins to host live video events for
 >
 > Additionally, live events for up to 100,000 attendees can be requested through the [Microsoft 365 live events assistance program](https://resources.techcommunity.microsoft.com/live-events/assistance/). The team will assess each request and work with you to determine options that may be available. [Learn more.](https://aka.ms/Stream/Blog/LiveEventOptions)
 
-To bring the members of a community together centered around an event, Yammer group admins can host a live video event including Yammer conversations before, during, and after the event.
-
 > [!IMPORTANT]
-> When setting up a live event, we recommend that you configure your video, community, and user permissions at least 24 hours before the event for the best experience. This includes such settings as adding users, updating video permissions, and changing a community from private to public. It can take up to two hours for certain changes to propagate across Microsoft Stream, Microsoft Teams, and Microsoft Yammer. Allowing 24 hours or more can provide time for testing and making adjustments if needed.
+> When setting up a live event, we recommend that you configure your video, community, and user permissions at least 24 hours before the event for the best experience. This includes such settings as adding users, updating video permissions, and changing a community from private to public. It can take up to two hours for certain changes to propagate across Microsoft Stream, Microsoft Teams, and Microsoft Yammer. Allowing 24 hours or more can provide time for testing and adjusting if needed.
 
 Live events can be held in a public group to reach all employees or in a private group so that only those with membership in the group can participate.
 
-> [!TIP]
-> Do you have a question about or need help with live events? Contact our [Live Events Assistance team](https://resources.techcommunity.microsoft.com/live-events/assistance/) to get started!
-
 This article lists the Yammer network requirements, licenses, and permissions for organizing and participating in live events.
-
-- For an overview of how to plan, staff, and communicate your live event, see [How to host a Live Event in Yammer: A step-by-step playbook](https://aka.ms/LiveEventsinYammerplaybook).
-
-- To download templates for communications, go to [Live Event Yammer templates](https://aka.ms/LiveEventYammerTemplates).
- 
-- For steps to create a live event in Yammer, see [Organize a live event in Yammer](https://support.office.com/article/organize-a-live-event-in-yammer-105dd7af-9caf-4a5e-8a44-56d203e96551).
-
-- To see what a live event in Yammer looks like, see [Attend a live event in Yammer](https://support.office.com/article/attend-a-live-event-in-yammer-4b08133c-9ebb-47b0-ab60-4dbfd4bfc965). 
-
-- For answers to frequently asked questions, see [Yammer live event FAQ](https://support.office.com/article/43bbd59d-a734-4c8f-923d-6a239d137d34).
 
 ## Types of live events
 
-To understand how Yammer, Stream, and Teams work together in live events, see [Overview of live events](/microsoftteams/teams-live-events/what-are-teams-live-events#overview). 
-Live events can be created and viewed in Yammer, Stream, or Teams. This article explains the requirements for creating and viewing a live event in Yammer. 
+To understand how Yammer, Stream, and Teams work together in live events, see [Overview of live events](/microsoftteams/teams-live-events/what-are-teams-live-events#overview). Live events can be created and viewed in Yammer, Stream, or Teams. This article explains the requirements for creating and viewing a live event in Yammer.
 
-There are two ways live events in Yammer can be produced. The requirements depend on which video production methods you intend to use in your organization.
+> [!NOTE]
+> Yammer live events have historically used Stream live events for video processing. Microsoft is retiring Stream live events on DATE, 2023. Teams live events is the successor service that will allow you to create, host and produce live events within Yammer with the same functionality that you get with Stream.
 
-- **Use an external encoder to produce your live event**: 
+There are four ways in which live events in Yammer can be produced - using Microsoft Stream and Teams. The recommended methods are to use the new Teams options to produce live events in Yammer due to Microsoft retiring Stream live events. 
+
+## New recommended methods to produce Yammer live events using Microsoft Teams:
+
+![Image of Yammer live events showing new Teams options to produce events.](../media/live-event-teams.jpg)
+
+- **Use Microsoft Teams QuickStart**: This is used to produce simple live events where all you need are the audio and video devices connected to the presenter’s computer, or when you are inviting a remote presenter for the event. 
+    - This type of event uses Teams to encode the broadcast stream. 
+    - Uses Teams to share content from the presenter’s webcam and screen.
+    - Attendees can view the event on Yammer. 
+    - The video is stored in the SharePoint library connected to the Yammer community in which the live event was produced.
+
+- **Use Teams external app or device**: 
+This type of production is typically used for large-scale events such as executive town halls, where a single stream from a media mixer is broadcast to the audience. 
+    - This type of event uses Teams to broadcast 
+    - You will need to use an external encoder (app or device) to produce the event 
+    - Attendees can view the event in Yammer. 
+    - The video is stored in the SharePoint library connected to the Yammer community in which the live event was produced. 
+
+## Microsoft Stream options that will be deprecated (not recommended):
+
+![Image of Yammer live events showing the legacy Microsoft Stream options to produce events.](../media/live-event-stream.jpg)
+
+
+- **Use Microsoft Stream external app or device**: 
  
     This type of event is typically used for large-scale events such as executive town halls, where a single stream from a media mixer is broadcasted to the audience. 
 
@@ -71,7 +83,7 @@ There are two ways live events in Yammer can be produced. The requirements depen
     - You need to use an external encoder (app or device) to produce the event.
     - Attendees view the event in Yammer.
     
-- **Use Teams to produce your live event**:  
+- **Use Microsoft Stream QuickStart**:  
 
     This is used for simple events when all you need are the audio and video devices connected to the presenter's computer, or when you're inviting a remote presenter for the event. 
    
@@ -81,19 +93,16 @@ There are two ways live events in Yammer can be produced. The requirements depen
 
 ## Yammer network and group requirements
 
- - To host a live event in Yammer, your organization must have **Enforce Office 365 identity** selected, and you must be using Microsoft 365 connected Yammer groups. For more information see [Enforce Office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md) and [Yammer and Microsoft 365 groups](../manage-yammer-groups/yammer-and-office-365-groups.md).
-
-- The event must be held in either a public Yammer Microsoft 365 connected group, or a private Yammer Microsoft 365 connected group that includes everyone who will be invited to the live event. For more information, see [Create a group in Yammer](https://support.office.com/article/create-a-group-in-yammer-b407af4f-9a58-4b12-b43e-afbb1b07c889) and [Manage a group in Yammer](https://support.office.com/article/manage-a-group-in-yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). 
+ - To host a live event in Yammer, your organization must have **Enforce Office 365 identity** selected, and you must be using Microsoft 365 connected Yammer groups. 
+ - For more information, see [Enforce Office 365 identity for Yammer users](../configure-your-yammer-network/enforce-office-365-identity.md) and [Yammer and Microsoft 365 groups](../manage-yammer-groups/yammer-and-office-365-groups.md).
+ - The event must be held in either a public Yammer Microsoft 365 connected group, or a private Yammer Microsoft 365 connected group that includes everyone who will be invited to the live event. For more information, see [Create a group in Yammer](https://support.office.com/article/create-a-group-in-yammer-b407af4f-9a58-4b12-b43e-afbb1b07c889) and [Manage a group in Yammer](https://support.office.com/article/manage-a-group-in-yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2). 
 
 ## Requirements for live event attendees
 
 - Everyone who attends a Yammer live event must have a Microsoft 365 or an Office 365 plan that includes a license for Yammer (for example, Office 365 A3, A5, F1, E1, E3, or E5) and Microsoft Stream.
-
 - Only members of your Yammer network can attend live events. Guests and external users do not have access to live events.
-
-- For live events in public groups, all members of your Yammer network can attend. For live events in private groups, attendees must be members of the private group in which the live event is hosted. 
-
-- For attending a live event in Teams, a Teams license is required. 
+- For live events in public groups, all members of your Yammer network can attend. For live events in private groups, attendees must be members of the private group in which the live event is hosted.
+- For attending a live event in Teams, a Teams license is required.
 
 ## Permissions for scheduling, creating, and producing live events in Yammer
 
@@ -114,35 +123,36 @@ Yammer has partnered with Teams and Stream to provide the best technology for ru
  
 ### Restrict creation of live events in Yammer
 
-You can prevent creation of live events produced in teams, live events produced with other tools, or both.
+You can prevent the creation of live events produced in teams, live events produced with other tools, or both.
 
 - To prevent creation of live events produced in Teams, remove permissions in Teams for live event scheduling. If a user does not have a license or permission to create a live event in Teams, when they create a live event in Yammer, the produce in Teams option is unavailable.
-
 - If you do not have permission to create live events in Stream, you cannot create live events in Yammer.
 
 ## FAQ
 
-**Q: How many participants can view a live event at once?**
+**Q: How many attendees can view a live event at once?**
 
-A. Currently, the limit is 10,000 participants. For events of a higher size, work through the [Live Events Assistance Program](https://resources.techcommunity.microsoft.com/live-events/assistance/).
+A. Currently, the limit is 10,000 attendees. For larger attendee sizes, please contact the Microsoft 365 [Live Events Assistance Program](/stream/live-events-assistance).
 
 **Q: What media player is used for live events?**
 
-Events produced using Teams use the Azure Media Player.
-
-Events produced using an external app or device use the Stream player.
-
-Both work on desktop, web, and mobile devices (iOS and Android).
+The new live events are broadcast using the Teams media player and can be viewed live or on-demand on Yammer’s Web and Mobile apps (iOS and Android).
 
 **Q: Why can't I view the video?**
 
-To maintain the privacy of live event content, only authorized users can join a live event and are authenticated as they load the live event page. If authentication isn't successful, you won't be able to view the video.
+To maintain the privacy of live event content, only authorized users can join a live event and are authenticated as they load the live event page. If authentication isn't successful, you won't be able to view the video. To fix this, use your browser's settings to make sure that cookies are enabled and that any extensions that block tokens are disabled. After changing the settings, refresh the event page.
 
-To fix this, use your browser's settings to make sure that cookies are enabled and that any extensions that block tokens are disabled. After changing the settings, refresh the event page.
+**Q: Where are the videos stored once they are produced?**
 
-**Q: How can I make it easy for my event organizers to get help?**
+The Video-on-Demand is stored in the SharePoint Community where the event was hosted is automatically shared with members of the private community, or with everyone across the Yammer network if the event was produced in a public community.
 
-In Microsoft 365 and Office 365, you can customize the help pane that comes up when users click the Help icon to add contact information for your local support staff. For more information, see [Add customized help desk info to the help pane](/office365/admin/misc/customize-help-desk).
+**Q: Can Event Producers edit videos?**
+
+Yes, the videos can be edited in SharePoint. The edited video in SharePoint is automatically updated for attendees to watch. Please note that it could take 10 minutes before producers can edit their videos after the event is completed.
+
+**Q: What happens to the old live events videos that were produced using Microsoft Stream?**
+
+Live Events videos created using Stream will continue to function - attendees can continue to watch those videos on demand broadcasted on Microsoft Stream. However, you should migrate those videos from Stream to SharePoint – see [this article](/stream/streamnew/stream-classic-to-new-migration-overview) on how to migrate content.
 
 ## Related articles
 
