@@ -46,7 +46,7 @@ This article lists the Yammer network requirements, licenses, and permissions fo
 
 ## Types of live events
 
-To understand how Yammer, Stream, and Teams work together in live events, see [Overview of live events](/microsoftteams/teams-live-events/). Live events can be created and viewed in Yammer, Stream, or Teams. This article explains the requirements for creating and viewing a live event in Yammer.
+To understand how Yammer, Stream, and Teams work together in live events, see [Overview of live events](https://learn.microsoft.com/microsoftteams/teams-live-events/what-are-teams-live-events#overview). Live events can be created and viewed in Yammer, Stream, or Teams. This article explains the requirements for creating and viewing a live event in Yammer.
 
 > [!NOTE]
 > Yammer live events have historically used Stream live events for video processing. Microsoft is retiring Stream live events on DATE, 2023. Teams live events is the successor service that will allow you to create, host and produce live events within Yammer with the same functionality that you get with Stream. 
