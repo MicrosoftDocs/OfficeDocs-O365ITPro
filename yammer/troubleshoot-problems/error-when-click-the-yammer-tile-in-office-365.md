@@ -9,6 +9,7 @@ ms.topic: article
 f1.keywords:
 - NOCSH
 ms.author: v-njeremy
+ms.date: 06/25/2019
 ---
 
 # "Sorry, but we're having trouble signing you in" error when you click the Yammer tile in Office 365

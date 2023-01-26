@@ -9,6 +9,7 @@ ms.topic: article
 f1.keywords:
 - NOCSH
 ms.author: v-njeremy
+ms.date: 06/25/2019
 ---
 
 # A Yammer user is displayed as "Former member" when you use Office 365 sign in

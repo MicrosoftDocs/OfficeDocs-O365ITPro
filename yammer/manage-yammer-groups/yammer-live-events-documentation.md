@@ -12,6 +12,7 @@ ms.service: yammer
 ms.localization_priority: Priority
 search.appverid:
 - MET150
+ms.date: 09/19/2022
 ---
 
 # Yammer Encoded Events powered by Microsoft Teams Public Preview Documentation
