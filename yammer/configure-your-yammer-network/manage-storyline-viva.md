@@ -14,6 +14,7 @@ ms.collection:
 - M365initiative-viva
 search.appverid:
 - MET150
+ms.date: 08/30/2022
 ---
 
 # Manage Storyline for Microsoft Viva Engage and Yammer 
