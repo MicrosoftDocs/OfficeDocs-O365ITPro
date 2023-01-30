@@ -8,7 +8,7 @@ ms.service: sharepoint-online
 ms.topic: article
 f1.keywords:
 - NOCSH
-ms.author: v-njeremy
+ms.author: pamgreen
 ms.date: 06/25/2019
 ---
 

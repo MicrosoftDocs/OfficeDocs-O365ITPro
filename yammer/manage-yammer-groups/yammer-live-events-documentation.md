@@ -2,7 +2,7 @@
 title: "Yammer Encoded Events powered by Microsoft Teams Public Preview Documentation"
 description: "Yammer Live Events Convergence Preview Documentation"
 ms.author: v-jebizie
-author: v-jebizie
+author: dmillerdyson
 manager: dmillerdyson
 audience: Admin
 f1.keywords:
