@@ -1,7 +1,7 @@
 ---
 title: "Yammer Encoded Events powered by Microsoft Teams Public Preview Terms & Conditions and FAQ"
 description: "Yammer Live Events convergence preview Terms & Conditions and FAQ"
-ms.author: v-jebizie
+ms.author: dmillerdyson
 author: dmillerdyson
 manager: dmillerdyson
 audience: Admin
