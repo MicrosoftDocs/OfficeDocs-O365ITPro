@@ -34,6 +34,8 @@ Once you have entered the Manage Storyline screen, you will see the toggle which
 
 When you disable Storyline, it removes the Storylines tab from all user profile pages and removes the Storylines landing page. Disabling Storyline prevents new Storyline conversations from being started, but does not delete any conversations that were posted prior to Storyline being disabled. Previously posted Storyline content can still be accessed through search and the Yammer Inbox by the people who participated in the Storyline conversation. Users who didn't participate in the conversation won't have access after Storyline has been disabled. Storyline content will continue to be available through network data export and will be available through eDiscovery for networks that are in native mode.  
 
+<!-- Commenting out these updates to copy until the PM gets back to me that this feature is GA 
+
 ## Advanced Settings
 
 Storyline supports additional controls for admins who wish to customize their configuration of Storyline. Initially, this includes setting the default notification preferences for Storyline, but we expect other advanced features to follow. 
@@ -46,7 +48,7 @@ The system default selections for notifications include:
 
 - Microsoft Teams – notifications are delivered in the Teams Activity feed 
 - Email – email delivered to your Inbox includes support for Actionable messages, so the conversation can be viewed and replied from Outlook Web Access.
-- Viva Engage & Yammer – notifications are delivered to the Viva Engage & Yammer notification bells. 
+- Viva Engage & Yammer – notifications are delivered to the Viva Engage & Yammer notification bells. -->
 
 ## Preview features
 This toggle allows you to preview some of the features that will be available in Yammer and the Viva Engage app through Viva Engage. The features available through this preview will be available to all of the internal users in your tenant who have access to Yammer and Viva Engage, irrespective of license status. Pricing and licensing requirements for these features post-preview are yet to be determined. 
