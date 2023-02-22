@@ -2,9 +2,9 @@
 title: "Configure your Yammer network"
 f1.keywords:
 - NOCSH
-ms.author: pamgreen
-author: ToniSFrench
-manager: pamgreen
+ms.author: v-whitfieldd
+author: dwhitfield233
+manager: dmillerdyson
 ms.date: 9/23/2019
 audience: Admin
 ms.topic: article
