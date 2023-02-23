@@ -35,7 +35,7 @@ External networks are essentially their own networks: each has its own admin cen
    ![Settings menu, with permission to create external networks.](../media/76058573-115f-43a3-b073-59ba5d3b28d0.png)
   
    > [!NOTE]
-   > You must be a verified ADmin to create an external network and your home network must have already existed for at least 30 days. If **Create a New Network** is not visible, it means you're not a verified Yammer admin, or you have not met the minimum age for your home network. 
+   > You must be a verified ADmin to create an external network and your home network must have already existed for at least 30 days. If **Create a New Network** is not visible, it means you're not a verified Yammer admin, or you have not met the minimum age for your home network.
    >
    >To find a home network admin for help setting up an external network, in your browser go to **https://yammer.com/***your_network***/admin** to find the list of Yammer admins.  
   
@@ -59,6 +59,8 @@ External networks are essentially their own networks: each has its own admin cen
 
     - **Allow members to join without an invite:** When you select this, users can join without an invite. When you clear this checkbox, users in your home network must request approval before joining this external network.
 
+    - **Best Practise: Setting Permissions to Closed and INvite Required recommended for most secure use.**
+
 3. Click **Create Network**.
 
    The top bar of your network shows that you're now in the external network. The settings icon for the external network ![Settings icon for an external network.](../media/e1f84edf-4842-4732-89b2-f7e46e4c94e1.png) has a blue circle in it.
@@ -70,7 +72,7 @@ External networks are essentially their own networks: each has its own admin cen
 4. To start inviting people to join your external network, click the external network settings icon ![Settings icon for an external network.](../media/e1f84edf-4842-4732-89b2-f7e46e4c94e1.png), and then click **Invite**.
 
    > [!NOTE]
-   > You can now invite EU users to participate in external networks hosted in the US. If an EU-based organization had previously used a network in the US geo, it is possible that a subset of users were active members in external networks before their network moved to the EU geo. If a previously active user profile already exists, it will be marked as "deleted" without deleting the content in those external networks when the user is reinvited to access external networks using a new profile.  For more information, see [Cross-geo external collaboration support on Yammer External Networks for the EU](https://techcommunity.microsoft.com/t5/yammer-blog/cross-geo-external-collaboration-support-on-yammer-external/ba-p/3056462). 
+   > You can now invite EU users to participate in external networks hosted in the US. If an EU-based organization had previously used a network in the US geo, it is possible that a subset of users were active members in external networks before their network moved to the EU geo. If a previously active user profile already exists, it will be marked as "deleted" without deleting the content in those external networks when the user is reinvited to access external networks using a new profile.  For more information, see [Cross-geo external collaboration support on Yammer External Networks for the EU](https://techcommunity.microsoft.com/t5/yammer-blog/cross-geo-external-collaboration-support-on-yammer-external/ba-p/3056462).
   
 ## Go to and from an external network
 
@@ -101,7 +103,7 @@ To get back to your home network, click the home network name at the end of the 
    ![Admin menu for an external network.](../media/afc2fe6a-f41d-4dc6-bce5-c59595997bcc.png)
   
    > [!NOTE]
-   > Not all settings are available for external networks: you can't create another external network from an existing external network, invite guests, or monitor a person's account activity. End users who create an external network have fewer configuration options. End users can modify the **Configuration**, **Design**, and **Usage Policy** settings, as well as create additional admins and manage users. They can't bulk update users or change anything in the **Content and Security** section. 
+   > Not all settings are available for external networks: you can't create another external network from an existing external network, invite guests, or monitor a person's account activity. End users who create an external network have fewer configuration options. End users can modify the **Configuration**, **Design**, and **Usage Policy** settings, as well as create additional admins and manage users. They can't bulk update users or change anything in the **Content and Security** section.
 
    > [!NOTE]
    > Networks Admins note that the "Require admin approval for members to join other companies' external groups or external networks" setting is **OFF** by default. Turn this setting **ON** to review and select whether or not members of your home network can participate in external networks hosted by other organizations. You can review pending requests under **Pending Requests** options under **Edit** settings in your home network.
