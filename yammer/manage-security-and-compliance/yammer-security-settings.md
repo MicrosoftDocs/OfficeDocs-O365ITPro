@@ -49,20 +49,15 @@ Control where people can access Yammer from, set password policies, control exte
 
 2. Click **External Networks**.
 
-    ![List of available external network settings.](../media/151056e3-3843-4dd5-8c2c-044b340ecb5b.png)
+    ![List of available external network settings.](../media/yammer-security-external-network-settings.png)
   
-3. Select whether any member of your home network can create an external network, or only admins.
-
-    > [!IMPORTANT]
-    > If you allow any member to create a network, the person automatically becomes a network admin of the external network.
-  
-4. Select ways to limit access to all external networks:
+3. Select ways to limit access to all external networks:
 
 - **Require admin approval for users to join other companies' external networks:** Selecting this box requires users to request approval before they join external networks created by other organizations.
 
-- **Disable the Related External Networks directory:** The Related Networks directory is a list of external networks to which one or more of your users belong. Selecting this box removes this directory from the External Network page.
+- **Disable Related External Networks directory:** The Related Networks directory is a list of external networks to which one or more of your users belong. Selecting this box removes this directory from the External Network page.
 
-- **Disable the Our External Networks directory:** The Our External Networks directory lists all external networks attached to your Yammer network. Select this if you would like to prevent users from being able to view and requesting to join external networks.
+- **Disable Our External Networks directory:** The Our External Networks directory lists all external networks attached to your Yammer network. Select this if you would like to prevent users from being able to view and requesting to join external networks.
 
 For more information about external messaging, see [External messaging FAQ (Yammer)](../work-with-external-users/external-messaging-faq.md).
   
