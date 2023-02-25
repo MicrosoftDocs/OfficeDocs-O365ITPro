@@ -21,7 +21,7 @@ description: "Use the Yammer admin tools to set up your Yammer network. Covers o
 
 # Configure your Yammer network
 
-Do these basic network configuration tasks in the Yammer admin center before you invite users to use Yammer Enterprise so that all users get a consistent experience.
+Complete these basic network configuration tasks in the Yammer admin center before you invite users to use Yammer Enterprise so that all users get a consistent experience.
   
 As you're getting started with Yammer, review the links in [Yammer admin help](../index.yml) for other tasks you might want to do, such as [customizing the look of your Yammer network](customize-the-look-of-yammer.md), [reviewing security and compliance settings](../manage-security-and-compliance/security-and-compliance.md), and making sure your [email system is configured properly](configure-email-and-yammer.md).
   
@@ -139,8 +139,8 @@ System messages notify users of important actions in the network and conversatio
 
 Require Admin Approval setting allows network admins to review and allow or deny members of your home network from participating in external networks hosted by other organizations. This setting is **OFF** be default. Turn this setting **ON** to review and select whether or not members of your home network can participate in external networks hosted by other organizations.
 
-When this setting is **ON**, when members from your home network are invited to participate in external networks hosted by other organizations, they can request your approval and you can review pending requests under **Pending Requests** options under **Edit** settings in your home network.
+When this setting is **ON**, and when members from your home network are invited to participate in external networks hosted by other organizations, they can request your approval and you can review pending requests under the **Pending Requests** options in the **Edit** settings in your home network.
 
-To turn this setting to **ON**, go to **Network** setting and select **External Networks** and select the “Require admin approval for members to join other companies' external groups or external networks" to **ON**.
+To turn this setting to **ON**, go to **Network** settings and select **External Networks** and select the “Require admin approval for members to join other companies' external groups or external networks" to **ON**.
 
 ![External networks](../media/yammer-configure-network-external-settings.png)

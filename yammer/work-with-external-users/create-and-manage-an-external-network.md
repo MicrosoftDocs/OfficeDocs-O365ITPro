@@ -37,7 +37,7 @@ External networks are essentially their own networks: each has its own admin cen
    > [!NOTE]
    > You must be a verified ADmin to create an external network and your home network must have already existed for at least 30 days. If **Create a New Network** is not visible, it means you're not a verified Yammer admin, or you have not met the minimum age for your home network.
    >
-   >To find a home network admin for help setting up an external network, in your browser go to **https://yammer.com/***your_network***/admin** to find the list of Yammer admins.  
+   >To find a home network admin for help setting up an external network, in your browser go to ```**https://yammer.com/***your_network***/admin**``` to find the list of Yammer admins.  
   
 2. Fill in the required settings:
 
@@ -59,7 +59,7 @@ External networks are essentially their own networks: each has its own admin cen
 
     - **Allow members to join without an invite:** When you select this, users can join without an invite. When you clear this checkbox, users in your home network must request approval before joining this external network.
 
-    - **Best Practise: Setting Permissions to Closed and INvite Required recommended for most secure use.**
+    - **Best Practise: Setting Permissions to Closed and Invite Required recommended for most secure use.**
 
 3. Click **Create Network**.
 
