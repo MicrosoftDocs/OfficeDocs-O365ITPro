@@ -20,7 +20,7 @@ This article describes the current limits that apply to Microsoft Planner.
 |---------|---------|
 |Maximum active tasks in a plan    |2400|
 |Maximum buckets in a plan    |200|
-|Maximum plans owned by a user     |200|
+|Maximum plans owned by a group or user     |200|
 |Maximum plans that a user can delta-sync     |300|
 |Maximum tasks in a plan    |9000|
 |Maximum users that can delta-sync a plan    |100|
@@ -28,7 +28,16 @@ This article describes the current limits that apply to Microsoft Planner.
 |Maximum favorite plans for a user     |30|
 
 > [!NOTE]
-> (Delta sync lets users passively receive updates in real time while the app is open. Users beyond the delta-sync limits will still get updates normally when they re-open the app.)
+> An active task is a task that is not completed.
+
+> [!NOTE]
+> Delta sync lets users passively receive updates in real time while the app is open. Users beyond the delta-sync limits will still get updates normally when they re-open the app.
+
+> [!NOTE]
+> Most Planner plans are owned by a group. Plans created by other apps, and shown in Planner, may be owned by a user.
+
+> [!NOTE]
+> A context is the association between a plan and a host container like a Teams tab. The limit on contexts is a limit on how many associations a plan can have.
 
 ## Task limits
 
