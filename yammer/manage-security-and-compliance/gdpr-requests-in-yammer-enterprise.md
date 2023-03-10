@@ -50,17 +50,17 @@ Use the Yammer file ID from the export to go directly to the file in Yammer and 
   
 2. In the message, click the **More** icon ![More icon (...).](../media/d9378a9a-fb0a-4313-96e5-bc6c9f1d5827.png), and then click **GDPR Hard Delete**.
 
-**To delete the cover images for a user:**
+**To locate and delete a specific Yammer file stored in Yammer or SharePoint:**
 
   - Use the **Search** box in Yammer. For example, for a file named 12345678.pptx in the export, search for 1235678.pptx. In the search results, click **Go to File**, and then click **Delete this File**.
 
   - You can also build the URL for the file. Use **https&#58;//www&#46;yammer&#46;com**/*network_name*/**#**/**files**/*file_number*, for example https&#58;//www&#46;yammer&#46;com/contosomkt&#46;onmicrosoft&#46;com/#/files/12345678. On the Yammer page for the file, click **Delete this File**.
 
-**To locate and delete a specific Yammer file stored in Yammer or SharePoint:**
+**To delete the cover images for a user:**
 
  1. Via API: Engage Admins or verified admins can delete cover images for any user in their network via an API call. The URL will have this syntax: www&#46;yammer&#46;com/api/public/v1/user-profiles/*user_id*/cover-image
 
-  For example, to delete the cover images of a user with id 1234567890, the URL would look like: www&#46;yammer&#46;com/api/public/v1/user-profiles/1234567890/cover-image
+      For example, to delete the cover images of a user with id 1234567890, the URL would look like: www&#46;yammer&#46;com/api/public/v1/user-profiles/1234567890/cover-image
 
  2. Via UI: Engage Admins with premium Viva licenses can upload or delete cover photos for any user who has the premium Viva license and has storyline enabled by:
      1. Visiting the profile page of the user
