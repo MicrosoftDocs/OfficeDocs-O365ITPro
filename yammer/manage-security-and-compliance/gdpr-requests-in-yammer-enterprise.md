@@ -28,7 +28,7 @@ Choose the approach that makes sense for your situation, and **follow the steps 
 |:-----|:-----|
 |Keep all messages and files created by the user.|Remove the user by using the **Erase the user** option. This removes the user from the home network and any external networks they belong to, but does not delete any of their messages or files.|
 |Delete all messages created by the user and decide which files to delete|1. Do one per-user export of the user's data for the home network, and one for each external network they belong to.<br>2. Remove the user from each network by using the **Permanently remove this user, and remove their messages** option.<br>3. In the home network, use the **Erase the user** option.<br>4. Within 14 days, remove any files stored in Yammer in the home network as necessary, as well as any information not included in the per user export.*|
-|Review files and messages created by the user and decide which to keep and which to delete|1. Do one per-user export of the user's data for the home network, and one for each external networks they belong to. <br>2. In the home network, use the **Erase this user** option. <br>3. Within 14 days, remove any files or messages as necessary from the home network, as well as any information not included in the per user export.*|
+|Review files and messages created by the user and decide which to keep and which to delete|1. Do one per-user export of the user's data for the home network, and one for each external network they belong to. <br>2. In the home network, use the **Erase this user** option. <br>3. Within 14 days, remove any files or messages as necessary from the home network, as well as any information not included in the per user export.*|
 
  \* If you prefer to have more than 14 days to review and delete files and messages, you can do this prior to erasing the user.
 
@@ -191,7 +191,7 @@ When a user's account is deactivated using the **Erase this user** option, you h
 
 3. Go to the **Deactivated Users** section. This section will only be visible when there is at least one deactivated user account.
 
-4. Click **Reactivate** for each user you want to reactivated. 
+4. Click **Reactivate** for each user you want to reactivate. 
 
     After 14 days, the user cannot be reactivated.
 
