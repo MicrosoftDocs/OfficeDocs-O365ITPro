@@ -57,6 +57,8 @@ Use the Yammer file ID from the export to go directly to the file in Yammer and 
   2. You can also build the URL for the file. Use **https&#58;//www&#46;yammer&#46;com**/*network_name*/**#**/**files**/*file_number*, for example https&#58;//www&#46;yammer&#46;com/contosomkt&#46;onmicrosoft&#46;com/#/files/12345678. On the Yammer page for the file, click **Delete this File**.
 
 **To delete the cover images for a user:**
+> [!NOTE]
+> In cases where the admin or the user are not premium licensed, and/or the user no longer has their own storyline, previously uploaded photos will need to be deleted via API.
 
  1. Via API: Engage Admins or verified admins can delete cover images for any user in their network via an API call. The URL will have this syntax: www&#46;yammer&#46;com/api/public/v1/user-profiles/*user_id*/cover-image
 
@@ -66,9 +68,6 @@ Use the Yammer file ID from the export to go directly to the file in Yammer and 
      1. Visiting the profile page of the user
      2. Hover your mouse over the profile header and select **"Upload cover photo"**
      3. Delete or upload a new cover image, as needed.
-
-> [!NOTE]
-> In cases where the admin or the user are not premium licensed, and/or the user no longer has their own storyline, previously uploaded photos will need to be deleted via API.
 
 <a name="OtherData"> </a>
 ## Find and delete user data not included in the per-user export
