@@ -58,9 +58,9 @@ Use the Yammer file ID from the export to go directly to the file in Yammer and 
 
 **To locate and delete a specific Yammer file stored in Yammer or SharePoint:**
 
- 1. Via API: Engage Admins or verified admins can delete cover images for any user in their network via an API call. The URL will have this syntax: www.yammer.com/api/public/v1/user-profiles/< user-id >/cover-image
+ 1. Via API: Engage Admins or verified admins can delete cover images for any user in their network via an API call. The URL will have this syntax: www&#46;yammer&#46;com/api/public/v1/user-profiles/*user_id*/cover-image
 
-  For example, to delete the cover images of a user with id 1234567890, the URL would look like: www.yammer.com/api/public/v1/user-profiles/1234567890/cover-image
+  For example, to delete the cover images of a user with id 1234567890, the URL would look like: www&#46;yammer&#46;com/api/public/v1/user-profiles/1234567890/cover-image
 
  2. Via UI: Engage Admins with premium Viva licenses can upload or delete cover photos for any user who has the premium Viva license and has storyline enabled by:
      1. Visiting the profile page of the user
