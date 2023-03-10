@@ -2,9 +2,9 @@
 title: "Manage GDPR data subject requests in Yammer Enterprise"
 f1.keywords:
 - NOCSH
-ms.author: pamgreen
-author: TonisFrench
-manager: pamgreen
+ms.author: mamiejohnson
+author: mamiepjohnson
+manager: dmillerdyson
 ms.date: 02/20/2020
 audience: Admin
 ms.topic: article
@@ -50,11 +50,25 @@ Use the Yammer file ID from the export to go directly to the file in Yammer and 
   
 2. In the message, click the **More** icon ![More icon (...).](../media/d9378a9a-fb0a-4313-96e5-bc6c9f1d5827.png), and then click **GDPR Hard Delete**.
 
-**To locate and delete a specific Yammer file stored in Yammer or SharePoint:**
+**To delete the cover images for a user:**
 
   - Use the **Search** box in Yammer. For example, for a file named 12345678.pptx in the export, search for 1235678.pptx. In the search results, click **Go to File**, and then click **Delete this File**.
 
-  - You can also build the URL for the file. Use **https&#58;//www&#46;yammer&#46;com**/*network_name*/**#**/**files**/*file_number*, for example https&#58;//www&#46;yammer&#46;com/contosomkt&#46;onmicrosoft&#46;com/#/files/12345678. On the Yammer page for the file, click **Delete this File**. 
+  - You can also build the URL for the file. Use **https&#58;//www&#46;yammer&#46;com**/*network_name*/**#**/**files**/*file_number*, for example https&#58;//www&#46;yammer&#46;com/contosomkt&#46;onmicrosoft&#46;com/#/files/12345678. On the Yammer page for the file, click **Delete this File**.
+
+**To locate and delete a specific Yammer file stored in Yammer or SharePoint:**
+
+ 1. Via API: Engage Admins or verified admins can delete cover images for any user in their network via an API call. The URL will have this syntax: www.yammer.com/api/public/v1/user-profiles/< user-id >/cover-image
+
+  For example, to delete the cover images of a user with id 1234567890, the URL would look like: www.yammer.com/api/public/v1/user-profiles/1234567890/cover-image
+
+ 2. Via UI: Engage Admins with premium Viva licenses can upload or delete cover photos for any user who has the premium Viva license and has storyline enabled by:
+     1. Visiting the profile page of the user
+     2. Hover your mouse over the profile header and select **"Upload cover photo"**
+     3. Delete or upload a new cover image, as needed.
+
+> [!NOTE]
+> In cases where the admin or the user are not premium licensed, and/or the user no longer has their own storyline, previously uploaded photos will need to be deleted via API.
 
 <a name="OtherData"> </a>
 ## Find and delete user data not included in the per-user export
