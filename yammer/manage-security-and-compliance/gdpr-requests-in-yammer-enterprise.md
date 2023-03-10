@@ -2,9 +2,9 @@
 title: "Manage GDPR data subject requests in Yammer Enterprise"
 f1.keywords:
 - NOCSH
-ms.author: pamgreen
-author: TonisFrench
-manager: pamgreen
+ms.author: mamiejohnson
+author: mamiepjohnson
+manager: dmillerdyson
 ms.date: 02/20/2020
 audience: Admin
 ms.topic: article
@@ -24,11 +24,11 @@ As a verified admin, you can erase a user from Yammer to comply with a [General 
 
 Choose the approach that makes sense for your situation, and **follow the steps in the order listed**. The order matters: once you erase a user you can no longer find their data to delete it.
 
-|**Approach**|**Steps**|
-|:-----|:-----|
+| Approach | Steps |
+| :----- | :----- |
 |Keep all messages and files created by the user.|Remove the user by using the **Erase the user** option. This removes the user from the home network and any external networks they belong to, but does not delete any of their messages or files.|
 |Delete all messages created by the user and decide which files to delete|1. Do one per-user export of the user's data for the home network, and one for each external network they belong to.<br>2. Remove the user from each network by using the **Permanently remove this user, and remove their messages** option.<br>3. In the home network, use the **Erase the user** option.<br>4. Within 14 days, remove any files stored in Yammer in the home network as necessary, as well as any information not included in the per user export.*|
-|Review files and messages created by the user and decide which to keep and which to delete|1. Do one per-user export of the user's data for the home network, and one for each external networks they belong to. <br>2. In the home network, use the **Erase this user** option. <br>3. Within 14 days, remove any files or messages as necessary from the home network, as well as any information not included in the per user export.*|
+|Review files and messages created by the user and decide which to keep and which to delete|1. Do one per-user export of the user's data for the home network, and one for each external network they belong to. <br>2. In the home network, use the **Erase this user** option. <br>3. Within 14 days, remove any files or messages as necessary from the home network, as well as any information not included in the per user export.*|
 
  \* If you prefer to have more than 14 days to review and delete files and messages, you can do this prior to erasing the user.
 
@@ -52,9 +52,22 @@ Use the Yammer file ID from the export to go directly to the file in Yammer and 
 
 **To locate and delete a specific Yammer file stored in Yammer or SharePoint:**
 
-  - Use the **Search** box in Yammer. For example, for a file named 12345678.pptx in the export, search for 1235678.pptx. In the search results, click **Go to File**, and then click **Delete this File**.
+  1. Use the **Search** box in Yammer. For example, for a file named 12345678.pptx in the export, search for 1235678.pptx. In the search results, click **Go to File**, and then click **Delete this File**.
 
-  - You can also build the URL for the file. Use **https&#58;//www&#46;yammer&#46;com**/*network_name*/**#**/**files**/*file_number*, for example https&#58;//www&#46;yammer&#46;com/contosomkt&#46;onmicrosoft&#46;com/#/files/12345678. On the Yammer page for the file, click **Delete this File**. 
+  1. You can also build the URL for the file. Use **https&#58;//www&#46;yammer&#46;com**/*network_name*/**#**/**files**/*file_number*, for example https&#58;//www&#46;yammer&#46;com/contosomkt&#46;onmicrosoft&#46;com/#/files/12345678. On the Yammer page for the file, click **Delete this File**.
+
+**To delete the cover images for a user:**
+> [!NOTE]
+> In cases where the admin or the user are not premium licensed, and/or the user no longer has their own storyline, previously uploaded photos will need to be deleted via API.
+
+ 1. Via API: Engage Admins or verified admins can delete cover images for any user in their network via an API call. The URL will have this syntax: www&#46;yammer&#46;com/api/public/v1/user-profiles/*user_id*/cover-image.
+
+      For example, to delete the cover images of a user with id 1234567890, the URL would look like: www&#46;yammer&#46;com/api/public/v1/user-profiles/1234567890/cover-image.
+
+ 2. Via UI: Engage Admins with premium Viva licenses can upload or delete cover photos for any user who has the premium Viva license and has storyline enabled by:
+     1. Visiting the profile page of the user.
+     2. Hovering your mouse over the profile header and selecting **"Upload cover photo"**.
+     3. Deleting or uploading a new cover image, as needed.
 
 <a name="OtherData"> </a>
 ## Find and delete user data not included in the per-user export
@@ -67,7 +80,7 @@ The following table shows how to change or delete this data if needed.
   
 ****
 
-|**Type of data**|**How to change or delete it**|
+| Type of data | How to change or delete it |
 |:-----|:-----|
 |Bookmarked messages, group membership, followed or following users, and followed topics  <br/> |When you select the [Erase a user from your Yammer home network and external networks](gdpr-requests-in-yammer-enterprise.md#RemoveUser) to remove a user from Yammer, this information is deleted after the 14-day suspension period. <br><br> A user can change or delete this information. For steps, see [Tips for staying organized in Yammer](https://support.office.com/article/40ae9666-75c0-4254-a84c-d87a9542f380.aspx).  <br/> |
 |User settings, including notification, application, and language settings  <br/> |When you select the [Erase a user from your Yammer home network and external networks](gdpr-requests-in-yammer-enterprise.md#RemoveUser) to remove a user from Yammer this information is deleted after the 14-day suspension period. As an admin, you can't change this information for a user.<br><br>A user can change their own settings. For steps, see [Change my Yammer profile and settings](https://support.office.com/article/a3aeca0e-de34-4897-9b59-de6516542851.aspx).  <br/> |
@@ -178,7 +191,7 @@ When a user's account is deactivated using the **Erase this user** option, you h
 
 3. Go to the **Deactivated Users** section. This section will only be visible when there is at least one deactivated user account.
 
-4. Click **Reactivate** for each user you want to reactivated. 
+4. Click **Reactivate** for each user you want to reactivate. 
 
     After 14 days, the user cannot be reactivated.
 
