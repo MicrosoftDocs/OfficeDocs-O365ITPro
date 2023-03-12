@@ -2,9 +2,9 @@
 
 
 
-## Week of March 14, 2022
+## Week of March 06, 2023
 
 
 | Published On |Topic title | Change |
 |------|------------|--------|
-| 3/17/2022 | [Microsoft Planner for admins # < 60 chars](/Office365/Planner/index) | modified |
+| 3/7/2023 | [Microsoft Planner limits](/Office365/Planner/planner-limits) | modified |
