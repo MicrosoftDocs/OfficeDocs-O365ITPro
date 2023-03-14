@@ -1,8 +1,8 @@
 ---
 title: "Yammer Encoded Events powered by Microsoft Teams Public Preview Documentation"
 description: "Yammer Live Events Convergence Preview Documentation"
-ms.author: v-jebizie
-author: v-jebizie
+ms.author: dmillerdyson
+author: dmillerdyson
 manager: dmillerdyson
 audience: Admin
 f1.keywords:
@@ -12,6 +12,7 @@ ms.service: yammer
 ms.localization_priority: Priority
 search.appverid:
 - MET150
+ms.date: 09/19/2022
 ---
 
 # Yammer Encoded Events powered by Microsoft Teams Public Preview Documentation
@@ -84,7 +85,7 @@ To maintain the privacy of live event content, only authorized users can join a 
 The Video-on-Demand is stored in the SharePoint Community where the event was hosted is automatically shared with members of the private community, or with everyone across the Yammer network if the event was produced in a public community.
 
 5.	**Can Event Producers edit videos?**
-Yes, the videos can be edited in SharePoint. The edited video in SharePoint is automatically 	updated for attendees to watch. Please note that it could take 10 minutes before producers can 	edit their videos after the event is completed. 
+Yes, the videos can be edited in SharePoint. The edited video in SharePoint is automatically updated for attendees to watch. Please note that it could take 10 minutes before producers can edit their videos after the event is completed. 
 
 6.	**What happens to the old live events videos that were broadcast via Microsoft Stream?**
 Live Events videos created using Stream will continue to function – attendees can continue to watch those videos on demand broadcasted on Microsoft Stream. Please see this [article](/stream/streamnew/stream-classic-to-new-migration-overview) for information on migrating your videos from Stream to SharePoint.
