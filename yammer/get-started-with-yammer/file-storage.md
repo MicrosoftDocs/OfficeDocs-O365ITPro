@@ -103,7 +103,7 @@ The following table shows how each type of guest can access files uploaded in Ya
 
 |**Type of user**|**Access to group files in Yammer**|**Access to group files in SharePoint**|
 |----------|----------|----------|
-|**Conversation-level guest that is in your network**|**Private group**: Can view files that have been shared in the conversation, but can't upload files.<br/>**Public group**: Can view, edit, and upload files.|Conversation level guests cannot access any files saved in SharePoint nor upload any files. If you want to enable access to specific files in the conversation, add them as an Azure B2B guest on the Office 365 tenant. File upload isn't permitted.|
+|**Conversation-level guest that is in your network**|**Private group**: Can view files that have been shared in the conversation, but can't upload files.<br/>**Public group**: Can view, edit, and upload files.|Conversation level guests can't access any files saved in SharePoint nor upload any files. If you want to enable access to specific files in the conversation, add them as an Azure B2B guest on the Office 365 tenant. File upload isn't permitted.|
 |**Network-level guest that is also an Azure B2B guest, and also a member of the group in Microsoft 365**|Can view, edit, and upload files.|These Azure B2B guests can view, upload, or edit files from the SharePoint Document library only. File access from Yammer isn't permitted.|
 |**Azure B2B guest, but not a member of the group<br/>Network-level guest<br/>Conversation-level guest that isn't in your network**|Automatic file access isn't allowed. These users can request access to specific files.<br/>Can't upload files.|Automatic file access isn't permitted. Guests can request access to specific files. File upload isn't permitted.|
 |**Network-level guest, but not Azure B2B guest**|Automatic file access isn't allowed. A guest must become an Azure B2B guest and a member of the group in Microsoft 365. Alternatively, other group members can grant access to specific files or the entire document library through one of many SharePoint external sharing methods.|No automatic access for network level guests to Yammer files saved in SharePoint. If you want to enable access to specific files, add them as an Azure B2B guest on the Office 365 tenant. For more information, see [Azure Active Directory B2B documentation](/azure/active-directory/b2b/). If guests need to upload files to a specific group from SharePoint or have automatic access to files uploaded to SharePoint, add them as a group member in SharePoint.|
@@ -111,7 +111,7 @@ The following table shows how each type of guest can access files uploaded in Ya
 > [!NOTE]
 > Membership in the group for guests in Azure Active Directory (AAD) and Yammer are completely separate. Deleting a network-level guest from an Microsoft 365 connected Yammer group or from the tenant in AAD doesn't remove the user in Yammer, and deleting a user from Yammer doesn't delete the user from an Microsoft 365 group or AAD.
 
-For more information about Azure B2B guests, see [Guest user access in an Azure Active Directory B2B](/azure/active-directory/b2b/what-is-b2b).
+For more information about Azure B2B guests, see [Guest access in an Azure Active Directory B2B](/azure/active-directory/b2b/what-is-b2b).
 
 ## Requirements
 
