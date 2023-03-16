@@ -59,7 +59,7 @@ Files are stored in SharePoint when they are uploaded to a Microsoft 365 connect
 - Files that are attached to an email that is sent to a Microsoft 365 connected Yammer group.
 
  > [!NOTE]
- > Any policies applied on the SharePoint document library take precedent over the Yammer upload admin configuration when a user tries to upload a file in a connected Yammer community.
+ > Any policies configured on the SharePoint document library take precedent over the Yammer upload admin configuration when a user tries to upload a file in a connected Yammer community.
   
 Files will continue to be stored in Yammer cloud storage in the following instances:
 
