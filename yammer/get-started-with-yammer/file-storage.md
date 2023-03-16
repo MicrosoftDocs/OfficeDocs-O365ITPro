@@ -50,11 +50,11 @@ For end users:
 
 ## What determines where a file is stored
 
-Files are stored in SharePoint when they are uploaded to a Microsoft 365 connected Yammer group. This includes:  
+Files are stored in SharePoint when they're uploaded to a Microsoft 365 connected Yammer group. This includes:  
   
 - Files that are attached to a message in a Microsoft 365 connected Yammer group.  
 
-- Files that are uploaded to a group from the **Files** page of an Microsoft 365 connected Yammer group.
+- Files that are uploaded to a group from the **Files** page of a Microsoft 365 connected Yammer group.
 
 - Files that are attached to an email that is sent to a Microsoft 365 connected Yammer group.
 
@@ -63,7 +63,7 @@ Files are stored in SharePoint when they are uploaded to a Microsoft 365 connect
   
 Files will continue to be stored in Yammer cloud storage in the following instances:
 
-- If the Yammer network does not use Microsoft 365 connected groups. This includes:
+- If the Yammer network doesn't use Microsoft 365 connected groups. This includes:
 
   - Office 365 tenants that have more than one Yammer network  
   
@@ -71,21 +71,21 @@ Files will continue to be stored in Yammer cloud storage in the following instan
 
   - Yammer Basic networks  
 
-- When the location the file is being uploaded to is not a Microsoft 365 connected Yammer group:
+- When the location the file is being uploaded to isn't a Microsoft 365 connected Yammer group:
 
-    - Groups that are not Microsoft 365 connected groups, including All Company, external groups, and secret groups
+    - Groups that aren't Microsoft 365 connected groups, including All Company, external groups, and secret groups
   
     - Yammer private messages
- 
+
         >[!NOTE]
         > Existing files stored in Yammer legacy storage will not be moved to SharePoint.  
 
 - If your organization is using a third-party app that uses Yammer Files APIs:
 
-  - If we detect that you are currently using the Yammer Files APIs, even if you're using connected groups, files for your tenant will be stored in legacy storage until your app is updated to be an Azure Marketplace app that calls Yammer APIs. We’ll share details on how to create an Azure Marketplace Yammer app soon. If you're a developer and have questions about this change, please email api@yammer-inc.com.
+  - If we detect that you're currently using the Yammer Files APIs, even if you're using connected groups, files for your tenant will be stored in legacy storage until your app is updated to be an Azure Marketplace app that calls Yammer APIs. We’ll share details on how to create an Azure Marketplace Yammer app soon. If you're a developer and have questions about this change, please email api@yammer-inc.com.
 
     >[!IMPORTANT]
-    > If you create a third-party app that uses Files APIs after your organization has received the Yammer files in SharePoint feature, file calls will fail. Users will see an HTTP 401 error (unauthorized client error) because the Yammer OAuth token does not include claims from Azure Active Directory, which is required for accessing files stored in SharePoint.
+    > If you create a third-party app that uses Files APIs after your organization has received the Yammer files in SharePoint feature, file calls will fail. Users will see an HTTP 401 error (unauthorized client error) because the Yammer OAuth token doesn't include claims from Azure Active Directory, which is required for accessing files stored in SharePoint.
 
  > [!NOTE]
  > Moving a conversation to a Microsoft 365 connected Yammer group will not change where the file is stored.
@@ -97,19 +97,19 @@ Files that users upload in Microsoft 365 connected groups are saved in the **App
  > [!NOTE]
  > We recommend that you do not delete, move, or rename files in the **Apps > Yammer** subfolder.
   
-## Guest and external user access to files
+## Guest access to files
 
-The following table shows how each type of guest and external user can access files uploaded in Yammer and stored in SharePoint.
+The following table shows how each type of guest can access files uploaded in Yammer and stored in SharePoint.
 
 |**Type of user**|**Access to group files in Yammer**|**Access to group files in SharePoint**|
 |----------|----------|----------|
-|**Conversation-level guest that is in your network**|**Private group**: Can view files that have been shared in the conversation, but can't upload files.<br/>**Public group**: Can view, edit, and upload files.|Conversation level guests cannot access any files saved in SharePoint nor upload any files. If you want to enable access to specific files in the conversation, add them as an Azure B2B guest on the Office 365 tenant. File upload is not permitted.|
-|**Network-level guest that is also an Azure B2B guest, and also a member of the group in Microsoft 365**|Can view, edit, and upload files.|These Azure B2B guests can view, upload, or edit files from the SharePoint Document library only. File access from Yammer is not permitted.|
-|**Azure B2B guest, but not a member of the group<br/>Network-level guest<br/>Conversation-level guest that is not in your network**|Automatic file access is not allowed. These users can request access to specific files.<br/>Can't upload files.|Automatic file access is not permitted. Guest users can request access to specific files. File upload is not permitted.|   
-|**Network-level guest, but not Azure B2B guest**|Automatic file access is not allowed. A guest user must become an Azure B2B guest and a member of the group in Microsoft 365. Alternatively, other group members can grant access to specific files or the entire document library through one of many SharePoint external sharing methods.|No automatic access for network level guests to Yammer files saved in SharePoint. If you want to enable access to specific files, add them as an Azure B2B guest on the Office 365 tenant. For more information, see [Azure Active Directory B2B documentation](/azure/active-directory/b2b/). If guest users need to upload files to a specific group from SharePoint or have automatic access to files uploaded to SharePoint, add them as a group member in SharePoint.|
+|**Conversation-level guest that is in your network**|**Private group**: Can view files that have been shared in the conversation, but can't upload files.<br/>**Public group**: Can view, edit, and upload files.|Conversation level guests cannot access any files saved in SharePoint nor upload any files. If you want to enable access to specific files in the conversation, add them as an Azure B2B guest on the Office 365 tenant. File upload isn't permitted.|
+|**Network-level guest that is also an Azure B2B guest, and also a member of the group in Microsoft 365**|Can view, edit, and upload files.|These Azure B2B guests can view, upload, or edit files from the SharePoint Document library only. File access from Yammer isn't permitted.|
+|**Azure B2B guest, but not a member of the group<br/>Network-level guest<br/>Conversation-level guest that isn't in your network**|Automatic file access isn't allowed. These users can request access to specific files.<br/>Can't upload files.|Automatic file access isn't permitted. Guests can request access to specific files. File upload isn't permitted.|
+|**Network-level guest, but not Azure B2B guest**|Automatic file access isn't allowed. A guest must become an Azure B2B guest and a member of the group in Microsoft 365. Alternatively, other group members can grant access to specific files or the entire document library through one of many SharePoint external sharing methods.|No automatic access for network level guests to Yammer files saved in SharePoint. If you want to enable access to specific files, add them as an Azure B2B guest on the Office 365 tenant. For more information, see [Azure Active Directory B2B documentation](/azure/active-directory/b2b/). If guests need to upload files to a specific group from SharePoint or have automatic access to files uploaded to SharePoint, add them as a group member in SharePoint.|
 
 > [!NOTE]
-> Membership in the group for guests in Azure Active Directory (AAD) and Yammer are completely separate. Deleting a network-level guest from an Microsoft 365 connected Yammer group or from the tenant in AAD does not remove the user in Yammer, and deleting a user from Yammer does not delete the user from an Microsoft 365 group or AAD.
+> Membership in the group for guests in Azure Active Directory (AAD) and Yammer are completely separate. Deleting a network-level guest from an Microsoft 365 connected Yammer group or from the tenant in AAD doesn't remove the user in Yammer, and deleting a user from Yammer doesn't delete the user from an Microsoft 365 group or AAD.
 
 For more information about Azure B2B guests, see [Guest user access in an Azure Active Directory B2B](/azure/active-directory/b2b/what-is-b2b).
 
