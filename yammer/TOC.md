@@ -78,11 +78,8 @@
 ### [Export members to a CSV file](https://support.office.com/article/14e809e7-b1e3-44b2-9734-6c46aaa5dff9-)
 ## Live events in Yammer
 ### [Live events overview](manage-yammer-groups/yammer-live-events.md)
-### [Live event FAQ](https://support.office.com/article/43bbd59d-a734-4c8f-923d-6a239d137d34)
+### [Live event FAQ](https://support.microsoft.com/office/new-yammer-live-event-faq-ec9deff2-3181-4300-a204-c809729e4dff)
 ### [Drive engagement](https://support.office.com/article/c0244ad8-6dcb-419c-add9-2e4a00543412)
-### [Organize a live event](https://support.office.com/article/105dd7af-9caf-4a5e-8a44-56d203e96551)
-### [Produce Yammer live events from your device](manage-yammer-groups/yammer-produce-live-events-from-your-device-coming-soon.md)
-### [Get help producing an event](https://support.office.com/article/0cedb557-cbe4-40d3-8147-112633f087eb)
 ## Monitor Yammer usage
 ### [Yammer activity report](/office365/admin/activity-reports/yammer-activity-report)
 ### [Yammer groups activity report](/office365/admin/activity-reports/yammer-groups-activity-report)
