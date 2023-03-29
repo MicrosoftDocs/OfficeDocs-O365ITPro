@@ -143,4 +143,4 @@ When this setting is **ON**, and when members from your home network are invited
 
 To turn this setting to **ON**, go to **Network** settings and select **External Networks** and select the “Require admin approval for members to join other companies' external groups or external networks" to **ON**.
 
-![External networks](../media/yammer-configure-network-external-settings.png)
+![Screenshot of external networks.](../media/yammer-configure-network-external-settings.png)

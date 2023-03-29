@@ -49,7 +49,7 @@ Control where people can access Yammer from, set password policies, control exte
 
 2. Click **External Networks**.
 
-    ![List of available external network settings.](../media/yammer-security-external-network-settings.png)
+    ![Screenshot that shows a list of available external network settings.](../media/yammer-security-external-network-settings.png)
   
 3. Select ways to limit access to all external networks:
 
