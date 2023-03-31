@@ -2,7 +2,7 @@
 title: "Access Microsoft Planner Roster"
 f1.keywords:
 - NOCSH
-ms.author: v-njeremy
+ms.author: ryany
 author: ryany
 manager: ryany
 ms.reviewer: ryany
@@ -13,6 +13,7 @@ ms.localizationpriority: medium
 search.appverid:
 - MET150
 description: "Learn how to access the roster in Microsoft Planner."
+ms.date: 06/17/2021
 ---
 
 # Gain access to Rosters in Microsoft Planner

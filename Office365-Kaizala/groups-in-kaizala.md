@@ -23,6 +23,8 @@ description: Learn about Kaizala groups and how to create them from the mobile a
 
 # Groups in Kaizala
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 Think of groups in Kaizala as just a collection of people. You can create Kaizala groups from the mobile app and the management portal. Kaizala offers different types of groups to suit your needs.
 
 > [!VIDEO https://www.microsoft.com/videoplayer/embed/RE3auMb] 

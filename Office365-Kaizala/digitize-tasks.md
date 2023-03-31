@@ -23,6 +23,8 @@ description: Learn how to out-of-the-box Action cards and custom cards that can 
 
 # Digitize everyday tasks with Kaizala
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 Microsoft Kaizala comes with several out-of-the-box Action cards that can help manage work. For example, you can:
 
 - Use surveys to collect information such as daily sales data and audit reports.

@@ -23,6 +23,8 @@ description: Learn how to move and create groups and invite others to Kaizala.
 
 # Get conversations going with Kaizala
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 Use Microsoft Kaizala to enable *secure chat*. Enable your organization to connect and coordinate across the external networks while retaining complete ownership of work-related chat data. Connect your organization in Kaizala groups that mirror your way of working. 
 
 ## **[Move existing groups to Kaizala](move-work-chats.md)**

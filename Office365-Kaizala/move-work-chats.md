@@ -23,6 +23,8 @@ description: Learn how to move and create groups to Kaizala.
 
 # Move existing groups to Kaizala 
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 You and your workforce in the office and in the field needs to communicate and coordinate to get work done. Often this communication happens over unsecure personal messaging apps, putting your organization’s data security at risk.
  
 Use Kaizala to *secure chat*, enabling your organization to connect and coordinate across the external networks while retaining complete ownership of work-related chat data. Follow these steps to move conversations to Kaizala and secure your organization’s data.

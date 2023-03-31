@@ -22,6 +22,8 @@ description: Use the Kaizala Settings page to map your Kaizala registered phone 
 
 # Kaizala settings
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 The **Kaizala Settings** page lets you connect your Kaizala registered phone numbers with an Office 365 account. This lets you manage groups, Actions, connectors, view reports, and much more. You can also configure compliance and tenant policies on this page.
   
 ## Registered numbers

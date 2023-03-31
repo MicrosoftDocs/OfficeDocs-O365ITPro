@@ -22,6 +22,8 @@ description: Learn how to view a user's detailed information in Kaizala.
 ---
 # View user details in Kaizala
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 To find a detailed view of a user's profile:
  
 1. On the [Kaizala management portal](https://manage.kaiza.la), from the left navigation bar, select **Directory**.

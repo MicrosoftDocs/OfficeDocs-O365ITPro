@@ -23,6 +23,8 @@ description: Learn how to view reports and telemetry data for Kaizala actions.
 
 # Action reports in Kaizala
 
+[!INCLUDE [retirement-note](includes/retirement-note.md)]
+
 ## Surveys
 
 To view survey reports, from the home page, go to **Reports** from the navigation bar. Select the **Survey Report** tile from the list of available reports. This report displays the following information for organization groups: 
