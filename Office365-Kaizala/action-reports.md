@@ -65,13 +65,6 @@ To view job reports, from the home page, go to **Reports** from the navigation b
 - **Trends** – Depicts the on-time completion trend and a weekly job trend. For each group, this report shows the number of jobs created during a week, as well as their status of completion. Jobs could be Completed, Completed - Past Due, Pending, or Pending - Past Due.
 - **Group wise jobs status** – How many jobs are not started, partially complete, or completed for each group.
     
-## Location Cards
-
-To view a location report, from the home page, go to **Reports** from the navigation bar. Select the **Location Report** tile from the list of available reports. This report displays the following information for organization groups: 
-  
-- Locations of users who responded to location actions.
-- Groups where the action was sent.
-- Names of the responders.
     
 ## Report filters
 
