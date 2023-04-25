@@ -2,7 +2,7 @@
   "redirections": [
     {
       "source_path": "Office365-Admin/subscriptions-and-billing/understand-your-invoice.md",
-      "redirect_url": "/microsoft-365-docs-pr/microsoft-365/commerce/billing-and-payments/understand-your-invoice2"
+      "redirect_url": "/microsoft-365-docs-pr/microsoft-365/commerce/billing-and-payments/understand-your-invoice2",
       "redirect_document_id": false
     },
     {
