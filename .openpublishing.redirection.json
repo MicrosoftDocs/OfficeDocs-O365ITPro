@@ -2,7 +2,7 @@
   "redirections": [
     {
       "source_path": "Office365-Admin/subscriptions-and-billing/understand-your-invoice.md",
-      "redirect_url": "microsoft-365-docs-pr/microsoft-365/commerce/billing-and-payments/understand-your-invoice2.md",
+      "redirect_url": "/microsoft-365-docs-pr/microsoft-365/commerce/billing-and-payments/understand-your-invoice2",
       "redirect_document_id": false
     },
     {
@@ -743,7 +743,7 @@
     {
       "redirect_document_id": false,
       "source_path": "Office365-Admin/try-or-buy-microsoft-365.md",
-      "redirect_url": "microsoft-365-docs-pr/microsoft-365/commerce/try-or-buy-microsoft-365.md"
+      "redirect_url": "/microsoft-365-docs-pr/microsoft-365/commerce/try-or-buy-microsoft-365"
     },
     {
       "redirect_document_id": false,
@@ -4082,47 +4082,42 @@
     },
     {
       "source_path": "yammer/configure-your-yammer-network/index.md",
-      "redirect_url": "configure-your-yammer-network",
+      "redirect_url": "/configure-your-yammer-network",
       "redirect_document_id": false
     },
     {
       "source_path": "yammer/get-started-with-yammer/index.md",
-      "redirect_url": "admin-key-concepts",
+      "redirect_url": "/admin-key-concepts",
       "redirect_document_id": false
     },
     {
-      "source_path": "index.md",
-      "redirect_url": "index.yml",
-      "redirect_document_id": true
-    },
-    {
       "source_path": "yammer/yammer-landing-page.md",
-      "redirect_url": "index",
+      "redirect_url": "/index",
       "redirect_document_id": false
     },
     {
       "source_path": "yammer/integrate-yammer-with-other-apps/index.md",
-      "redirect_url": "integrate-yammer-with-other-apps",
+      "redirect_url": "/integrate-yammer-with-other-apps",
       "redirect_document_id": false
     },
     {
       "source_path": "yammer/manage-security-and-compliance/index.md",
-      "redirect_url": "manage-security-and-compliance",
+      "redirect_url": "/manage-security-and-compliance",
       "redirect_document_id": false
     },
     {
       "source_path": "yammer/manage-yammer-groups/index.md",
-      "redirect_url": "manage-yammer-groups",
+      "redirect_url": "/manage-yammer-groups",
       "redirect_document_id": false
     },
     {
       "source_path": "yammer/manage-yammer-users/index.md",
-      "redirect_url": "manage-yammer-users",
+      "redirect_url": "/manage-yammer-users",
       "redirect_document_id": false
     },
     {
       "source_path": "yammer/troubleshoot-problems/index.md",
-      "redirect_url": "troubleshoot-problems",
+      "redirect_url": "/troubleshoot-problems",
       "redirect_document_id": false
     },
     {
@@ -4132,7 +4127,7 @@
     },
     {
       "source_path": "yammer/work-with-external-users/index.md",
-      "redirect_url": "work-with-external-users",
+      "redirect_url": "/work-with-external-users",
       "redirect_document_id": false
     },
     {
