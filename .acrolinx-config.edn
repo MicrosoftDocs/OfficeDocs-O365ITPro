@@ -38,17 +38,17 @@
 
 ## Acrolinx Scorecards 
  
-**The minimum Acrolinx topic score of 80 is required for all MAGIC content merged to the default branch.**
+**The minimum Acrolinx topic score of 80 is required for all Magic content merged to the default branch.**
 
-If you need a scoring exception for content in this PR, add the *Sign off* and the *Acrolinx exception* labels to the PR. The PubOps Team will review the exception request and may take one or more of the following actions:
+If you need a scoring exception for content in this PR, add the *Sign off* and the *Acrolinx exception* labels. The PubOps team will review the exception request and may take one or more of the following actions:
 
 - Work with you to resolve the issues requiring the exception.
-- Escalate the exception request to the Acrolinx Review Team for review.
-- Approve the exception and work with the GitHub Admin Team to merge the PR to the default branch.
+- Escalate the exception request to the Acrolinx Review team for review.
+- Approve the exception and work with the GitHub Admin team to merge the PR to the default branch.
 
-For more information about the exception criteria and exception process, see [Minimum Acrolinx topic scores for publishing](https://review.docs.microsoft.com/en-us/office-authoring-guide/acrolinx-min-score?branch=master).
+For more information about the exception criteria and exception process, see [Minimum Acrolinx topic scores for publishing](https://review.learn.microsoft.com/en-us/office-authoring-guide/acrolinx-min-score?branch=main).
  
-Click the scorecard links for each article to review the Acrolinx feedback on grammar, spelling, punctuation, writing style, and terminology:
+Select the scorecard links for each article to review the Acrolinx feedback on grammar, spelling, punctuation, writing style, and terminology:
 
 | Article | Score | Issues | Correctness<br>score | Scorecard | Processed |
 | ------- | ----- | ------ | ------ | --------- | --------- |
@@ -62,6 +62,6 @@ Click the scorecard links for each article to review the Acrolinx feedback on gr
  "
 **More info about Acrolinx**
  
-Use the Acrolinx extension, or sidebar, in Visual Studio Code to check spelling, grammar, style, tone, clarity, and key terminology when you're creating or updating content. For more information, see [Use the Visual Studio Code extension to run Acrolinx locally](https://review.docs.microsoft.com/en-us/office-authoring-guide/acrolinx-vscode?branch=master).
+Use the Acrolinx extension, or sidebar, in Visual Studio Code to check spelling, grammar, style, tone, clarity, and key terminology when you're creating or updating content. For more information, see [Use the Visual Studio Code extension to run Acrolinx locally](https://review.learn.microsoft.com/en-us/office-authoring-guide/acrolinx-vscode?branch=main).
 "
 }
