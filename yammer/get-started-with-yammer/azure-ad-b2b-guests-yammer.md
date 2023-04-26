@@ -103,8 +103,6 @@ Guest access is included with all Microsoft 365 Business Standard, Microsoft 365
 
 We are working hard to bring all Yammer functionality to the new B2B guests in Yammer. Below is the list of features still in progress:
 - **Personal email, non-Microsoft 365 business email, and phone number-based legacy accounts** – Users with Microsoft 365 Business email accounts can be added as guests. Other email domains like Gmail or Yahoo mail etc. will not be supported in this release. 
-- **Cross-Geography guests** – Today we enable organizations to host Yammer in two data centers – Europe and North America. With this new guest support, users will be able to add guests from their same geography. Check [the Yammer public roadmap](https://go.microsoft.com/fwlink/?linkid=2132131) to see timelines for Cross-Geography support.
-
 - **Private messages** – Private messages are disabled for B2B guests in Yammer.
 - **Live events** – Currently guest users will not be able to participate in live events because guests are not yet supported by Microsoft Stream. To learn more about when these features will be available, see the [Microsoft Yammer roadmap](https://go.microsoft.com/fwlink/?linkid=2132131).
 -	**Adding guests during community creation** – Community owners can invite guest users by using edit membership flow for any community. In the current release, community owners will not be able to add guest emails at the time of community creation.
@@ -136,6 +134,10 @@ If you want to deny external users from being added to Yammer communities while 
 
 > [!NOTE]
 > When you deny external users from being added to Yammer communities, community admins will not be able to add any new external users to the Yammer communities. Existing external users will not be removed from Yammer communities.
+
+**Q: Does the AzureAD-B2B guest experience allow cross-geo guest access?**
+
+A: Yes. AzureAD-B2B guests from another Geo can be invited to a Yammer network in Native mode. However, if a tenant migrates to another geo, the existing guest access doesn't automatically change to cross-geo guest access. All guest access must be renewed (that is, the host must issue new invites and guests must accept them) after a cross-geo tenant migration.
 
 ## Related articles
 
