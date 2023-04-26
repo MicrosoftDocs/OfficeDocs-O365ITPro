@@ -37,7 +37,7 @@ This article describes the current limits that apply to Microsoft Planner.
 
 |Field  |Limit  |
 |---------|---------|
-|Maximum assignees in a task     |11|
+|Maximum assignees in a task     |20|
 |Maximum checklist items in a task     |20|
 |Maximum references on a task     |10|
 |Maximum tasks assigned to a user     |3000|
