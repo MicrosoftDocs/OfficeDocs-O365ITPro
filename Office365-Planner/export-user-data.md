@@ -156,6 +156,22 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 |Plan.Tasks.ModifiedBy|User that last updated the task. See User properties for more detail.|
 |Plan.Tasks.ModifiedDate|Date the task was last updated.|
 |Plan.Tasks.AppliedCategories |The labels selected from the CategoryDescriptions index for the plan.|
+|Plan.Tasks.Recurrence|Defines active or inactive recurrence for the task. `null` when recurrence has never been defined for the task.|
+|Plan.Tasks.Recurrence.SeriesId|The recurrence series this task belongs to. A GUID-based value that serves as the unique identifier for a series.|
+|Plan.Tasks.Recurrence.OccurrenceIndex|The 1-based index of this task within the recurrence series. The first task in a series has the value `1`, the next task in the series has the value `2`, and so on.|
+|Plan.Tasks.Recurrence.PreviousInSeriesTaskId|The **Task ID** of the previous task in this series. `null` for the first task in a series since it has no predecessor. Each subsequent task in the series has a value corresponding to its predecessor.|
+|Plan.Tasks.Recurrence.NextInSeriesTaskId|The **Task ID** of the next task in this series. This value is assigned at the time the next task in the series is created, and is `null` prior to that time.|
+|Plan.Tasks.Recurrence.RecurrenceStartDate|The date and time when this recurrence series began. For the first task in a series (**OccurrenceIndex** = `1`) this value corresponds to **Schedule.Range.StartDate**. For subsequent tasks in the series (**OccurrenceIndex** >= `2`) this value is copied from the previous task and never changes; it preserves the start date of the recurring series.|
+|Plan.Tasks.Recurrence.Schedule|The schedule for recurrence. `null` indicates that recurrence has been cancelled. Note that if **NextInSeriesTaskId** is assigned then this schedule value will be preserved as a snapshot of what the schedule looked like at the time of completion of this task.|
+|Plan.Tasks.Recurrence.Schedule.Pattern|The pattern for recurrence. The pattern, along with the **Schedule.Range**, are used to calculate the **Schedule.NextOccurrenceDate**.|
+|Plan.Tasks.Recurrence.Schedule.Pattern.IsDailyCadence|`True` for daily cadence (in which case **DaysOrDates** is empty). `False` otherwise (that is, for weekly, monthly, or yearly cadence).|
+|Plan.Tasks.Recurrence.Schedule.Pattern.Interval|The interval applied to the cadence kind. Values greater than 1 mean that a period will be skipped. Examples: for a Daily pattern, an Interval of 2 means tasks will recur every two days (or every other day). For a monthly pattern, an Interval of 3 means tasks will recur every three months (aka quarterly).|
+|Plan.Tasks.Recurrence.Schedule.Pattern.DaysOrDates|Each entry in this collection represents the definition of exactly one day or date. Example: `"FixedYearly,August,15"` means on August 15 of the year. `"FloatingMonthly,Second,Monday"` means on the second Monday of the month. `"Weekly,Wednesday","Weekly,Friday"` means weekly on Wednesdays and Fridays.|
+|Plan.Tasks.Recurrence.Schedule.Pattern.FirstDayOfWeek|The first day of the week (typically Sunday); this is only used by weekly patterns, and is `null` for non-weekly patterns.|
+|Plan.Tasks.Recurrence.Schedule.Range|Specifies when recurrence starts and ends.|
+|Plan.Tasks.Recurrence.Schedule.Range.StartDate|The date from which the **Recurrence.Schedule** should begin. This value may be updated by users when making changes to the **Recurrence.Schedule.Pattern**.|
+|Plan.Tasks.Recurrence.Schedule.Range.Kind|Currently the only supported value is `NoEnd`, indicating that the series will not end automatically.|
+|Plan.Tasks.Recurrence.Schedule.NextOccurrenceDate|The next date for this **Recurrence.Schedule**. When a new task is instantiated to continue the recurrence series, this date is used for the **DueDate** of the new Task.|
 |Plan.Tasks.TaskDetailsId |Unique identifier of the details object for the task.|
 |Plan.Tasks.Description|Description of the task.|
 |Plan.Tasks.AssignedToTaskBoardFormatId|Unique identifier for the object that is the task board format.|
