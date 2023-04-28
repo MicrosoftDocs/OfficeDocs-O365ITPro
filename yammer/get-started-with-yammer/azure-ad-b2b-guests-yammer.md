@@ -42,7 +42,7 @@ External collaboration is a key ingredient for the success of any organization. 
 
 ![Yammer business-to-business guest support.](../media/yammer-b2b-azure-guests.png)
 
-This setting is a Yammer network-wide setting. Enabling guest access allows community admins to add guests to any Yammer community in the network. You can control guest access to individual Yammer communities [by using sensitivity labels](/microsoft-365/compliance/sensitivity-labels-teams-groups-sites).
+This setting is a Yammer network-wide setting. Enabling guest access lets community admins add guests to any Yammer community in the network. You can control guest access to individual Yammer communities [by using sensitivity labels](/microsoft-365/compliance/sensitivity-labels-teams-groups-sites).
 
 > [!NOTE]
 > If your Yammer network is provisioned after December 15th, 2020, then AzureAD-B2B guest functionality is already enabled by default for your organization. 
