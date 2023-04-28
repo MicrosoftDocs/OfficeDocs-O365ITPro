@@ -86,7 +86,7 @@ The guest experience has limitations by design. Following is a list of limitatio
 
 - Guests cannot create new communities in the network they are invited to. 
 
-- A guest can't be a community admin, nor can they change community settings, including:
+- A guest can't be a community admin, nor can they change community settings like these:
   - Adding new members to the community and removing membership
   - Promoting and demoting the owners
   - Editing community info
