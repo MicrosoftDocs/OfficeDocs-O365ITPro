@@ -3,7 +3,7 @@ title: "Work with AzureAD-B2B guests in Yammer communities"
 f1.keywords:
 - NOCSH
 ms.author: pamgreen
-author: v-bvrana
+author: Starshine89
 manager: pamgreen
 ms.date: 04/28/2023
 audience: Admin
