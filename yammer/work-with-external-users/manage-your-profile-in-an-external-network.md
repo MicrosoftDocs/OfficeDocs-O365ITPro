@@ -33,7 +33,7 @@ visible in other areas of Viva Engage or through the Yammer REST API.
 To change your profile, you must sign-in to the external network.
 After you sign in, the **Settings** icon contains a blue dot. 
 
-:::image type="content" source="media/ext-network-toolbar.png" alt-text="Check the settings icon in your external network for a blue dot.":::
+>:::image type="content" source="media/ext-network-toolbar.png" alt-text="Check the settings icon in your external network for a blue dot.":::
 
 1. Select **Settings** > **Edit Settings**.
  
