@@ -27,17 +27,17 @@ description: "Learn what's needed for group admins to host live video events for
 # Organize a Microsoft Teams powered live event in Yammer 
 
 > Viva Engage has partnered with Teams to provide the best technology for running your live event. Microsoft Viva Engage uses Microsoft Teams to process and record video for all live events. To understand how Viva Engage and Teams work together, see 
-[Overview of live events](https://learn.microsoft.com/en-us/microsoftteams/teams-live-events/what-are-teams-live-events#overview)
+[Overview of live events](https://learn.microsoft.com/microsoftteams/teams-live-events/what-are-teams-live-events#overview)
 >
 > This article provides guidance for Viva Engage group admins to produce the best live event experiences for their groups and communities.  
 >
 > [!IMPORTANT]
-> On September 15, 2023, [Stream live events will be deprecated](https://learn.microsoft.com/en-us/stream/live-event-retirement). Through June 30, 2023, limits in Stream live limits will be extended to support: 
+> On September 15, 2023, [Stream live events will be deprecated](https://learn.microsoft.com/stream/live-event-retirement). Through June 30, 2023, limits in Stream live limits will be extended to support: 
 > - Up to 20,000 attendees
 > - 50 events simultaneous events on a single tenant
 > - Events up to 16 hours in duration
 >
-> Additionally, you can request live events for up to 100,000 attendees through the Microsoft 365 live events assistance program. The team can assist you in determining the best options for your live event. [Learn more.](https://adoption.microsoft.com/en-us/virtual-event-guidance/assistance)
+> Additionally, you can request live events for up to 100,000 attendees through the Microsoft 365 live events assistance program. The team can assist you in determining the best options for your live event. [Learn more.](https://adoption.microsoft.com/virtual-event-guidance/assistance)
 
 > [!IMPORTANT]
 > When setting up a live event, we recommend that you configure your video, community, and user permissions at least 24 hours before the event for the best experience. This includes such settings as adding users, updating video permissions, and changing a community from private to public. It can take up to two hours for certain changes to propagate across Microsoft Stream, Microsoft Teams, and Microsoft Yammer. Allowing 24 hours or more can provide time for testing and adjusting if needed.
@@ -70,14 +70,14 @@ As a live event organizer, you must first make sure that you, and your audience 
 > **Creating and scheduling a live event**
     - You must be an admin in the Viva Engage group or community in which you create and schedule the event. 
 
-    - You must own a Teams license and set up specific policies. For details, see [Who can create and schedule live events in Teams](https://learn.microsoft.com/en-us/microsoftteams/teams-live-events/plan-for-teams-live-events#who-can-create-and-schedule-live-events) and [Set up live events policies](https://learn.microsoft.com/en-us/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-3-set-up-live-events-policies). 
+    - You must own a Teams license and set up specific policies. For details, see [Who can create and schedule live events in Teams](https://learn.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#who-can-create-and-schedule-live-events) and [Set up live events policies](https://learn.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-3-set-up-live-events-policies). 
  
-    - You must be an admin to assign roles for the live event (producers, presenters, and so on). Only assigned roles receive an invite, allowing them to join the event through a link. Learn more about [roles assigned through Teams](https://support.microsoft.com/en-us/office/schedule-and-produce-a-live-event-in-new-yammer-using-teams-d891bff6-eda2-493f-8b0d-d87932e7937d#roles) or through an [external app or device](https://support.microsoft.com/en-us/office/schedule-and-produce-a-live-event-in-new-yammer-using-an-external-app-or-device-975f596a-8fc5-4400-8bf5-7ec77ec18415#roles).
+    - You must be an admin to assign roles for the live event (producers, presenters, and so on). Only assigned roles receive an invite, allowing them to join the event through a link. Learn more about [roles assigned through Teams](https://support.microsoft.com/office/schedule-and-produce-a-live-event-in-new-yammer-using-teams-d891bff6-eda2-493f-8b0d-d87932e7937d#roles) or through an [external app or device](https://support.microsoft.com/office/schedule-and-produce-a-live-event-in-new-yammer-using-an-external-app-or-device-975f596a-8fc5-4400-8bf5-7ec77ec18415#roles).
 
     - Co-producers and presenters that you assign must also have a Teams license and Teams must be enabled. (Select the Microsoft 365 app launcher and look for a Teams icon.) 
 
     - Your public or private group must be connected to Microsoft 365 and **Enforce Office 365 identity** setting must be selected for the organization. To restrict attendance to members only, use a private community. Non-members can attend and participate in live events scheduled in a public community.  
-> For more information, see [Enforce Office 365 identity for Viva Engage users](https://learn.microsoft.com/en-us/yammer/configure-your-yammer-network/enforce-office-365-identity) and Viva Engage and Microsoft 365 groups. 
+> For more information, see [Enforce Office 365 identity for Viva Engage users](https://learn.microsoft.com/yammer/configure-your-yammer-network/enforce-office-365-identity) and Viva Engage and Microsoft 365 groups. 
  
 > **Attending a live event**
     - Attendees must have a Microsoft 365 or Office 365 plan that includes a license for Viva Engage (for example, Office 365 A3, A5, F1, E1, E3, or E5) and Microsoft Teams. 
@@ -111,7 +111,7 @@ If your network’s All Company community is a Microsoft 365 connected group, th
 
 **Q: How many attendees can view a live event at once?**
 
-A. Currently, the limit is 10,000 attendees. For larger attendee sizes, contact the Microsoft 365 [Live Events Assistance Program](https://adoption.microsoft.com/en-us/virtual-event-guidance/assistance/).
+A. Currently, the limit is 10,000 attendees. For larger attendee sizes, contact the Microsoft 365 [Live Events Assistance Program](https://adoption.microsoft.com/virtual-event-guidance/assistance/).
 
 **Q: What media player is used for live events?**
 
