@@ -27,13 +27,13 @@ Users in an external network are responsible for managing their profiles and the
 > Your profile is visible to all other participants within the external network. Additionally, profile information is shared between your external and home network accounts.   
 By participating in an external network, you agree to share this information about yourself
 with other participants in the external network. Be aware that profile information may also be 
-visible in other areas of Viva Engage or through the Yammer REST API. 
+visible in other areas of Viva Engage or through the REST API. 
 
 ## Update your user profile
 To change your profile, you must sign-in to the external network.
 After you sign in, the **Settings** icon contains a blue dot. 
 
->:::image type="content" source="media/ext-network-toolbar.png" alt-text="Check the settings icon in your external network for a blue dot.":::
+:::image type="content" source="media/ext-network-toolbar.png" alt-text="Check the settings icon in your external network for a blue dot.":::
 
 1. Select **Settings** > **Edit Settings**.
  
