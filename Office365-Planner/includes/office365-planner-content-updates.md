@@ -2,9 +2,9 @@
 
 
 
-## Week of March 06, 2023
+## Week of April 24, 2023
 
 
 | Published On |Topic title | Change |
 |------|------------|--------|
-| 3/7/2023 | [Microsoft Planner limits](/Office365/Planner/planner-limits) | modified |
+| 4/27/2023 | [Export user data from Microsoft Planner](/Office365/Planner/export-user-data) | modified |
