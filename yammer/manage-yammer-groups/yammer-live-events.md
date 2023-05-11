@@ -27,12 +27,12 @@ description: "Learn what's needed for group admins to host live video events for
 # Organize a Microsoft Teams powered live event in Yammer 
 
 > Viva Engage has partnered with Teams to provide the best technology for running your live event. Microsoft Viva Engage uses Microsoft Teams to process and record video for all live events. To understand how Viva Engage and Teams work together, see 
-[Overview of live events](https://learn.microsoft.com/microsoftteams/teams-live-events/what-are-teams-live-events#overview)
+[Overview of live events](/microsoftteams/teams-live-events/what-are-teams-live-events#overview)
 >
 > This article provides guidance for Viva Engage group admins to produce the best live event experiences for their groups and communities.  
 >
 > [!NOTE]
-> On September 15, 2023, [Stream live events will be deprecated](https://learn.microsoft.com/stream/live-event-retirement). Through June 30, 2023, limits in Stream live limits will be extended to support: 
+> On September 15, 2023, [Stream live events will be deprecated](/stream/live-event-retirement). Through June 30, 2023, limits in Stream live limits will be extended to support: 
 > - Up to 20,000 attendees
 > - 50 events simultaneous events on a single tenant
 > - Events up to 16 hours in duration
@@ -56,7 +56,7 @@ Use this method used to produce simple live events. All you need to have are the
     - Video is stored in the SharePoint library connected to the Viva Engage community where the live event was produced.
 
 ### Teams external app or device
- This type of production is best for large-scale events, such as executive town halls. Here, a single stream from a media mixer is broadcast to the audience. 
+This type of production is best for large-scale events, such as executive town halls. Here, a single stream from a media mixer is broadcast to the audience. 
     - Teams broadcasts the live event 
     - Requires an external encoder (app or device) to produce the event 
     - Attendees can view the event in Viva Engage. 
@@ -67,21 +67,21 @@ Use this method used to produce simple live events. All you need to have are the
 As a live event organizer, you must first make sure that you, and your audience have the necessary licensing and permissions to participate in live events.
 >
 ### Creating and scheduling a live event
-    - You must be an admin in the Viva Engage group or community in which you create and schedule the event. 
-    - You must own a Teams license and set up specific policies. For details, see [Who can create and schedule live events in Teams](/microsoftteams/teams-live-events/plan-for-teams-live-events#who-can-create-and-schedule-live-events) and [Set up live events policies](/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-3-set-up-live-events-policies). 
+- You must be an admin in the Viva Engage group or community in which you create and schedule the event. 
+- You must own a Teams license and set up specific policies. For details, see [Who can create and schedule live events in Teams](/microsoftteams/teams-live-events/plan-for-teams-live-events#who-can-create-and-schedule-live-events) and [Set up live events policies](/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-3-set-up-live-events-policies). 
  
-    - You must be an admin to assign roles for the live event (producers, presenters, and so on). Only assigned roles receive an invite, allowing them to join the event through a link. Learn more about [roles assigned through Teams](https://support.microsoft.com/office/schedule-and-produce-a-live-event-in-new-yammer-using-teams-d891bff6-eda2-493f-8b0d-d87932e7937d#roles) or through an [external app or device](https://support.microsoft.com/office/schedule-and-produce-a-live-event-in-new-yammer-using-an-external-app-or-device-975f596a-8fc5-4400-8bf5-7ec77ec18415#roles).
+- You must be an admin to assign roles for the live event (producers, presenters, and so on). Only assigned roles receive an invite, allowing them to join the event through a link. Learn more about [roles assigned through Teams](https://support.microsoft.com/office/schedule-and-produce-a-live-event-in-new-yammer-using-teams-d891bff6-eda2-493f-8b0d-d87932e7937d#roles) or through an [external app or device](https://support.microsoft.com/office/schedule-and-produce-a-live-event-in-new-yammer-using-an-external-app-or-device-975f596a-8fc5-4400-8bf5-7ec77ec18415#roles).
 
-    - Co-producers and presenters that you assign must also have a Teams license and Teams must be enabled. (Select the Microsoft 365 app launcher and look for a Teams icon.) 
+- Co-producers and presenters that you assign must also have a Teams license and Teams must be enabled. (Select the Microsoft 365 app launcher and look for a Teams icon.) 
 
-    - Your public or private group must be connected to Microsoft 365 and **Enforce Office 365 identity** setting must be selected for the organization. To restrict attendance to members only, use a private community. Non-members can attend and participate in live events scheduled in a public community.  
+- Your public or private group must be connected to Microsoft 365 and **Enforce Office 365 identity** setting must be selected for the organization. To restrict attendance to members only, use a private community. Non-members can attend and participate in live events scheduled in a public community.  
 
 For more information, see [Enforce Office 365 identity for Viva Engage users](/yammer/configure-your-yammer-network/enforce-office-365-identity) and Viva Engage and Microsoft 365 groups. 
  
 #### Attending a live event
-    - Attendees must have a Microsoft 365 or Office 365 plan that includes a license for Viva Engage (for example, Office 365 A3, A5, F1, E1, E3, or E5) and Microsoft Teams. 
-    - You must be a member of the Viva Engage network in which the event is hosted to attend a live event in a public group. Guests and external users have no access to live events. 
-    - You must be a member of the private group in which the event is hosted to attend a live event in a private group.
+- Attendees must have a Microsoft 365 or Office 365 plan that includes a license for Viva Engage (for example, Office 365 A3, A5, F1, E1, E3, or E5) and Microsoft Teams. 
+- You must be a member of the Viva Engage network in which the event is hosted to attend a live event in a public group. Guests and external users have no access to live events. 
+- You must be a member of the private group in which the event is hosted to attend a live event in a private group.
 
 
 ## Configure video and permissions in advance
