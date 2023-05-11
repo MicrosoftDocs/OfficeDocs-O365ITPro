@@ -66,4 +66,4 @@ You can leave a Viva Engage external network at any time and for any reason.
 ### What happens after I leave the external network
 When you leave an external network, the network retains all of your posts along with your display name.  
 
-To have these posts removed by the admin, review [Manage data subject requests](https://learn.microsoft.com/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise).
+To have these posts removed by the admin, review [Manage data subject requests](/yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise).
