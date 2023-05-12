@@ -58,7 +58,7 @@
 ### [Work with external groups in non-native mode networks](work-with-external-users/create-and-manage-external-groups.md)
 ### [Add external messaging participants](work-with-external-users/add-external-participants.md)
 ### [Create and manage an external network](work-with-external-users/create-and-manage-an-external-network.md)
-### [Manage your external network profile](manage-your-profile-in-an-external-network.md)
+### [Manage your external network profile](work-with-external-users/manage-your-profile-in-an-external-network.md)
 ### [External messaging FAQ](work-with-external-users/external-messaging-faq.md)
 ## Manage Yammer content
 ### [Report a Yammer conversation overview](manage-yammer-groups/configure-conversation-reporting.md)
