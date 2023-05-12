@@ -5,7 +5,7 @@ f1.keywords:
 ms.author: mamiejohnson
 author: mamiepjohnson
 manager: dmillerdyson
-ms.date: 9/23/2019
+ms.date: 05/11/2023
 audience: Admin
 ms.topic: overview
 ms.service: yammer
@@ -27,12 +27,12 @@ description: "Learn what's needed for group admins to host live video events for
 # Organize a Microsoft Teams powered live event in Yammer 
 
 > Viva Engage has partnered with Teams to provide the best technology for running your live event. Microsoft Viva Engage uses Microsoft Teams to process and record video for all live events. To understand how Viva Engage and Teams work together, see 
-[Overview of live events](/microsoftteams/teams-live-events/what-are-teams-live-events#overview)
+[Overview of live events](/microsoftteams/teams-live-events/what-are-teams-live-events).
 >
 > This article provides guidance for Viva Engage group admins to produce the best live event experiences for their groups and communities.  
 >
 > [!NOTE]
-> On September 15, 2023, [Stream live events will be deprecated](/stream/live-event-retirement). Through June 30, 2023, limits in Stream live limits will be extended to support: 
+> On September 15, 2023, [Stream live events will be retired](/stream/live-event-retirement). Through June 30, 2023, limits in Stream live limits will be extended to support: 
 > - Up to 20,000 attendees
 > - 50 events simultaneous events on a single tenant
 > - Events up to 16 hours in duration
@@ -48,14 +48,14 @@ description: "Learn what's needed for group admins to host live video events for
 ![Image of Yammer live events showing new Teams options to produce events.](../media/live-event-teams.jpg)
 > The size and complexity of your live event determines whether you create the event in Viva Engage or in Microsoft Teams. Review these descriptions to determine which one best fits your needs. 
 
-### Microsoft Teams QuickStart 
+- **Microsoft Teams QuickStart**
 Use this method used to produce simple live events. All you need to have are the audio and video devices connected to the presenter’s computer. This setup is great when you've invited a remote presenter for the event. 
     - Teams encodes the broadcast stream. 
     - Content shared from the presenter’s webcam and screen is shared across Teams. 
     - Attendees can view the event on Viva Engage. 
     - Video is stored in the SharePoint library connected to the Viva Engage community where the live event was produced.
 
-### Teams external app or device
+- **Teams external app or device**
 This type of production is best for large-scale events, such as executive town halls. Here, a single stream from a media mixer is broadcast to the audience. 
     - Teams broadcasts the live event 
     - Requires an external encoder (app or device) to produce the event 
@@ -68,7 +68,7 @@ As a live event organizer, you must first make sure that you, and your audience 
 >
 ### Creating and scheduling a live event
 - You must be an admin in the Viva Engage group or community in which you create and schedule the event. 
-- You must own a Teams license and set up specific policies. For details, see [Who can create and schedule live events in Teams](/microsoftteams/teams-live-events/plan-for-teams-live-events#who-can-create-and-schedule-live-events) and [Set up live events policies](/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-3-set-up-live-events-policies). 
+- You must own a Teams license and set up specific policies. For details, see [Who can create and schedule live events in Teams](/microsoftteams/teams-live-events/plan-for-teams-live-events) and [Set up live events policies](/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-3-set-up-live-events-policies). 
  
 - You must be an admin to assign roles for the live event (producers, presenters, and so on). Only assigned roles receive an invite, allowing them to join the event through a link. Learn more about [roles assigned through Teams](https://support.microsoft.com/office/schedule-and-produce-a-live-event-in-new-yammer-using-teams-d891bff6-eda2-493f-8b0d-d87932e7937d#roles) or through an [external app or device](https://support.microsoft.com/office/schedule-and-produce-a-live-event-in-new-yammer-using-an-external-app-or-device-975f596a-8fc5-4400-8bf5-7ec77ec18415#roles).
 
