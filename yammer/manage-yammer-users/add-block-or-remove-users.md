@@ -8,7 +8,7 @@ manager: pamgreen
 ms.date: 02/17/2020
 audience: Admin
 ms.topic: article
-ms.prod: office-online-server
+ms.service: office-online-server
 ms.localizationpriority: medium
 ms.custom: Adm_Yammer
 search.appverid:
