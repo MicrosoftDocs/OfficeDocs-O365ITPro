@@ -1,5 +1,5 @@
 ---
-title: "Organize a Microsoft Teams powered live event in Yammer"
+title: "Organize a Microsoft Teams powered live event in Viva Engage"
 f1.keywords:
 - NOCSH
 ms.author: v-bvrana
