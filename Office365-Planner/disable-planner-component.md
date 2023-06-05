@@ -1,3 +1,15 @@
+---
+title: "How to turn off the Planner component for your organization"
+ms.author: dahopkin
+author: 
+manager: 
+ms.date: 
+audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ms.localization_priority: medium
+---
+
 # How to turn off the Planner component for your organization
 
 ## What is the Planner component?
