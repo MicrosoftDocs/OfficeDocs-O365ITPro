@@ -37,7 +37,7 @@ When Microsoft Planner is included in your subscription, it's automatically turn
 
 To control which users have Planner licenses, follow the instructions in [How to use Office 365 PowerShell to manage Microsoft Planner licenses](/office365/troubleshoot/licensing/how-to-use-office-365-powershell-to-manage-microsoft-planner-licenses). When running the scripts in Office 365 PowerShell, the DisabledPlans value for Microsoft Planner is PROJECTWORKMANAGEMENT.
 
-To turn off just the Planner Loop component, see [How to turn off the Planner component for your organization](/office365/planner/disable-planner-component).
+To turn off just the Planner Loop component, see [How to turn off the Planner component for your organization](disable-planner-component.md).
 
 > [!NOTE]
 > Removing a user's Planner license only prevents them from navigating to Planner using the Planner tile. Users in your organization without licenses to Planner can still create and modify plans at the direct Planner URL: tasks.</span>office.</span>com. You can remove users' ability to create plans at tasks.office.com (see [How do I manage who can create a plan?](#how-do-i-manage-who-can-create-a-plan)), but you can't remove their ability to see and modify existing plans at tasks.</span>office.</span>com at this time.
