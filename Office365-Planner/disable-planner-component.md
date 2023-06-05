@@ -2,8 +2,8 @@
 title: "How to turn off the Planner component for your organization"
 ms.author: dahopkin
 author: dahopkin
-manager: 
-ms.date: 
+manager: hoyort
+ms.date: 06/05/2023
 audience: Admin
 ms.topic: article
 ms.service: o365-administration
