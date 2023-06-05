@@ -26,6 +26,7 @@ In this article:
 - [Can people in my organization use Planner if they don't have an Exchange Online mailbox?](#can-people-in-my-organization-use-planner-if-they-dont-have-an-exchange-online-mailbox)
 - [How do I make sure all my users can get emails for Planner?](#how-do-i-make-sure-all-my-users-can-get-emails-for-planner) 
 - [How do I turn off Outlook calendar sync in Planner for my organization?](#how-do-i-turn-off-outlook-calendar-sync-in-planner-for-my-organization)
+- [How do I turn off the Planner Loop component for my organization?](#how-do-i-turn-off-planner-for-my-organization)
 - [How do I install or activate Planner for my organization?](#how-do-i-install-or-activate-planner-for-my-organization)
 - [Can I see who is already using Planner, or see a list of all the Planner sites?](#can-i-see-who-is-already-using-planner-or-see-a-list-of-all-the-planner-sites)
 - [How can I apply CA policies to the Planner iOS and Android apps?](#how-can-i-apply-ca-policies-to-the-planner-ios-and-android-apps)
@@ -82,6 +83,12 @@ In Planner, users can choose to receive emails when tasks are assigned to them o
 ## How do I turn off Outlook calendar sync in Planner for my organization?
 
 Outlook calendar sync in Microsoft Planner allows users to view their Planner schedule in Outlook. This feature is turned on automatically in Planner. If you want to turn this off for your organization, follow the steps in [Turn off Outlook calendar sync in Planner for your organization](turn-off-outlook-calendar-sync.md).
+
+## How do I turn off the Planner Loop component for my organization?
+The Planner component allows users to create, view, and edit Planner plans as a Loop component in the Loop app and in Microsoft apps that support Loop, for example, in Outlook, Word, and Teams. To turn off the component for your organization, follow the steps in {Link to Planner component admin help article}.
+
+> [!NOTE]
+>The Planner component is a new feature that may not be available in every Microsoft app that supports Loop yet.
 
 ## How do I install or activate Planner for my organization?
 
