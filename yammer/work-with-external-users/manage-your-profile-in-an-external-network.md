@@ -20,14 +20,14 @@ description: "Members of an external network can manage their personal informati
 ---
 
 # Manage your external network profile
-Each Microsoft Viva Engage external network is separate from the user's home network. 
+Each Microsoft Yammer external network is separate from the user's home network. 
 Users in an external network are responsible for managing their profiles and the amount of information they provide.  
 
 > [!IMPORTANT] 
 > Your profile is visible to all other participants within the external network. Additionally, profile information is shared between your external and home network accounts.   
 By participating in an external network, you agree to share this information about yourself
 with other participants in the external network. Be aware that profile information may also be 
-visible in other areas of Viva Engage or through the REST API. 
+visible in other areas of Yammer or through the REST API.
 
 ## Update your user profile
 To change your profile, you must sign-in to the external network.
@@ -49,10 +49,10 @@ After you sign in, the **Settings** icon contains a blue dot.
   If you're unable to modify or save changes to your profile, your home tenant admin has disabled this feature.
 
 > [!NOTE] 
-> Viva Engage obfuscates the name in an email address with asterisks (***) but not the domain, which remains visible to others in the external network. APIs in the external network may not perform the same obfuscation.
+> Yammer obfuscates the name in an email address with asterisks (***) but not the domain, which remains visible to others in the external network. APIs in the external network may not perform the same obfuscation.
 
 ## Leave the external network
-You can leave a Viva Engage external network at any time and for any reason.
+You can leave a Yammer external network at any time and for any reason.
 
 1.	After logging in to the external network, select **Settings** > **Edit Settings**.
 
