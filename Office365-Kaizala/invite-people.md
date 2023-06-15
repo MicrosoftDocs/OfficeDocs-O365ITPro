@@ -55,7 +55,7 @@ Create customized posters and email messages to get your organization excited ab
 
 |Customizable poster  |Customizable email template       |
 |---------|---------|
-|**Poster: Introducing Microsoft Kaizala** <br>[Download the .pptx file](https://github.com/MicrosoftDocs/OfficeDocs-O365ITPro/raw/public/Office365-Kaizala/downloads/poster-introducing-kaizala.pptx?raw=true)<br>![Screenshot of the Introducing Microsoft Kaizala poster.](media/poster-introducing-kaizala-thumbnail.png)    |**Email: Introducing Microsoft Kaizala** <br>[Download the .oft file](https://github.com/MicrosoftDocs/OfficeDocs-O365ITPro/raw/public/Office365-Kaizala/downloads/edm-introducing-kaizala.oft?raw=true)<br>![Screenshot of the Introducing Microsoft Kaizala email template.](media/edm-introducing-kaizala-thumbnail.png)         |
+|**Poster: Introducing Microsoft Kaizala** <br>![Screenshot of the Introducing Microsoft Kaizala poster.](media/poster-introducing-kaizala-thumbnail.png)    |**Email: Introducing Microsoft Kaizala** <br>[Download the .oft file](https://github.com/MicrosoftDocs/OfficeDocs-O365ITPro/raw/public/Office365-Kaizala/downloads/edm-introducing-kaizala.oft?raw=true)<br>![Screenshot of the Introducing Microsoft Kaizala email template.](media/edm-introducing-kaizala-thumbnail.png)         |
 
 
 *Next>* [Get conversations going](get-conversations-going.md)
