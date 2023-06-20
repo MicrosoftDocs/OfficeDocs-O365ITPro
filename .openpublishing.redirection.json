@@ -4092,7 +4092,7 @@
     },
     {
       "source_path": "yammer/yammer-landing-page.md",
-      "redirect_url": "/yammer/index",
+      "redirect_url": "/yammer/index/",
       "redirect_document_id": false
     },
     {
