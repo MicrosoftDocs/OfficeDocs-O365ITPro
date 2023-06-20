@@ -73,7 +73,7 @@ Create customized posters and email messages to get your organization excited ab
 
 |Customizable poster  |Customizable email template       |
 |---------|---------|
-|**Poster: Move your groups to Kaizala** <br>[Download the .pptx file](https://github.com/MicrosoftDocs/OfficeDocs-O365ITPro/raw/public/Office365-Kaizala/downloads/poster-move-groups-to-kaizala.pptx?raw=true)<br>![Screenshot of the Move your groups to Microsoft Kaizala poster.](media/poster-move-groups-to-kaizala-thumbnail.png)    |**Email: Move your groups to Kaizala** <br>[Download the .oft file](https://github.com/MicrosoftDocs/OfficeDocs-O365ITPro/raw/public/Office365-Kaizala/downloads/edm-move-groups-to-kaizala.oft?raw=true)<br>![Screenshot of the Move your groups to Kaizala email template.](media/edm-move-groups-to-kaizala-thumbnail.png)         |
+|**Poster: Move your groups to Kaizala** <br>![Screenshot of the Move your groups to Microsoft Kaizala poster.](media/poster-move-groups-to-kaizala-thumbnail.png)    |**Email: Move your groups to Kaizala** <br>[Download the .oft file](https://github.com/MicrosoftDocs/OfficeDocs-O365ITPro/raw/public/Office365-Kaizala/downloads/edm-move-groups-to-kaizala.oft?raw=true)<br>![Screenshot of the Move your groups to Kaizala email template.](media/edm-move-groups-to-kaizala-thumbnail.png)         |
 
 
 
