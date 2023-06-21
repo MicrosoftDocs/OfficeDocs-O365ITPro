@@ -4087,12 +4087,12 @@
     },
     {
       "source_path": "yammer/get-started-with-yammer/index.md",
-      "redirect_url": "yammer/admin-key-concepts/",
+      "redirect_url": "/yammer/get-started-with-yammer/admin-key-concepts",
       "redirect_document_id": false
     },
     {
       "source_path": "yammer/yammer-landing-page.md",
-      "redirect_url": "/yammer/index/",
+      "redirect_url": "/yammer/",
       "redirect_document_id": false
     },
     {
