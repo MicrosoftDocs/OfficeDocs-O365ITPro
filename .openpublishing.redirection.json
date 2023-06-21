@@ -4102,22 +4102,22 @@
     },
     {
       "source_path": "yammer/manage-security-and-compliance/index.md",
-      "redirect_url": "/yammer/manage-security-and-compliance",
+      "redirect_url": "/manage-security-and-compliance",
       "redirect_document_id": false
     },
     {
       "source_path": "yammer/manage-yammer-groups/index.md",
-      "redirect_url": "/yammer/manage-yammer-groups",
+      "redirect_url": "/manage-yammer-groups",
       "redirect_document_id": false
     },
     {
       "source_path": "yammer/manage-yammer-users/index.md",
-      "redirect_url": "/yammer/manage-yammer-users",
+      "redirect_url": "/manage-yammer-users",
       "redirect_document_id": false
     },
     {
       "source_path": "yammer/troubleshoot-problems/index.md",
-      "redirect_url": "/yammer/troubleshoot-problems",
+      "redirect_url": "/troubleshoot-problems",
       "redirect_document_id": false
     },
     {
