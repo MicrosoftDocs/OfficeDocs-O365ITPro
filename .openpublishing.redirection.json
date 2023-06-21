@@ -4072,7 +4072,7 @@
     },
     {
       "source_path": "Office365-Kaizala/index.md",
-      "redirect_url": "/en-us/kaizala/",
+      "redirect_url": "/kaizala/",
       "redirect_document_id": false
     },
     {
@@ -4137,27 +4137,27 @@
     },
     {
       "source_path": "Office365-MileIQ/accept-invitation.md",
-      "redirect_url": "https://docs.microsoft.com",
+      "redirect_url": "/learn.microsoft.com",
       "redirect_document_id": false
     },
     {
       "source_path": "Office365-MileIQ/edit-rates.md",
-      "redirect_url": "https://docs.microsoft.com",
+      "redirect_url": "/learn.microsoft.com",
       "redirect_document_id": false
     },
     {
       "source_path": "Office365-MileIQ/give-access-mileiq-admin-center.md",
-      "redirect_url": "https://docs.microsoft.com",
+      "redirect_url": "/learn.microsoft.com",
       "redirect_document_id": false
     },
     {
       "source_path": "Office365-MileIQ/invite-users.md",
-      "redirect_url": "https://docs.microsoft.com",
+      "redirect_url": "/learn.microsoft.com",
       "redirect_document_id": false
     },
     {
       "source_path": "Office365-MileIQ/remove-users.md",
-      "redirect_url": "https://docs.microsoft.com",
+      "redirect_url": "/learn.microsoft.com",
       "redirect_document_id": false
     }
   ]
