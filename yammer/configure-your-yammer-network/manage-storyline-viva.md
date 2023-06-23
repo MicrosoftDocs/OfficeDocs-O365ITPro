@@ -47,20 +47,6 @@ The system default selections for notifications include:
 - Microsoft Teams – notifications are delivered in the Teams Activity feed
 - Email – email delivered to your Inbox includes support for Actionable messages, so the conversation can be viewed and replied from Outlook Web Access.
 - Viva Engage & Yammer – notifications are delivered to the Viva Engage & Yammer notification bells.
-
-## Preview features
-This toggle allows you to preview some of the features that will be available in Yammer and the Viva Engage app through Viva Engage. The features available through this preview will be available to all of the internal users in your tenant who have access to Yammer and Viva Engage, irrespective of license status. Pricing and licensing requirements for these features post-preview are yet to be determined.
-
-The preview is currently scheduled to continue until at least December 31, 2022. All features from this preview will be turned off automatically at the end of the preview without any intervention or obligations required from you.
-
-The features included in the preview include:
-* Conversation insights for Storyline – Users are able to see detailed metrics for conversations they’ve posted to their Storyline including impressions, reactions, and comments. 
-
-* Storyline digest – This collects any unseen Storyline posts for the week from followed people and sends it to the user once per week in an email or notification in their Teams activity feed. The Storyline digest isn't sent if the people followed don't post, or if all of the posts were already seen by the user.  
-
-* Post on behalf of (POBO) for Storyline – During the preview, any user who has assigned POBO delegates can give those delegates the additional privilege of posting to the assigning user’s Storyline.
-
-* Custom cover photo – This feature allows users to customize their user profile page by uploading a photo to be the background image for the header of their user profile page.
  
 ## Security and compliance
 
