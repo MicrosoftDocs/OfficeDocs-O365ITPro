@@ -1,0 +1,394 @@
+{    
+    "redirections": [
+        {
+            "source_path": "yammer/manage-yammer-users/manage-yammer-licenses-in-office-365.md",
+            "redirect_url": "/viva/engage/manage-viva-engage-users/manage-licenses-in-office-365",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-security-and-compliance/overview-of-ediscovery.md",
+            "redirect_url": "/viva/engage/manage-security-and-compliance/overview-of-ediscovery",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-yammer-users/office-365-sign-in.md",
+            "redirect_url": "/viva/engage/manage-viva-engage-users/office-365-sign-in",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/get-started-with-yammer/newyammer-faq.md",
+            "redirect_url": "/viva/engage/get-started-with-viva-engage/viva-engage-faq",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks.md",
+            "redirect_url": "/viva/engage/configure-your-viva-engage-network/consolidate-multiple-networks",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-security-and-compliance/monitor-private-content.md",
+            "redirect_url": "/viva/engage/manage-security-and-compliance/monitor-private-content",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-security-and-compliance/manage-yammer-with-intune.md",
+            "redirect_url": "/viva/engage/manage-security-and-compliance/manage-viva-engage-with-intune",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-yammer-users/manage-users-across-their-lifecycle.md",
+            "redirect_url": "/viva/engage/manage-viva-engage-users/manage-users-across-their-lifecycle",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-security-and-compliance/yammer-security-settings.md",
+            "redirect_url": "/viva/engage/manage-security-and-compliance/viva-engage-security-settings",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/configure-your-yammer-network/manage-yammer-domains.md",
+            "redirect_url": "/viva/engage/configure-your-viva-engage-network/manage-domains",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-security-and-compliance/manage-data-compliance.md",
+            "redirect_url": "/viva/engage/manage-security-and-compliance/manage-data-compliance",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-security-and-compliance/gdpr-requests-in-yammer-enterprise.md",
+            "redirect_url": "/viva/engage/manage-security-and-compliance/gdpr-requests-in-viva-engage-enterprise",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-security-and-compliance/gdpr-requests-in-yammer-basic.md",
+            "redirect_url": "/viva/engage/manage-security-and-compliance/gdpr-requests-in-viva-engage",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-yammer-groups/yammer-live-events.md",
+            "redirect_url": "/viva/engage/manage-viva-engage-groups/live-events",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/troubleshoot-problems/limited-functionality-in-explorer-10-document-mode.md",
+            "redirect_url": "/viva/engage/troubleshoot-problems/limited-functionality-in-explorer-10-document-mode",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/integrate-yammer-with-other-apps/embed-a-feed-into-a-sharepoint-site.md",
+            "redirect_url": "/viva/engage/integrate-viva-engage-with-other-apps/embed-a-feed-into-a-sharepoint-site",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-yammer-users/auto-acceleration-policy-for-signing-in.md",
+            "redirect_url": "/viva/engage/manage-viva-engage-users/auto-acceleration-policy-for-signing-in",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/work-with-external-users/find-external-participants.md",
+            "redirect_url": "/viva/engage/work-with-external-users/find-external-participants",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/configure-your-yammer-network/files-in-native-mode.md",
+            "redirect_url": "/viva/engage/configure-your-viva-engage-network/files-in-native-mode",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-security-and-compliance/faq-ediscovery.md",
+            "redirect_url": "/viva/engage/manage-security-and-compliance/faq-ediscovery",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/configure-your-yammer-network/faq-consolidate-multiple-yammer-networks.md",
+            "redirect_url": "/viva/engage/configure-your-viva-engage-network/faq-consolidate-multiple-viva-engage-networks",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-security-and-compliance/export-yammer-enterprise-data.md",
+            "redirect_url": "/viva/engage/manage-security-and-compliance/export-viva-engage-enterprise-data",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-security-and-compliance/export-yammer-basic-data.md",
+            "redirect_url": "/viva/engage/manage-security-and-compliance/export-viva-engage-basic-data",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/configure-your-yammer-network/enforce-office-365-identity.md",
+            "redirect_url": "/viva/engage/configure-your-viva-engage-network/enforce-office-365-identity",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/work-with-external-users/disable-external-messaging.md",
+            "redirect_url": "/viva/engage/work-with-external-users/disable-external-messaging",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "/yammer/configure-your-yammer-network/deprecation-of-basic-freemium-networks.md",
+            "redirect_url": "/viva/engage/configure-your-viva-engage-network/deprecation-of-basic-freemium-networks",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-security-and-compliance/data-residency.md",
+            "redirect_url": "/viva/engage/manage-security-and-compliance/data-residency",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-yammer-groups/customize-your-yammer-community.md",
+            "redirect_url": "/viva/engage/manage-viva-engage-groups/customize-your-community",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-yammer-groups/customize-your-network.md",
+            "redirect_url": "/viva/engage/manage-viva-engage-groups/customize-your-network",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/configure-your-yammer-network/customize-the-look-of-yammer.md",
+            "redirect_url": "/viva/engage/configure-your-viva-engage-network/customize-the-look-of-viva-engage",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/work-with-external-users/create-and-manage-an-external-network.md",
+            "redirect_url": "/viva/engage/work-with-external-users/create-and-manage-an-external-network",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-yammer-groups/create-a-dynamic-group.md",
+            "redirect_url": "/viva/engage/manage-viva-engage-groups/create-a-dynamic-group",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/configure-your-yammer-network/configure-yammer.md",
+            "redirect_url": "/viva/engage/configure-your-viva-engage-network/configure-viva-engage",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/configure-your-yammer-network/configure-email-and-yammer.md",
+            "redirect_url": "/viva/engage/configure-your-viva-engage-network/configure-email-and-viva-engage",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/work-with-external-users/collaborate-guests-external-yammer-community.md",
+            "redirect_url": "/viva/engage/work-with-external-users/collaborate-guests-external-viva-engage-community",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/get-started-with-yammer/administrative-settings-opt-in-newyammer.md",
+            "redirect_url": "/viva/engage/get-started-with-viva-engage/administrative-settings-opt-in",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-yammer-users/audit-users-connected-to-office-365.md",
+            "redirect_url": "/viva/engage/manage-viva-engage-users/audit-users-connected-to-office-365",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-yammer-groups/yammer-all-company-yammer-community.md",
+            "redirect_url": "/viva/engage/manage-viva-engage-groups/all-company-community",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/configure-your-yammer-network/add-basic-domains-to-office-365.md",
+            "redirect_url": "/viva/engage/configure-your-viva-engage-network/add-basic-domains-to-office-365",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/work-with-external-users/add-external-participants.md",
+            "redirect_url": "/viva/engage/work-with-external-users/add-external-participants",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/configure-your-yammer-network/yammer-and-office-365.md",
+            "redirect_url": "/viva/engage/configure-your-viva-engage-network/viva-engage-and-office-365",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-yammer-users/aad-account-required.md",
+            "redirect_url": "/viva/engage/manage-viva-engage-users/aad-account-required",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/configure-your-yammer-network/manage-storyline-viva.md",
+            "redirect_url": "/viva/engage/configure-your-viva-engage-network/manage-storyline-viva.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/configure-your-yammer-network/native-mode-step-by-step-guide.md",
+            "redirect_url": "/viva/engage/configure-your-viva-engage-network/native-mode-step-by-step-guide.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/configure-your-yammer-network/native-mode.md",
+            "redirect_url": "/viva/engage/configure-your-viva-engage-network/native-mode.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/configure-your-yammer-network/nonnative-hybrid.md",
+            "redirect_url": "/viva/engage/configure-your-viva-engage-network/nonnative-hybrid.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/configure-your-yammer-network/overview-native-mode.md",
+            "redirect_url": "/viva/engage/configure-your-viva-engage-network/overview-native-mode.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/get-started-with-yammer/admin-key-concepts.md",
+            "redirect_url": "/viva/engage/get-started-with-viva-engage/admin-key-concepts.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/get-started-with-yammer/admin-quick-start.md",
+            "redirect_url": "/viva/engage/get-started-with-viva-engage/admin-quick-start.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/get-started-with-yammer/azure-ad-b2b-guests-yammer.md",
+            "redirect_url": "/viva/engage/get-started-with-viva-engage/azure-ad-b2b-guests-viva-engage.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/get-started-with-yammer/file-storage.md",
+            "redirect_url": "/viva/engage/get-started-with-viva-engage/file-storage.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/get-started-with-yammer/rich-text-formatting.md",
+            "redirect_url": "/viva/engage/get-started-with-viva-engage/rich-text-formatting.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer-content-updates.md",
+            "redirect_url": "/viva/engage/",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/integrate-yammer-with-other-apps/integrate-with-other-applications.md",
+            "redirect_url": "/viva/engage/integrate-viva-engage-with-other-apps/integrate-with-other-applications.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/integrate-yammer-with-other-apps/yammer-and-newsfeed.md",
+            "redirect_url": "/viva/engage/integrate-viva-engage-with-other-apps/viva-engage-and-newsfeed.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-security-and-compliance/advanced-ediscovery.md",
+            "redirect_url": "/viva/engage/manage-security-and-compliance/advanced-ediscovery.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-security-and-compliance/security-and-compliance.md",
+            "redirect_url": "/viva/engage/manage-security-and-compliance/security-and-compliance.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-security-and-compliance/set-up-a-usage-policy.md",
+            "redirect_url": "/viva/engage/manage-security-and-compliance/set-up-a-usage-policy.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-security-and-compliance/track-yammer-events.md",
+            "redirect_url": "/viva/engage/manage-security-and-compliance/track-viva-engage-events.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-yammer-groups/configure-conversation-reporting.md",
+            "redirect_url": "/viva/engage/manage-viva-engage-groups/configure-conversation-reporting.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-yammer-groups/favorite-communities.md",
+            "redirect_url": "/viva/engage/manage-viva-engage-groups/favorite-communities.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-yammer-groups/yammer-and-office-365-groups.md",
+            "redirect_url": "/viva/engage/manage-viva-engage-groups/viva-engage-and-office-365-groups.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-yammer-groups/yammer-live-events-documentation.md",
+            "redirect_url": "/viva/engage/manage-viva-engage-groups/viva-engage-live-events-documentation.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-yammer-groups/yammer-produce-live-events-from-your-device-coming-soon.md",
+            "redirect_url": "/viva/engage/manage-viva-engage-groups/viva-engage-produce-live-events-from-your-device-coming-soon.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-yammer-groups/yammer-terms-faq.md",
+            "redirect_url": "/viva/engage/manage-viva-engage-groups/viva-engage-terms-faq.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-yammer-users/add-block-or-remove-users.md",
+            "redirect_url": "/viva/engage/manage-viva-engage-users/add-block-or-remove-users.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-yammer-users/internet-explorer-11-retirement.md",
+            "redirect_url": "/viva/engage/manage-viva-engage-users/internet-explorer-11-retirement.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-yammer-users/manage-yammer-admins.md",
+            "redirect_url": "/viva/engage/manage-viva-engage-users/manage-viva-engage-admins.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/manage-yammer-users/turn-off-user-access.md",
+            "redirect_url": "/viva/engage/manage-viva-engage-users/turn-off-user-access.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/troubleshoot-problems/cannot-migrate-a-yammer-network-across-office-365-tenants.md",
+            "redirect_url": "/viva/engage/troubleshoot-problems/cannot-migrate-a-viva-engage-network-across-office-365-tenants.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/troubleshoot-problems/error-when-click-the-yammer-tile-in-office-365.md",
+            "redirect_url": "/viva/engage/troubleshoot-problems/error-when-click-the-viva-engage-tile-in-office-365.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yamer/troubleshoot-problems/help-users-log-in-to-yammer-on-android-devices.md",
+            "redirect_url": "/viva/engage/troubleshoot-problems/help-users-log-in-to-viva-engage-on-android-devices.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/troubleshoot-problems/troubleshoot-native-mode.md",
+            "redirect_url": "/viva/engage/troubleshoot-problems/troubleshoot-native-mode.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/troubleshoot-problems/upgrade-your-network-to-stand-alone-yammer.md",
+            "redirect_url": "/viva/engage/troubleshoot-problems/upgrade-your-network-to-stand-alone-viva-engage.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/troubleshoot-problems/yammer-user-is-displayed-as-former-member.md",
+            "redirect_url": "/viva/engage/troubleshoot-problems/viva-engage-user-is-displayed-as-former-member.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/work-with-external-users/create-and-manage-external-groups.md",
+            "redirect_url": "/viva/engage/work-with-external-users/create-and-manage-external-groups.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/work-with-external-users/external-messaging-faq.md",
+            "redirect_url": "/viva/engage/work-with-external-users/external-messaging-faq.md",
+            "redirect_document_id": "FALSE"
+        },
+        {
+            "source_path": "yammer/work-with-external-users/manage-your-profile-in-an-external-network.md",
+            "redirect_url": "/viva/engage/work-with-external-users/manage-your-profile-in-an-external-network.md",
+            "redirect_document_id": "FALSE"
+        }
+    ]
+}
