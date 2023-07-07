@@ -5,7 +5,7 @@ f1.keywords:
 ms.author: v-bvrana
 author: Starshine89
 manager: dmillerdyson
-ms.date: 05/31/2023
+ms.date: 07/07/2023
 audience: Admin
 ms.topic: overview
 ms.service: yammer
@@ -32,9 +32,9 @@ description: "Learn what's needed for group admins to host live video events for
 > This article provides guidance for Viva Engage group admins to produce the best live event experiences for their groups and communities. If you're planning a large event (up to 100,000 attendees), the Microsoft 365 live events assistance team can give you the best options for your live event. [Learn more about this program.](https://adoption.microsoft.com/virtual-event-guidance/assistance)
 >
 > [!NOTE]
-> On September 15, 2023, [Stream live events will be retired](/stream/live-event-retirement). Through June 30, 2023, limits in Stream live limits will be extended to support: 
+> On September 15, 2023, [Stream live events will be retired](/stream/live-event-retirement). Through December 31, 2023, limits in Stream live limits are extended to support: 
 > - Up to 20,000 attendees
-> - 50 events simultaneous events on a single tenant
+> - 50 simultaneous events on a single tenant
 > - Events up to 16 hours in duration
 
 
@@ -46,14 +46,14 @@ description: "Learn what's needed for group admins to host live video events for
 > When setting up a live event, we recommend that you configure your video, community, and user permissions at least 24 hours before the event for the best experience. This includes such settings as adding users, updating video permissions, and changing a community from private to public. It can take up to two hours for certain changes to propagate across Microsoft Teams and Viva Engage. Allowing 24 hours or more can provide time for testing and adjusting if needed.
 
 - **Microsoft Teams QuickStart**
-> Use this method used to produce simple live events. All you need to have are the audio and video devices connected to the presenter’s computer. This setup is great when you've invited a remote presenter for the event. 
+> Use this production method for simple live events. All you need are the audio and video devices connected to the presenter’s computer. This setup is ideal when you've invited a remote presenter for the event. 
     - Teams encodes the broadcast stream. 
     - Content shared from the presenter’s webcam and screen is shared across Teams. 
     - Attendees can view the event on Viva Engage. 
     - Video is stored in the SharePoint library connected to the Viva Engage community where the live event was produced.
 
 - **Teams external app or device**
-> This type of production is best for large-scale events, such as executive town halls. Here, a single stream from a media mixer is broadcast to the audience. 
+> Use this production method for large-scale events, such as executive town halls. Here, a single stream from a media mixer is broadcast to the audience. 
     - Teams broadcasts the live event 
     - Requires an external encoder (app or device) to produce the event 
     - Attendees can view the event in Viva Engage. 
@@ -67,7 +67,7 @@ As a live event organizer, you must first make sure that you, and your audience 
 - You must be an admin in the Viva Engage group or community in which you create and schedule the event. 
 - You must own a Teams license and set up specific policies. For details, see [Who can create and schedule live events in Teams](/microsoftteams/teams-live-events/plan-for-teams-live-events) and [Set up live events policies](/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-3-set-up-live-events-policies). 
  
-- You must be an admin to assign roles for the live event (producers, presenters, and so on). Only assigned roles receive an invite, allowing them to join the event through a link. Learn more about [roles assigned through Teams](https://support.microsoft.com/office/schedule-and-produce-a-live-event-in-new-yammer-using-teams-d891bff6-eda2-493f-8b0d-d87932e7937d#roles) or through an [external app or device](https://support.microsoft.com/office/schedule-and-produce-a-live-event-in-new-yammer-using-an-external-app-or-device-975f596a-8fc5-4400-8bf5-7ec77ec18415#roles).
+- You must be an admin to assign roles for the live event (producers, presenters, and so on). Only assigned roles receive an invite that lets them join the event through a link. Learn more about [roles assigned through Teams](https://support.microsoft.com/office/schedule-and-produce-a-live-event-in-new-yammer-using-teams-d891bff6-eda2-493f-8b0d-d87932e7937d#roles) or through an [external app or device](https://support.microsoft.com/office/schedule-and-produce-a-live-event-in-new-yammer-using-an-external-app-or-device-975f596a-8fc5-4400-8bf5-7ec77ec18415#roles).
 
 - Co-producers and presenters that you assign must also have a Teams license and Teams must be enabled. (Select the Microsoft 365 app launcher and look for a Teams icon.) 
 
@@ -82,7 +82,7 @@ For more information, see [Enforce Office 365 identity for Viva Engage users](/y
 
 
 ## Configure video and permissions in advance
-Before you can create a live event, you need to configure video, community, and user permissions. You'll want to add users, update video permissions, and change a community from private to public. Permissions take up to two hours to propagate across Teams and Viva Engage. 
+Before you can create a live event, you must configure video, community, and user permissions. Tasks you'll need to complete include adding users, updating video permissions, and changing the community from private to public. Permissions take up to two hours to propagate across Teams and Viva Engage. 
 
 We recommend that you configure these settings at least 24 hours in advance to allow time to test and adjust your settings.   
 
@@ -94,7 +94,7 @@ Enlist helpers for the key roles: organizer, presenter, and attendee. If you pro
  
 ## Restrict creation of live events in Viva Engage
 
-You can prevent the creation of live events produced in teams, live events produced with other tools, or both.
+You can prevent the creation of live events produced in Teams, live events produced with other tools, or both.
 
 - To prevent creation of live events produced in Teams, remove permissions in Teams for live event scheduling. 
 Users who are unlicensed and unauthorized to create a live event in Teams won't have the produce in Teams option if they try to create a live event in Viva Engage.
@@ -115,15 +115,15 @@ The new live events are broadcast using the Teams media player and can be viewed
 
 **Q: Why can't I view the video?**
 
-To maintain the privacy of live event content, only authorized users can join a live event and are authenticated as they load the live event page. Authentication must be successful for video to be viewable. Use your browser's settings to make sure that cookies are enabled and that any extensions that block tokens are disabled. After changing the settings, refresh the event page.
+To maintain the privacy of live event content, only authorized users can join a live event. Users are authenticated as they load the live event page. Authentication must be successful for video to be viewable. Use your browser's settings to make sure that cookies are enabled and that any extensions that block tokens are disabled. After changing the settings, refresh the event page.
 
 **Q: Where are the videos stored once they are produced?**
 
 The Video-on-Demand is stored in the SharePoint Community where the event was hosted and is automatically shared with members of the private community. If the event was produced in a public community, the video is shared with everyone across the Viva Engage network.
 
-**Q: Can Event Producers edit videos?**
+**Q: Can event producers edit videos?**
 
-Yes, the videos can be edited in SharePoint. The edited video in SharePoint is automatically updated for attendees to watch. It can take up to 10 minutes before producers can edit their videos after the event is completed.
+Yes, the videos can be edited in SharePoint. The edited video in SharePoint is automatically updated for attendees to watch. Once the event is over, producers may need to wait up to 10 minutes for the video to become editable.
 
 **Q: What happens to the old live events videos that were produced using Microsoft Stream?**
 
@@ -156,12 +156,3 @@ Use the links to the event found on the event page in Viva Engage to invite atte
 - In all communities, pin announcements to the top of the community feed. 
 - Send an email with the link. 
 Send a meeting invite in Outlook or Microsoft Teams containing the link.
-
-
-## Related articles
-
-[Organize a live event in Viva Engage](https://support.office.com/article/organize-a-live-event-in-yammer-105dd7af-9caf-4a5e-8a44-56d203e96551)
-
-[Microsoft Teams live events overview](https://support.office.com/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a)
-
-[Get help producing a live event](https://support.office.com/article/0cedb557-cbe4-40d3-8147-112633f087eb)
