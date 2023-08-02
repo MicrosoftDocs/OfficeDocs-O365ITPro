@@ -85,7 +85,8 @@ In Planner, users can choose to receive emails when tasks are assigned to them o
 Outlook calendar sync in Microsoft Planner allows users to view their Planner schedule in Outlook. This feature is turned on automatically in Planner. If you want to turn this off for your organization, follow the steps in [Turn off Outlook calendar sync in Planner for your organization](turn-off-outlook-calendar-sync.md).
 
 ## How do I turn off the Planner Loop component for my organization?
-The Planner component allows users to create, view, and edit Planner plans as a Loop component in the Loop app and in Microsoft apps that support Loop, for example, in Outlook and Teams. To turn off the component for your organization, follow the steps in [How to turn off the Planner component for your organization](disable-planner-component.md).
+
+The Planner component allows users to view and edit Planner plans as a Loop component in the Loop app and in Microsoft apps that support Loop, for example, in Outlook and Teams. To turn off the component for your organization, follow the steps in [How to turn off the Planner component for your organization](disable-planner-component.md).
 
 > [!NOTE]
 >The Planner component is a new feature that may not be available in every Microsoft app that supports Loop yet.
