@@ -4082,22 +4082,22 @@
     },
     {
       "source_path": "yammer/configure-your-yammer-network/index.md",
-      "redirect_url": "/configure-your-yammer-network",
+      "redirect_url": "/yammer/configure-your-yammer-network/configure-yammer",
       "redirect_document_id": false
     },
     {
       "source_path": "yammer/get-started-with-yammer/index.md",
-      "redirect_url": "/admin-key-concepts",
+      "redirect_url": "/yammer/get-started-with-yammer/admin-key-concepts",
       "redirect_document_id": false
     },
     {
       "source_path": "yammer/yammer-landing-page.md",
-      "redirect_url": "/index",
+      "redirect_url": "/yammer/",
       "redirect_document_id": false
     },
     {
       "source_path": "yammer/integrate-yammer-with-other-apps/index.md",
-      "redirect_url": "/integrate-yammer-with-other-apps",
+      "redirect_url": "/yammer/integrate-yammer-with-other-apps/integrate-with-other-applications",
       "redirect_document_id": false
     },
     {

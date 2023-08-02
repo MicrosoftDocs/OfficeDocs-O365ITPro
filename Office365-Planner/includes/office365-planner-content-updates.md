@@ -2,9 +2,9 @@
 
 
 
-## Week of April 24, 2023
+## Week of July 10, 2023
 
 
 | Published On |Topic title | Change |
 |------|------------|--------|
-| 4/27/2023 | [Export user data from Microsoft Planner](/Office365/Planner/export-user-data) | modified |
+| 7/14/2023 | [Export user data from Microsoft Planner](/Office365/Planner/export-user-data) | modified |
