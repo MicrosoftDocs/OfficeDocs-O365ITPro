@@ -14,12 +14,12 @@ ms.localization_priority: medium
 # How to turn off the Planner component for your organization
 
 ## What is the Planner component?
-The Planner component allows users to view and edit Planner plans as a Loop component in the same way that they can view and edit plans in the Planner web app. It's available in the Loop app and in Microsoft apps that support Loop, for example, in Outlook and Teams.
+The Planner component will allow users to view and edit Planner plans as a Loop component in the same way that they can view and edit plans in the Planner web app. It will be available in the Loop app and in Microsoft apps that support Loop, for example, in Outlook and Teams.
 
-In the Loop app, for example, users can paste the URL for a plan into a Loop page. Once pasted, it renders Planner UX inline in that page so that they can view and edit that plan.
+In the Loop app, for example, users will be able to paste the URL for a plan into a Loop page. Once pasted, it renders Planner UX inline in that page so that they can view and edit that plan.
 
 > [!NOTE]
-> The Planner component is a new feature that may not be available in every Microsoft app that supports Loop yet.
+> The Planner component is a new feature that has not shipped yet.
 
 ## How do I turn off the Planner component for my organization?
 The Planner component can be disabled via the **View and edit Planner plans with the Planner Loop component** cloud policy setting. This policy setting controls whether users can view and edit Planner plans as a Loop component in the Loop app and in Microsoft apps that support Loop. See [Overview of Cloud Policy service for Microsoft 365](/deployoffice/admincenter/overview-cloud-policy) for steps to configure cloud policies.
