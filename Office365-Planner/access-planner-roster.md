@@ -18,6 +18,7 @@ ms.date: 06/17/2021
 
 # Gain access to Rosters in Microsoft Planner
 
+
 Rosters are a new type of container for Microsoft Planner plans. Access to Roster-contained plans is controlled by the members on the Roster.
 
 In General Data Protection Regulation (GDPR) scenarios where the tenant admin is working on a data subject delete request, they may require access to Roster contained plans. The following PowerShell cmdlets have been built to support that access. The tenant admin can use these commands to add and remove a member. This process can be done to give themselves or another person access to a specific roster and the plan data within.
