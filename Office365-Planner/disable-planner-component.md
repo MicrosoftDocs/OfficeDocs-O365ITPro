@@ -18,7 +18,7 @@ The Planner component will allow users to view and edit Planner plans as a Loop 
 
 In the Loop app, for example, users will be able to paste the URL for a plan into a Loop page. Once pasted, it renders Planner UX inline in that page so that they can view and edit that plan.
 
-See [Use the Planner component in Loop](https://support.microsoft.com/en-us/office/use-the-planner-component-in-loop-545e967a-7c69-4e9a-9458-dfabdcf1d752) for details on how the component can be used.
+See [Use the Planner component in Loop](https://support.microsoft.com/office/use-the-planner-component-in-loop-545e967a-7c69-4e9a-9458-dfabdcf1d752) for details on how the component can be used.
 
 > [!NOTE]
 > The Planner component is a new feature that has not shipped yet.
