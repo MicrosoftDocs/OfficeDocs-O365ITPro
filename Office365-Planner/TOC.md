@@ -8,6 +8,7 @@
 ## [Track your message center tasks in Planner](track-message-center-tasks-planner.md)
 ## [Enable your organization's Planner tenant to be moved](enable-organization-planner-tenant-move.md)
 ## [Disable creation of Roster containers in Microsoft Planner](disable-roster-containers.md)
+## [How to turn off the Planner component for your organization](disable-planner-component.md)
 ## [Disabling direct-push notifications for your organization](disabling-direct-push-planner-mobile-notifications.md)
 ## [Access Microsoft Planner Roster](access-planner-roster.md)
 ## [Block a user from deleting tasks in Microsoft Planner they didn't create](block-non-owner-task-deletion.md)

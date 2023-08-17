@@ -26,6 +26,7 @@ In this article:
 - [Can people in my organization use Planner if they don't have an Exchange Online mailbox?](#can-people-in-my-organization-use-planner-if-they-dont-have-an-exchange-online-mailbox)
 - [How do I make sure all my users can get emails for Planner?](#how-do-i-make-sure-all-my-users-can-get-emails-for-planner) 
 - [How do I turn off Outlook calendar sync in Planner for my organization?](#how-do-i-turn-off-outlook-calendar-sync-in-planner-for-my-organization)
+- [How do I turn off the Planner Loop component for my organization?](#how-do-i-turn-off-planner-for-my-organization)
 - [How do I install or activate Planner for my organization?](#how-do-i-install-or-activate-planner-for-my-organization)
 - [Can I see who is already using Planner, or see a list of all the Planner sites?](#can-i-see-who-is-already-using-planner-or-see-a-list-of-all-the-planner-sites)
 - [How can I apply CA policies to the Planner iOS and Android apps?](#how-can-i-apply-ca-policies-to-the-planner-ios-and-android-apps)
@@ -35,6 +36,9 @@ In this article:
 When Microsoft Planner is included in your subscription, it's automatically turned on for everyone in your organization. If you want to control which people in your organization have licenses for Planner, for example, if your organization isn't ready to begin using Planner, you can remove or assign Planner licenses by using Office 365 PowerShell.
 
 To control which users have Planner licenses, follow the instructions in [How to use Office 365 PowerShell to manage Microsoft Planner licenses](/office365/troubleshoot/licensing/how-to-use-office-365-powershell-to-manage-microsoft-planner-licenses). When running the scripts in Office 365 PowerShell, the DisabledPlans value for Microsoft Planner is PROJECTWORKMANAGEMENT.
+
+To turn off just the Planner Loop component, see [How to turn off the Planner component for your organization](disable-planner-component.md).
+
 > [!NOTE]
 > Removing a user's Planner license only prevents them from navigating to Planner using the Planner tile. Users in your organization without licenses to Planner can still create and modify plans at the direct Planner URL: tasks.</span>office.</span>com. You can remove users' ability to create plans at tasks.office.com (see [How do I manage who can create a plan?](#how-do-i-manage-who-can-create-a-plan)), but you can't remove their ability to see and modify existing plans at tasks.</span>office.</span>com at this time.
 
@@ -79,6 +83,15 @@ In Planner, users can choose to receive emails when tasks are assigned to them o
 ## How do I turn off Outlook calendar sync in Planner for my organization?
 
 Outlook calendar sync in Microsoft Planner allows users to view their Planner schedule in Outlook. This feature is turned on automatically in Planner. If you want to turn this off for your organization, follow the steps in [Turn off Outlook calendar sync in Planner for your organization](turn-off-outlook-calendar-sync.md).
+
+## How do I turn off the Planner Loop component for my organization?
+
+The Planner component will allow users to view and edit Planner plans as a Loop component in the Loop app and in Microsoft apps that support Loop, for example, in Outlook and Teams. To turn off the component for your organization, follow the steps in [How to turn off the Planner component for your organization](disable-planner-component.md).
+
+See [Use the Planner component in Loop](https://support.microsoft.com/office/use-the-planner-component-in-loop-545e967a-7c69-4e9a-9458-dfabdcf1d752) for details on how the component can be used.
+
+> [!NOTE]
+> The Planner component is a new feature that has not shipped yet.
 
 ## How do I install or activate Planner for my organization?
 
