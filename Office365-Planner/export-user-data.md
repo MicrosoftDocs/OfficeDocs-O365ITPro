@@ -2,7 +2,7 @@
 title: "Export user data from Microsoft Planner"
 f1.keywords:
 - NOCSH
-ms.author: efrene
+ms.author: ryany
 author: efrene
 manager: pamgreen
 ms.date: 8/14/2019
