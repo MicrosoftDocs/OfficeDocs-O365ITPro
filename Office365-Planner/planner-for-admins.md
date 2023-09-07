@@ -2,7 +2,7 @@
 title: "Microsoft Planner for admins"
 f1.keywords:
 - CSH
-ms.author: efrene
+ms.author: ryany
 author: efrene
 manager: pamgreen
 ms.date: 08/14/2019

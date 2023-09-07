@@ -2,7 +2,7 @@
 title: "Enable your organization’s Planner tenant to be moved"
 f1.keywords:
 - NOCSH
-ms.author: efrene
+ms.author: ryany
 author: efrene
 manager: pamgreen
 ms.date: 08/25/2020
