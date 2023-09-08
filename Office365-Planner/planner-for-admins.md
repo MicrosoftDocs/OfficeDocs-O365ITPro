@@ -86,7 +86,7 @@ Outlook calendar sync in Microsoft Planner allows users to view their Planner sc
 
 ## How do I turn off the Planner Loop component for my organization?
 
-The Planner component will allow users to view and edit Planner plans as a Loop component in the Loop app and in Microsoft apps that support Loop, for example, in Outlook and Teams. To turn off the component for your organization, follow the steps in [How to turn off the Planner component for your organization](disable-planner-component.md).
+The Planner component allows users to view and edit Planner plans as a Loop component in the Loop app and in Microsoft apps that support Loop, for example, in Outlook and Teams. To turn off the component for your organization, follow the steps in [How to turn off the Planner component for your organization](disable-planner-component.md).
 
 See [Use the Planner component in Loop](https://support.microsoft.com/office/use-the-planner-component-in-loop-545e967a-7c69-4e9a-9458-dfabdcf1d752) for details on how the component can be used.
 
