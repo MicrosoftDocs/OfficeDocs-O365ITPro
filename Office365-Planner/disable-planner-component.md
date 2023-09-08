@@ -14,7 +14,7 @@ ms.localization_priority: medium
 # How to turn off the Planner component for your organization
 
 ## What is the Planner component?
-The Planner component allows users to view and edit Planner plans as a Loop component in the same way that they can view and edit plans in the Planner web app. It is available in the Loop app and in Microsoft apps that support Loop, for example, in Outlook and Teams.
+The Planner component allows users to view and edit Planner plans as a Loop component in the same way that they can view and edit plans in the Planner web app. It's available in the Loop app and in Microsoft apps that support Loop, for example, in Outlook and Teams.
 
 In the Loop app, for example, users can paste the URL for a plan into a Loop page. Once pasted, it renders Planner UX inline in that page so that they can view and edit that plan.
 
