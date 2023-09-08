@@ -21,7 +21,7 @@ In the Loop app, for example, users can paste the URL for a plan into a Loop pag
 See [Use the Planner component in Loop](https://support.microsoft.com/office/use-the-planner-component-in-loop-545e967a-7c69-4e9a-9458-dfabdcf1d752) for details on how the component can be used.
 
 > [!NOTE]
-> The Planner component is a new feature that has not shipped yet.
+> The Planner component is a new feature that is now available in the Loop app. It may not yet be available in all Microsoft apps that support Loop.
 
 ## How do I turn off the Planner component for my organization?
 The Planner component can be disabled via the **View and edit Planner plans with the Planner Loop component** cloud policy setting. This policy setting controls whether users can view and edit Planner plans as a Loop component in the Loop app and in Microsoft apps that support Loop. See [Overview of Cloud Policy service for Microsoft 365](/deployoffice/admincenter/overview-cloud-policy) for steps to configure cloud policies.

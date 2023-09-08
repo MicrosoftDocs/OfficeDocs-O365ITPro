@@ -91,7 +91,7 @@ The Planner component allows users to view and edit Planner plans as a Loop comp
 See [Use the Planner component in Loop](https://support.microsoft.com/office/use-the-planner-component-in-loop-545e967a-7c69-4e9a-9458-dfabdcf1d752) for details on how the component can be used.
 
 > [!NOTE]
-> The Planner component is a new feature that has not shipped yet.
+> The Planner component is a new feature that is now available in the Loop app. It may not yet be available in all Microsoft apps that support Loop.
 
 ## How do I install or activate Planner for my organization?
 
