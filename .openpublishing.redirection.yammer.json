@@ -37,7 +37,7 @@
         },
         {
             "source_path": "yammer/manage-yammer-users/manage-users-across-their-lifecycle.md",
-            "redirect_url": "/viva/engage/overview",
+            "redirect_url": "/viva/engage/manage-viva-engage-users/manage-users-across-their-lifecycle",
             "redirect_document_id": "FALSE"
         },
         {
@@ -398,11 +398,6 @@
         {
             "source_path": "yammer/troubleshoot-problems/help-users-log-in-to-yammer-on-android-devices.md",
             "redirect_url": "/viva/engage/troubleshoot-problems/help-users-log-in-to-viva-engage-on-android-devices",
-            "redirect_document_id": "FALSE"
-        },
-        {
-            "source_path":"yammer/manage-yammer-users/manage-users-across-their-lifecycle.md",
-            "redirect_url": "/viva/engage/manage-viva-engage-users/manage-users-across-their-lifecycle",
             "redirect_document_id": "FALSE"
         }
     ]
