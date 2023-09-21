@@ -94,8 +94,8 @@ When **Enforce Office 365 identity** is selected in Yammer (including when in Na
 
 ![Diagram that shows new process for creating a Yammer user, where the new user is created automically as "pending" in Yammer](../media/yam_newuserprocess.jpg)
 
-> [!Note]
-> If you have Viva Core licensed to your users, they will instead show up as 'active' instead of 'pending'.
+> [!NOTE]
+> If you have Viva Core licensed to your users, they will appear as **Active** instead of **Pending**.
 
 The process follows these steps:
   
