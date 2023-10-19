@@ -44,7 +44,7 @@ Follow the steps in [Prerequisites for making Planner changes in Windows PowerSh
    ```
 
    > [!NOTE]
-   > You'll need to sign in using your Azure Active Directory credentials.
+   > You'll need to sign in using your Microsoft Entra credentials.
 
 2. To verify your settings, run:
 

@@ -30,10 +30,10 @@ The Kaizala management portal is a web-based entry point that provides managemen
   
 ## Access the Kaizala management portal
 
-To get started, sign in with your Azure Active Directory account through the [Kaizala management portal](https://go.microsoft.com/fwlink/p/?linkid=852455). After you log in, add your phone number to Kaizala. Once its authenticated, you can manage Kaizala features in the management portal. 
+To get started, sign in with your Microsoft Entra account through the [Kaizala management portal](https://go.microsoft.com/fwlink/p/?linkid=852455). After you log in, add your phone number to Kaizala. Once its authenticated, you can manage Kaizala features in the management portal. 
   
 > [!IMPORTANT]
-> You can have more than one phone number for a single Azure AD admin account. This lets you manage groups and users according to your own preferences. You can switch between phone numbers under **Settings**.
+> You can have more than one phone number for a single Microsoft Entra admin account. This lets you manage groups and users according to your own preferences. You can switch between phone numbers under **Settings**.
   
 ## Users of the Kaizala management portal
 
@@ -55,5 +55,3 @@ The following users can use the Kaizala management portal:
 |[Kaizala Actions](actions.md)  |Create new Kaizala Actions.  |
 |[Kaizala Connectors](connectors.md) |Integrate other applications with Kaizala by using REST APIs. |
    
-
-

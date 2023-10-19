@@ -18,7 +18,7 @@ description: "This article shares information on how admins can disable the crea
 # Disable the creation of Roster containers in your organization's Planner tenant
 
 ## Roster Container Overview
-Roster containers allow for collaboration between users without the creation of an AAD group.
+Roster containers allow for collaboration between users without the creation of a Microsoft Entra group.
 A Roster container is a simple list of members stored in Planner and can be created by any user including guest users.
 
 All members of a Roster container have the same permissions to:
@@ -48,7 +48,7 @@ Follow the steps in [Prerequisites for making Planner changes in Windows PowerSh
    ```
 
    > [!NOTE]
-   > You'll need to sign in using your Azure Active Directory credentials and use a local PowerShell window (not Azure Cloud Shell).
+   > You'll need to sign in using your Microsoft Entra credentials and use a local PowerShell window (not Azure Cloud Shell).
 
 2. To verify your settings:
 
