@@ -31,7 +31,7 @@ Follow the steps in [Prerequisites for making Planner changes in Windows PowerSh
  > [!Note]
  > If you use Microsoft Planner in a different M365 endpoint, then additionally include `-HostName <hostname Of Microsoft Planner website>` on the following commands. The default is `tasks.office.com`.
 
-1. Run the following command to add a user to a Roster’s membership. The value returned is the added user’s AAD ID.
+1. Run the following command to add a user to a Roster’s membership. The value returned is the added user’s Microsoft Entra user ID.
 
      ```PowerShell
      Add-PlannerRosterMember -RosterId <Roster Id> -UserAadIdOrPrincipalName "<User’s AAD ID or UPN>"
