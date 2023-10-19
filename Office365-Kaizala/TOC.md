@@ -58,7 +58,7 @@
 ### [Add users to the directory](add-users.md)
 ### [Delete users from the directory](delete-users.md)
 ### [View user details](view-user-details.md)
-### [Azure AD sync with the directory](aad-sync-with-tul.md)
+### [Azure AD Sync with the directory](aad-sync-with-tul.md)
 
 ## [Actions](actions.md)
 

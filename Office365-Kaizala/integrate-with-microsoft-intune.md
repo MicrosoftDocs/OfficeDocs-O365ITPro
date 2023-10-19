@@ -38,7 +38,7 @@ Check out more info about [Intune](/mem/intune/fundamentals/what-is-intune).
   
 ## Turn on Intune for Kaizala
 
-To turn on Intune for Kaizala, you'll have to perform steps in the Azure active directory center and in the Kaizala admin center. You'll need to be a global admin to perform the following tasks:
+To turn on Intune for Kaizala, you'll have to perform steps in the Microsoft Entra admin center and in the Kaizala admin center. You'll need to be a global admin to perform the following tasks:
   
 1. Log in to the Azure Management Portal.
     
@@ -52,6 +52,6 @@ To turn on Intune for Kaizala, you'll have to perform steps in the Azure active 
     
 Now go to the Kaizala app.
   
-1. Go to **Profile** \> **Linked accounts** \> **Work Account**, and sign in with your Azure Active Directory account(Azure AD).
+1. Go to **Profile** \> **Linked accounts** \> **Work Account**, and sign in with your Microsoft Entra account.
     
-2. Once you're logged in the app with your Azure AD, you should see the policies getting applied on Kaizala.
+2. Once you're logged in the app with your Microsoft Entra ID, you should see the policies getting applied on Kaizala.

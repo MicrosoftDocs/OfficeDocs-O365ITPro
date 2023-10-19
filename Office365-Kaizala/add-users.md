@@ -32,7 +32,7 @@ Organization admins can create or add new users in [organization directory netwo
 Users can be added to the Employee network in any of the following ways:
 
 - Users added by an organization admin as Employees, either in bulk or individually.
-- Users synced automatically from Azure Active Directory (Azure AD).
+- Users synced automatically from Microsoft Entra ID.
 - Users who have signed in to their Kaizala mobile app using an Office 365 account.
 
 Similarly, users can be added to the Others network:
