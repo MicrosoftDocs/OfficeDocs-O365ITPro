@@ -31,7 +31,7 @@ Follow the steps in [Prerequisites for making Planner changes in Windows PowerSh
 
    |Parameter|Description|
    |:-------------------------|:---|
-   |UserAadIdOrPrincipalName|Use either the Azure Active Directory ID or the UPN of the user for which you want to export content.|
+   |UserAadIdOrPrincipalName|Use either the Microsoft Entra ID or the UPN of the user for which you want to export content.|
    |BlockDeleteTasksNotCreatedBySelf|Whether or not to block the user from deleting tasks not created by themselves.|
    |HostName|You only need to use this parameter if you access Planner though a host name other than `task.</span>office.</span>com`. For example, if you access Planner through `tasks.</span>office365.</span>us`, include `-HostName tasks.</span>office365</span>.us` in your command.|
    |||
@@ -54,7 +54,7 @@ Follow the steps in [Prerequisites for making Planner changes in Windows PowerSh
 
    |Parameter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|
    |:---|:---|
-   |UserAadIdOrPrincipalName|Use either the Azure Active Directory ID or the UPN of the user for which you want to export content.|
+   |UserAadIdOrPrincipalName|Use either the Microsoft Entra ID or the UPN of the user for which you want to export content.|
    |BlockDeleteTasksNotCreatedBySelf&nbsp;|Whether or not to block the user from deleting tasks not created by themselves.|
    |HostName|You only need to use this parameter if you access Planner though a host name other than `task.</span>office.</span>com`. For example, if you access Planner through `tasks.</span>office365.</span>us`, include `-HostName tasks.</span>office365</span>.us` in your command.|
    |||
@@ -77,7 +77,7 @@ Follow the steps in [Prerequisites for making Planner changes in Windows PowerSh
 
    |Parameter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|
    |------------------------|---|
-   |UserAadIdOrPrincipalName|Use either the Azure Active Directory ID or the UPN of the user for which you want to export content.|
+   |UserAadIdOrPrincipalName|Use either the Microsoft Entra ID or the UPN of the user for which you want to export content.|
    |HostName|You only need to use this parameter if you access Planner though a host name other than `task.</span>office.</span>com`. For example, if you access Planner through `tasks.</span>office365.</span>us`, include `-HostName tasks.</span>office365</span>.us` in your command.|
    |||
 

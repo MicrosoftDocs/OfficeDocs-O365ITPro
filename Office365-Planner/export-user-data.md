@@ -36,7 +36,7 @@ Follow the steps in [Prerequisites for making Planner changes in Windows PowerSh
 
     |Parameter|Description|
     |---|---|
-    |UserAadIdOrPrincipalName|Use either the Azure Active Directory ID or the UPN of the user for which you want to export content.|
+    |UserAadIdOrPrincipalName|Use either the Microsoft Entra ID or the UPN of the user for which you want to export content.|
     |ExportDirectory|Location to store your output files. The folder should already exist.|
     |HostName|You only need to use this parameter if you access Planner though a host name other than *task.</span>office.</span>com*. For example, if you access Planner through *tasks.</span>office365.</span>us*, include *-HostName tasks.</span>office365</span>.us* in your command.|
     
@@ -70,7 +70,7 @@ The user file name will be prefixed with "User" and the Microsoft Planner ID of 
 |Property|Description|
 |---|---|
 |User.Id|Microsoft Planner ID of the user.|
-|User.ExternalId|Azure Active Directory ID of the user.|
+|User.ExternalId|Microsoft Entra ID of the user.|
 |User.DisplayName|Display name of the user.|
 |User.InternalDisplayName|Microsoft Planner display name of the user.|
 |User.UserPrincipalName|User Principal Name (UPN) of the user.|
@@ -106,13 +106,13 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 |Plan.Title|Title of the plan. <br/>*Note*: Plans with the title `RosterPlaceholderPlan_{89F9907E-D21D-4C90-A4B8-7A76CF3E6F70}` indicate that the current file represents a Roster that has been created but does not yet have a plan created inside it.|
 |Plan.Owner|Owner of the plan (a Group or User entity).|
 |Plan.Owner.Id|Microsoft Planner ID of the entity (Group or User). |
-|Plan.Owner.ExternalId|Azure Active Directory ID of the entity (Group or User).|
+|Plan.Owner.ExternalId|Microsoft Entra ID of the entity (Group or User).|
 |Plan.Owner.DisplayName|Display name of the owner (Group or User).|
 |Plan.Owner.UserPrincipalName|User Principal Name (UPN) if the owner is a user.  |
 |Plan.Owner.PrincipalType|The entity type (Group or User).|
 |Plan.Container|Container for the plan.|
 |Plan.Container.ContainerType|The type of container (Group, Roster). |
-|Plan.Container.ExternalId|Azure Active Directory ID of the group.|
+|Plan.Container.ExternalId|Microsoft Entra ID of the group.|
 |Plan.Container.Description|Display name of the group. |
 |Plan.CreatedDate|Date and time the plan was created.|
 |Plan.CreatedBy|User that created the plan. See User properties for more detail.|
@@ -244,7 +244,7 @@ Each of the above will have the following properties:
 |Property|Description|
 |---|---|
 |Id|Microsoft Planner ID of the user.|
-|ExternalId|Azure Active Directory ID of the user.|
+|ExternalId|Microsoft Entra ID of the user.|
 |DisplayName|Display name of the user.|
 |UserPrincipalName|User Principal Name (UPN) of the user.  |
 |PrincipalType|The entity type (User or Group).|
