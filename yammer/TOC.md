@@ -48,16 +48,12 @@
 ### [Audit Office 365 users](manage-yammer-users/audit-users-connected-to-office-365.md)
 ### [Manage Yammer admins](manage-yammer-users/manage-yammer-admins.md)
 ### [Office 365 sign-in](manage-yammer-users/office-365-sign-in.md)
-<a name='aad-credentials-will-soon-be-required'></a>
-
 ### [Microsoft Entra credentials will soon be required](manage-yammer-users/aad-account-required.md)
 ### [Auto-acceleration policy for signing in](manage-yammer-users/auto-acceleration-policy-for-signing-in.md)
 ### [Turn off user access](manage-yammer-users/turn-off-user-access.md)
 ### [Yammer update on Internet Explorer 11 changes coming in August 2021](manage-yammer-users/internet-explorer-11-retirement.md)
 ## Work with guests and external users
 ### [Collaborate with guests in a Yammer community](work-with-external-users/collaborate-guests-external-yammer-community.md)
-<a name='work-with-azure-active-directory-b2b-guests-in-yammer-communities'></a>
-
 ### [Work with Microsoft Entra B2B guests in Yammer communities](get-started-with-yammer/azure-ad-b2b-guests-yammer.md)
 ### [Work with external groups in non-native mode networks](work-with-external-users/create-and-manage-external-groups.md)
 ### [Add external messaging participants](work-with-external-users/add-external-participants.md)
