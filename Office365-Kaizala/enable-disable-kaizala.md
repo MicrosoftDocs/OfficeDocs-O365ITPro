@@ -30,7 +30,7 @@ Microsoft Kaizala Pro is currently [available](regional-availability.md) interna
 The Office 365 administrator can control whether members of an organization can use Office 365 to log in to the Kaizala app and the Kaizala management portal. 
 
 Enabling Kaizala Pro allows users to:
-- Log in to the Kaizala app to search for other employees from Azure Active Directory and access groups with enhanced security.
+- Log in to the Kaizala app to search for other employees from Microsoft Entra ID and access groups with enhanced security.
 - Log in to the Kaizala management portal to see reports, set up actions, and create connectors.
  
 ## To enable or disable Kaizala Pro
