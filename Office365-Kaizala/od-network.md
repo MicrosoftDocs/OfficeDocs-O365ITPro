@@ -35,7 +35,7 @@ On the Kaizala management portal, from the left navigation pane, choose **Direct
 On the **Employee** tab, you can find a list of all users classified as Employees in your organization. These include:
 
 - Users added by an organization admin as Employees, either in bulk or individually.
-- Users synced automatically from Azure Active Directory (Azure AD).
+- Users synced automatically from Microsoft Entra ID.
 - Users who have signed in to their Kaizala mobile app using an Office 365 account.
 
 ### View Others users
@@ -53,4 +53,4 @@ Organization admins can move users between different networks. To move users bet
 2. Select **Move to Employees** if you have selected users in Others network. Or, select **Move to Others** if you have selected users in Employees network.
 
 > [!NOTE]
-> Employees who either have Azure AD users or have signed in to their Office 365 account cannot be moved to Others network.
+> Employees who either have Microsoft Entra users or have signed in to their Office 365 account cannot be moved to Others network.

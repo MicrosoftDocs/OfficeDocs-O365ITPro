@@ -39,4 +39,4 @@ On a user's details page, you can find:
 
 You can also find common groups between you and the other user (for whom you are viewing details). You can remove the user from groups of which you are an admin. At the same time, you can promote or remove a user as admin.
 
-If you are a tenant admin, you can also find a **Delete user** button, if the concerned user is not linked to Azure AD.
+If you are a tenant admin, you can also find a **Delete user** button, if the concerned user is not linked to Microsoft Entra ID.

@@ -46,7 +46,7 @@ To turn off just the Planner Loop component, see [How to turn off the Planner co
 
 Every time a person in your organization creates a plan in Planner, the plan's list of members automatically form a [Microsoft 365 group](https://support.office.com/en-us/article/learn-about-microsoft-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2). So to control who creates a plan, you need to control who can create Microsoft 365 Groups.
 
-Admins can control who can create a Group by using Azure Active Directory (AD) PowerShell. Follow the instructions in [Control who can create Microsoft 365 Groups](https://support.office.com/en-us/article/control-who-can-create-office-365-groups-4c46c8cb-17d0-44b5-9776-005fced8e618) to:
+Admins can control who can create a Group by using Azure AD PowerShell. Follow the instructions in [Control who can create Microsoft 365 Groups](https://support.office.com/en-us/article/control-who-can-create-office-365-groups-4c46c8cb-17d0-44b5-9776-005fced8e618) to:
 
 1. Disable Group creation for all users in your organization.
 2. Allow specific users to create groups (for example, all Planner users) while group creation is disabled.
