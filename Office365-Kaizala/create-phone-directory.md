@@ -29,7 +29,7 @@ With Kaizala you can easily create, manage, and organize your company’s entire
 
 ## Step 1 – Export contacts from your existing systems
 
-As a first step, export contact information from your existing systems such as RAMCO, SAP, Salesforce CRM, or others. If you are an existing Office 365 user and use Azure Active Directory (Azure AD) to manage your employee information, use the [Azure AD sync](aad-sync-with-tul.md) capability provided by Kaizala.
+As a first step, export contact information from your existing systems such as RAMCO, SAP, Salesforce CRM, or others. If you are an existing Office 365 user and use Microsoft Entra ID to manage your employee information, use the [Azure AD Sync](aad-sync-with-tul.md) capability provided by Kaizala.
 
 ## Step 2 – Import contacts to Kaizala to prepare the phone directory
 
@@ -54,5 +54,3 @@ As a first step, export contact information from your existing systems such as R
 7. Select **Refresh** to get the latest status. If the status is **Completed**, you can find the updated user list on the **Users** page.
 
 *Next>* [Invite people to install Kaizala](invite-people.md)
-
-

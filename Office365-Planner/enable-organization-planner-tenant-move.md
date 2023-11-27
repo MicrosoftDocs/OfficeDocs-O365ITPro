@@ -45,7 +45,7 @@ Follow the steps in [Prerequisites for making Planner changes in Windows PowerSh
    ```
 
    > [!NOTE]
-   > You'll need to sign in using your Azure Active Directory credentials and use a local PowerShell window (not Azure Cloud Shell).
+   > You'll need to sign in using your Microsoft Entra credentials and use a local PowerShell window (not Azure Cloud Shell).
 
 2. To verify your settings, run:
 
