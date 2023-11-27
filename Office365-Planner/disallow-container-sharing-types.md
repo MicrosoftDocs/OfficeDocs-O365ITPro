@@ -44,7 +44,7 @@ Follow the steps in [Prerequisites for making Planner changes in Windows PowerSh
 Disallowing a Host Container, Shared Container type pair will not remove any existing relationship or disallow the creation of the relationship but it will no longer authorize users through an existing/new share of that type.
 
 > [!NOTE]
-> You'll need to sign in using your Azure Active Directory credentials and use a local PowerShell window (not Azure Cloud Shell).
+> You'll need to sign in using your Microsoft Entra credentials and use a local PowerShell window (not Azure Cloud Shell).
 
 Open PowerShell and run the following command to disallow container types for usage in container sharing (all types are allowed by default):
 
