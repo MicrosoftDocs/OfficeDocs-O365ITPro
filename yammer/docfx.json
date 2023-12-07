@@ -42,7 +42,7 @@
       "extendBreadcrumb": true,
       "uhfHeaderId": "MSDocsHeader-M365-IT",
       "searchScope": ["Yammer"],
-      "feedback_system": "GitHub",
+      "feedback_system": "Standard",
       "feedback_product_url": "https://feedbackportal.microsoft.com/feedback/forum/bd6e5ec2-3f1c-ec11-b6e7-0022481f8472",
       "hideEdit": true,
       "titleSuffix": "Yammer",
