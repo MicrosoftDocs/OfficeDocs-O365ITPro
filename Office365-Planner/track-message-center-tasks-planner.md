@@ -26,7 +26,7 @@ A lot of actionable information about changes to Microsoft 365 services arrives 
 
 ## How you can use Planner to track your message center tasks
 
-Message center posts will sync to one plan in Planner, and into one bucket of that plan. You can customize this plan however you like; before you turn on Planner syncing, you might want to figure out how you'll be using Planner so you will know which messages you want to sync, and how. If you’re unfamiliar with Planner, watch [Organize your team’s tasks in Planner](https://support.office.com/article/video-organize-your-team-s-tasks-in-microsoft-planner-c931a8a8-0cbb-4410-b66e-ae13233135fb), see the [Planner Quick Start](https://support.office.com/article/sign-in-to-microsoft-planner-fe43c972-5a95-4071-86d4-423a64a3b21e), or browse [Planner help](https://support.office.com/planner).
+Message center posts will sync to one plan in Planner, and into one bucket of that plan. You can customize this plan however you like; before you turn on Planner syncing, you might want to figure out how you'll be using Planner so you'll know which messages you want to sync, and how. If you’re unfamiliar with Planner, watch [Organize your team’s tasks in Planner](https://support.office.com/article/video-organize-your-team-s-tasks-in-microsoft-planner-c931a8a8-0cbb-4410-b66e-ae13233135fb), see the [Planner Quick Start](https://support.office.com/article/sign-in-to-microsoft-planner-fe43c972-5a95-4071-86d4-423a64a3b21e), or browse [Planner help](https://support.office.com/planner).
 
 Based on what we've heard from customers, here are some suggestions about how to organize your plan:
 
@@ -88,7 +88,7 @@ As you build your plan, you can always see a visual report of status using Chart
     - Decide which categories, products, and services you want to sync by selecting or clearing check boxes in the **Include messages in these categories** and **Include messages about these products or services** lists.
     - Select **Next**.
 
-6. Under **Choose which current messages to import**, you can decide whether you want to import messages from your current message center. You can select **Don't import current messages** or or an option to import from the past 7, 14, 21, or 28 days.
+6. Under **Choose which current messages to import**, you can decide whether you want to import messages from your current message center. You can select **Don't import current messages** or an option to import from the past 7, 14, 21, or 28 days.
 
     >[!IMPORTANT]
     >After you start syncing to Planner, you can’t import messages again unless you turn off Planner syncing, then turn it on again, and go through setup another time.
