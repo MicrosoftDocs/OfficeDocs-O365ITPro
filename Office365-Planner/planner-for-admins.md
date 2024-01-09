@@ -52,7 +52,7 @@ Admins can control who can create a Group by using Azure AD PowerShell. Follow t
 2. Allow specific users to create groups (for example, all Planner users) while group creation is disabled.
 
 > [!IMPORTANT]
-> 
+>
 > - Disabling group creation for your organization will affect users of other Microsoft services that need group creation, such as Exchange Online. Make sure to account for all people in your organization that need the ability to create groups when you configure this setting.
 > - Controlling who can create Microsoft 365 Groups only prevents users from creating new plans. They will still be able to see and modify existing plans at tasks.</span>office.</span>com.
 
@@ -113,3 +113,13 @@ You can see a list of all groups in the Microsoft 365 admin center, in the Group
 ## How can I apply CA policies to the Planner iOS and Android apps?
 
 To apply CA policies to the Planner iOS and Android apps, please make sure that CA policies are enabled for Exchange or SharePoint within Microsoft Intune in the Azure portal. Enabling CA policy for Planner alone (without policies enabled for Exchange or SharePoint) does not apply the policies for the Planner iOS and Android apps.
+
+## Where is data stored in the Planner app in Teams?
+
+The Planner app in Teams gives users a way to manage their tasks and plans in one place. The storage location of Planner data depends on the service that used to create it. 
+
+- Tasks in Todo and Outlook are stored in Exchange.
+- Plans and their included tasks are stored in Azure.
+- Projects and their included tasks are stored in Dataverse.
+
+Note: For details about the differing levels of support for advanced compliance capabilities such as eDiscovery and Auditing, refer to the documentation for Microsoft Purview.
