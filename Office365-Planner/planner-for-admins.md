@@ -30,6 +30,8 @@ In this article:
 - [How do I install or activate Planner for my organization?](#how-do-i-install-or-activate-planner-for-my-organization)
 - [Can I see who is already using Planner, or see a list of all the Planner sites?](#can-i-see-who-is-already-using-planner-or-see-a-list-of-all-the-planner-sites)
 - [How can I apply CA policies to the Planner iOS and Android apps?](#how-can-i-apply-ca-policies-to-the-planner-ios-and-android-apps)
+- [Where is data stored in the Planner app in Teams?](#where-is-data-stored-in-the-planner-app-in-teams)
+
 
 ## How do I turn off Planner for my organization?
 
