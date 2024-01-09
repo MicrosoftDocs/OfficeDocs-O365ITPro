@@ -116,10 +116,10 @@ To apply CA policies to the Planner iOS and Android apps, please make sure that 
 
 ## Where is data stored in the Planner app in Teams?
 
-The Planner app in Teams gives users a way to manage their tasks and plans in one place. The storage location of Planner data depends on the service that used to create it.
+The Planner app in Teams gives users a way to manage their tasks and plans in one place. The storage location of Planner data depends on the service that used to create it. 
 
 - Tasks in Todo and Outlook are stored in Exchange.
 - Plans and their included tasks are stored in Azure.
 - Projects and their included tasks are stored in Dataverse.
 
-Data for Tasks in Todo and Outlook can be managed using the Graph. Data in Dataverse can be managed using APIs for that service. For details about the differing levels of support for advanced compliance capabilities such as eDiscovery and Auditing, refer to the documentation for Microsoft Purview.
+Note: For details about the differing levels of support for advanced compliance capabilities such as eDiscovery and Auditing, refer to the documentation for Microsoft Purview.
