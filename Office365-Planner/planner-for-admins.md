@@ -125,4 +125,5 @@ The Planner app in Teams gives users a way to manage their tasks and plans in on
 - Attachments on  tasks in plans and projects are stored in the SharePoint location of the group.
 - Projects and their included tasks are stored in Dataverse.
 
-Note: For details about the support for advanced compliance capabilities such as eDiscovery and Auditing across these different services, refer to the documentation for Microsoft Purview.
+> [!NOTE]
+> For details about the support for advanced compliance capabilities such as eDiscovery and Auditing across these different services, refer to the documentation for Microsoft Purview.
