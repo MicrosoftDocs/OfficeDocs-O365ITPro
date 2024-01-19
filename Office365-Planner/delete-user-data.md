@@ -17,13 +17,13 @@ description: "In order to ensure that a user is deleted from Microsoft Planner, 
 
 # Delete user data in Microsoft Planner
 
-In order to ensure that a user is deleted from Microsoft Planner, you delete that user in the Microsoft 365 admin center. Once the user is deleted, their telemetry information will be deleted in Microsoft Planner and their user name changed to "Former user". If you want to delete information other than user name and telemetry, you'll need to access the relevant plans and do this manually.
+In order to ensure that a user is deleted from Microsoft Planner, you delete that user in the Microsoft 365 admin center. Once the user is deleted, their telemetry information is deleted in Microsoft Planner and their user name changed to "Former user." If you want to delete information other than user name and telemetry, you'll need to access the relevant plans and do this method manually.
 
 ## To delete a user from Planner
 
 As the Microsoft 365 admin, go to the Microsoft 365 admin center and delete the user following the steps in [Delete a user from your organization](https://support.office.com/article/delete-a-user-from-your-organization-d5155593-3bac-4d8d-9d8b-f4513a81479e).
 
-This will delete the user from Microsoft Entra ID as well. You have 30 days to restore the account before the user's data is permanently deleted.
+This process will delete the user from Microsoft Entra ID as well. You have 30 days to restore the account before the user's data is permanently deleted.
 
 > [!IMPORTANT]
 > If you delete the user from Microsoft Entra first, you will not be able to export the user's plans from Microsoft Planner. Make sure to export the plans from Microsoft Planner first if you intend to also delete the user from your organization.
@@ -35,12 +35,12 @@ Once the user is deleted, their telemetry and user name are deleted, as follows:
 - **All telemetry data is deleted.**    This happens every time a user is deleted from Microsoft Entra ID.
 - **The user's name and User.Id are deleted.**    Microsoft Planner stores the user's name and User.Id against the TaskUserID. When a user is deleted, Microsoft Planner retains the TaskUserID, but deletes the user's name and User.Id. This enables Microsoft Planner to:
 
-  - Rename the user to "Former user". All deleted users will be renamed "Former user".
-  - Keep information on "task created by" , "task assigned to", and "task completed by" under the name "Former user".
+  - Rename the user to "Former user." All deleted users will be renamed "Former user."
+  - Keep information on "task created by", "task assigned to", and "task completed by" under the name "Former user."
 
 ## To delete specific user data
 
-Since Microsoft Planner is a collaborative tool in which much of the work is shared, deleting a user does not delete any plans, tasks, or content that the user was involved with or referenced by. If you want to remove or redact data included in plans and tasks, you can manually edit the plan.
+Since Microsoft Planner is a collaborative tool in which much of the work is shared, deleting a user doesn't delete any plans, tasks, or content that the user was involved with or referenced by. If you want to remove or redact data included in plans and tasks, you can manually edit the plan.
 
 To edit plans, do one of the following:
 

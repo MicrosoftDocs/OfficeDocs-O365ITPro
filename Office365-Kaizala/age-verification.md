@@ -24,8 +24,8 @@ description: Learn about the Kaizala app age restriction and verification.
 
 [!INCLUDE [retirement-note](includes/retirement-note.md)]
 
-You must be at least 16 years old to use the Kaizala app in your country/region, without parental consent. You are required to sign in with your birth-date to use this app.
+You must be at least 16 years old to use the Kaizala app in your country/region, without parental consent. You're required to sign in with your birth-date to use this app.
   
-If you're over 16 and have entered an incorrect birthdate, uninstall and reinstall the Kaizala app. Then re-enter your birthdate to continue.
+If you're over 16 and have entered an incorrect birth date, uninstall and reinstall the Kaizala app. Then reenter your birth date to continue.
   
 
