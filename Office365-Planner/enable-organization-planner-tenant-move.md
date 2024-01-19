@@ -13,12 +13,12 @@ ms.service: o365-administration
 ms.localizationpriority: high
 search.appverid:
 - MET150
-description: "If you are a tenant admin who has made a support request for your organization’s Planner tenancy to be moved, first authorize using PowerShell"
+description: "If you're a tenant admin who has made a support request for your organization’s Planner tenancy to be moved, first authorize using PowerShell"
 ---
 
 # Enable your organization’s Planner tenant to be moved
 
-If you are a tenant admin who has made a support request for your organization’s Planner tenancy to be moved into a new region, you must first authorize the move using PowerShell. 
+If you're a tenant admin who has made a support request for your organization’s Planner tenancy to be moved into a new region, you must first authorize the move using PowerShell. 
 
 - [Prerequisites for making Planner changes in Windows PowerShell](#prerequisites-for-making-planner-changes-in-windows-powershell)
 - [Authorize a Planner tenant move using PowerShell](#authorize-a-tenant-move-using-powershell)

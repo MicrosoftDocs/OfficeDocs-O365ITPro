@@ -12,12 +12,12 @@ ms.service: o365-administration
 ms.localizationpriority: high
 search.appverid:
 - MET150
-description: "IThis article describes how a global admin can export data for a specific user from Microsoft Planner.  "
+description: "This article describes how a global admin can export data for a specific user from Microsoft Planner.  "
 ---
 
 # Export user data from Microsoft Planner
 
-This article describes how a global admin can export data for a specific user from Microsoft Planner. The exported data will include data about the user contained in Planner, and also data contained in plans that the user was a part of. The exporting process is done through Windows PowerShell.
+This article describes how a global admin can export data for a specific user from Microsoft Planner. The exported data includes data about the user contained in Planner, and also data contained in plans that the user was a part of. The exporting process is done through Windows PowerShell.
 
 > [!NOTE]
 > A global admin can export Microsoft Planner user telemetry data through the [Data Log Export Tool](https://go.microsoft.com/fwlink/?linkid=872273) on the [Microsoft Service Trust Portal](https://go.microsoft.com/fwlink/?linkid=872274).
@@ -38,7 +38,7 @@ Follow the steps in [Prerequisites for making Planner changes in Windows PowerSh
     |---|---|
     |UserAadIdOrPrincipalName|Use either the Microsoft Entra ID or the UPN of the user for which you want to export content.|
     |ExportDirectory|Location to store your output files. The folder should already exist.|
-    |HostName|You only need to use this parameter if you access Planner though a host name other than *task.</span>office.</span>com*. For example, if you access Planner through *tasks.</span>office365.</span>us*, include *-HostName tasks.</span>office365</span>.us* in your command.|
+    |HostName|You only need to use this parameter if you access Planner through a host name other than *task.</span>office.</span>com*. For example, if you access Planner through *tasks.</span>office365.</span>us*, include *-HostName tasks.</span>office365</span>.us* in your command.|
     
     For example, the following will export Adam Barr's user information from Planner using his UPN, and will download the export files to the location C:\PlannerExportAdamBarr.
 
@@ -46,13 +46,13 @@ Follow the steps in [Prerequisites for making Planner changes in Windows PowerSh
     Export-PlannerUserContent -UserAadIdOrPrincipalName adambarr@contoso.onmicrosoft.com -ExportDirectory C:\PlannerExportAdamBarr
    ```
 
-2. You'll be prompted to authenticate. Log in as yourself (the global admin), not the user you want to export.
+2. You'll be prompted to authenticate. Sign-in as yourself (the global admin), not the user you want to export.
 
 3. After the PowerShell cmdlet runs successfully, go to your export location to view your user's exported data files.
 
 ## What gets exported and how to read it
 
-After running the PowerShell cmdlet to export your user's data from Planner, you will receive two types of files in your download location folder:
+After running the PowerShell cmdlet to export your user's data from Planner, you'll receive two types of files in your download location folder:
 
 - A single user file in json format with information about the user.
 - One json file for each plan in which the user:
@@ -61,7 +61,7 @@ After running the PowerShell cmdlet to export your user's data from Planner, you
 
 ## How to read your exported files
 
-You can use the information in this section to help you understand the properties you will see in both the user and plan json files you received.
+You can use the information in this section to help you understand the properties you'll see in both the user and plan json files you received.
 
 ## User file
 
@@ -74,7 +74,7 @@ The user file name will be prefixed with "User" and the Microsoft Planner ID of 
 |User.DisplayName|Display name of the user.|
 |User.InternalDisplayName|Microsoft Planner display name of the user.|
 |User.UserPrincipalName|User Principal Name (UPN) of the user.|
-|User.PrincipalType|Value is always "User".|
+|User.PrincipalType|Value is always "User."|
 |User.UserDetailsId|Unique identifier of the details object for the user.|
 |User.ICalendarPublishEnabled|If True, ICalendar sharing is enabled for the plan. Go to [See your Planner calendar in Outlook](https://support.office.com/article/see-your-planner-calendar-in-outlook-5dcccce5-2750-49b5-991b-1837379d96c7) for more information.|
 |User.OptedInNotifications|Notifications for which the user opted in.|
@@ -103,7 +103,7 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 |Property |Description |
 |---|---|
 |Plan.Id|Microsoft Planner ID of the plan. |
-|Plan.Title|Title of the plan. <br/>*Note*: Plans with the title `RosterPlaceholderPlan_{89F9907E-D21D-4C90-A4B8-7A76CF3E6F70}` indicate that the current file represents a Roster that has been created but does not yet have a plan created inside it.|
+|Plan.Title|Title of the plan. <br/>*Note*: Plans with the title `RosterPlaceholderPlan_{89F9907E-D21D-4C90-A4B8-7A76CF3E6F70}` indicate that the current file represents a Roster that has been created but doesn't yet have a plan created inside it.|
 |Plan.Owner|Owner of the plan (a Group or User entity).|
 |Plan.Owner.Id|Microsoft Planner ID of the entity (Group or User). |
 |Plan.Owner.ExternalId|Microsoft Entra ID of the entity (Group or User).|
@@ -119,7 +119,7 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 |Plan.ModifiedDate|Date and time the plan was last updated.|
 |Plan.ModifiedBy|Name of the user that last updated the plan. See User properties for more detail.|
 |Plan.PlanDetailsId|Unique identifier of the plan details object. |
-|Plan.ICalendarPublishEnabled|If True, ICalendar sharing is enabled for the plan. See [View your tasks on a calendar](https://support.office.com/article/use-schedule-view-to-see-tasks-on-a-calendar-8647d2c9-9bc7-466a-b5b3-74b3596fade2) for more information.|
+|Plan.ICalendarPublishEnabled|If True, ICalendar sharing is enabled for the plan. See [your tasks on a calendar](https://support.office.com/article/use-schedule-view-to-see-tasks-on-a-calendar-8647d2c9-9bc7-466a-b5b3-74b3596fade2) for more information.|
 |Plan.CreateTaskCommentWhen|Events that will cause a comment to be created for a task in the plan.|
 |Plan.ReferencesToPlan|External systems that link to the plan. For example, embedding a Microsoft Planner plan in Project Online Desktop Client.|
 |Plan.ReferencesToPlan.ExternalId|External System's ID for this plan.|
@@ -162,12 +162,12 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 |Plan.Tasks.Recurrence.PreviousInSeriesTaskId|The **Task ID** of the previous task in this series. `null` for the first task in a series since it has no predecessor. Each subsequent task in the series has a value corresponding to its predecessor.|
 |Plan.Tasks.Recurrence.NextInSeriesTaskId|The **Task ID** of the next task in this series. This value is assigned at the time the next task in the series is created, and is `null` prior to that time.|
 |Plan.Tasks.Recurrence.RecurrenceStartDate|The date and time when this recurrence series began. For the first task in a series (**OccurrenceIndex** = `1`) this value corresponds to **Schedule.Range.StartDate**. For subsequent tasks in the series (**OccurrenceIndex** >= `2`) this value is copied from the previous task and never changes; it preserves the start date of the recurring series.|
-|Plan.Tasks.Recurrence.Schedule|The schedule for recurrence. `null` indicates that recurrence has been cancelled. Note that if **NextInSeriesTaskId** is assigned then this schedule value will be preserved as a snapshot of what the schedule looked like at the time of completion of this task.|
+|Plan.Tasks.Recurrence.Schedule|The schedule for recurrence. `null` indicates that recurrence has been canceled. Note that if **NextInSeriesTaskId** is assigned then this schedule value will be preserved as a snapshot of what the schedule looked like at the time of completion of this task.|
 |Plan.Tasks.Recurrence.Schedule.Pattern|The pattern for recurrence. The pattern, along with the **Schedule.Range**, are used to calculate the **Schedule.NextOccurrenceDate**.|
 |Plan.Tasks.Recurrence.Schedule.Pattern.IsDailyCadence|`True` for daily cadence (in which case **DaysOrDates** is empty). `False` otherwise (that is, for weekly, monthly, or yearly cadence).|
-|Plan.Tasks.Recurrence.Schedule.Pattern.Interval|The interval applied to the cadence kind. Values greater than 1 mean that a period will be skipped. Examples: for a Daily pattern, an Interval of 2 means tasks will recur every two days (or every other day). For a monthly pattern, an Interval of 3 means tasks will recur every three months (aka quarterly).|
+|Plan.Tasks.Recurrence.Schedule.Pattern.Interval|The interval applied to the cadence kind. Values greater than 1 mean that a period will be skipped. Examples: for a Daily pattern, an Interval of 2 means tasks will recur every two days (or every other day). For a monthly pattern, an Interval of 3 means tasks will recur every three months (also known as quarterly).|
 |Plan.Tasks.Recurrence.Schedule.Pattern.DaysOrDates|Each entry in this collection represents the definition of exactly one day or date. Example: `"FixedYearly,August,15"` means on August 15 of the year. `"FloatingMonthly,Second,Monday"` means on the second Monday of the month. `"Weekly,Wednesday","Weekly,Friday"` means weekly on Wednesdays and Fridays.|
-|Plan.Tasks.Recurrence.Schedule.Pattern.FirstDayOfWeek|The first day of the week (typically Sunday); this is only used by weekly patterns, and is `null` for non-weekly patterns.|
+|Plan.Tasks.Recurrence.Schedule.Pattern.FirstDayOfWeek|The first day of the week (typically Sunday); this is only used by weekly patterns, and is `null` for nonweekly patterns.|
 |Plan.Tasks.Recurrence.Schedule.Range|Specifies when recurrence starts and ends.|
 |Plan.Tasks.Recurrence.Schedule.Range.StartDate|The date from which the **Recurrence.Schedule** should begin. This value may be updated by users when making changes to the **Recurrence.Schedule.Pattern**.|
 |Plan.Tasks.Recurrence.Schedule.Range.Kind|Currently the only supported value is `NoEnd`, indicating that the series will not end automatically.|
@@ -223,7 +223,7 @@ Each plan file name will be prefixed with "Plan" and the Microsoft Planner ID of
 
 ### User properties in the Plans.json file
 
-There are a number of objects in Plans.json data that represent a Microsoft Planner user and will have similar properties. These objects include:
+There are many objects in Plans.json data that represent a Microsoft Planner user and will have similar properties. These objects include:
 
 - Plan.CreatedBy
 - Plan.ModifiedBy
@@ -243,7 +243,7 @@ Each of the above will have the following properties:
 
 |Property|Description|
 |---|---|
-|Id|Microsoft Planner ID of the user.|
+|ID|Microsoft Planner ID of the user.|
 |ExternalId|Microsoft Entra ID of the user.|
 |DisplayName|Display name of the user.|
 |UserPrincipalName|User Principal Name (UPN) of the user.  |
