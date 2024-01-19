@@ -25,7 +25,7 @@ description: Learn how to invite users to install and register the Kaizala app i
 
 [!INCLUDE [retirement-note](includes/retirement-note.md)]
 
-Users are invited to install and register on Kaizala by SMS when an admin has added them to a group from the Kaizala management portal. Admins also have the ability to send a reminder SMS message to users who have not registered on Kaizala by choosing the **Remind Unregistered** option in the Kaizala management portal. 
+Users are invited to install and register on Kaizala by SMS when an admin has added them to a group from the Kaizala management portal. Admins also have the ability to send a reminder SMS message to users who haven't registered on Kaizala by choosing the **Remind Unregistered** option in the Kaizala management portal. 
 
 ## Supported countries for SMS delivery
 
@@ -42,15 +42,15 @@ Users are invited to install and register on Kaizala by SMS when an admin has ad
 - Saudi Arabia
 - Uganda
 
-This list will be updated periodically as the feature expands to more regions.
+This list is updated periodically as the feature expands to more regions.
 
 ## Organization limits
 
-Organizations can send up to 10,000 SMS messages. If the limit is exhausted, this feature does not send any more SMS messages when users are added to groups or reminded by admins.
+Organizations can send up to 10,000 SMS messages. If the limit is exhausted, this feature doesn't send any more SMS messages when users are added to groups or reminded by admins.
 
 ## Receiver limits
 
-Recipients can receive up to three SMS messages per phone number. If a user has received three texts, this feature does not send more SMS messages to them when they are added to groups or reminded by admins.
+Recipients can receive up to three SMS messages per phone number. If a user has received three texts, this feature doesn't send more SMS messages to them when they're added to groups or reminded by admins.
 
 ## Improve this feature
 

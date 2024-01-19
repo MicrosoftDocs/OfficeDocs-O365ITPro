@@ -33,7 +33,7 @@ Follow the steps in [Prerequisites for making Planner changes in Windows PowerSh
    |:-------------------------|:---|
    |UserAadIdOrPrincipalName|Use either the Microsoft Entra ID or the UPN of the user for which you want to export content.|
    |BlockDeleteTasksNotCreatedBySelf|Whether or not to block the user from deleting tasks not created by themselves.|
-   |HostName|You only need to use this parameter if you access Planner though a host name other than `task.</span>office.</span>com`. For example, if you access Planner through `tasks.</span>office365.</span>us`, include `-HostName tasks.</span>office365</span>.us` in your command.|
+   |HostName|You only need to use this parameter if you access Planner through a host name other than `task.</span>office.</span>com`. For example, if you access Planner through `tasks.</span>office365.</span>us`, include `-HostName tasks.</span>office365</span>.us` in your command.|
    |||
 
     The following cmdlet will block a user from deleting tasks in Planner that they didn't create.
@@ -56,7 +56,7 @@ Follow the steps in [Prerequisites for making Planner changes in Windows PowerSh
    |:---|:---|
    |UserAadIdOrPrincipalName|Use either the Microsoft Entra ID or the UPN of the user for which you want to export content.|
    |BlockDeleteTasksNotCreatedBySelf&nbsp;|Whether or not to block the user from deleting tasks not created by themselves.|
-   |HostName|You only need to use this parameter if you access Planner though a host name other than `task.</span>office.</span>com`. For example, if you access Planner through `tasks.</span>office365.</span>us`, include `-HostName tasks.</span>office365</span>.us` in your command.|
+   |HostName|You only need to use this parameter if you access Planner through a host name other than `task.</span>office.</span>com`. For example, if you access Planner through `tasks.</span>office365.</span>us`, include `-HostName tasks.</span>office365</span>.us` in your command.|
    |||
 
     For example, the following cmdlet will block a user from deleting tasks in Planner that they didn't create.
@@ -78,7 +78,7 @@ Follow the steps in [Prerequisites for making Planner changes in Windows PowerSh
    |Parameter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Description|
    |------------------------|---|
    |UserAadIdOrPrincipalName|Use either the Microsoft Entra ID or the UPN of the user for which you want to export content.|
-   |HostName|You only need to use this parameter if you access Planner though a host name other than `task.</span>office.</span>com`. For example, if you access Planner through `tasks.</span>office365.</span>us`, include `-HostName tasks.</span>office365</span>.us` in your command.|
+   |HostName|You only need to use this parameter if you access Planner through a host name other than `task.</span>office.</span>com`. For example, if you access Planner through `tasks.</span>office365.</span>us`, include `-HostName tasks.</span>office365</span>.us` in your command.|
    |||
 
    For example, the following cmdlet will get a user's current policy
