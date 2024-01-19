@@ -17,8 +17,6 @@ description: "This article describes how to track your Microsoft 365 message cen
 
 # Track your message center tasks in Planner
 
-> [!VIDEO https://www.microsoft.com/videoplayer/embed/RE4C7Ne]
-
 A lot of actionable information about changes to Microsoft 365 services arrives in the Microsoft 365 message center. It can be hard to keep track of which changes require tasks to be done, when, and by whom, and to track each task to completion. You also might want to make a note of something and tag it to check on later. You can do these things and more when you sync your messages from the Microsoft 365 admin center to Microsoft Planner. This article describes how.
 
 - [How you can use Planner to track your message center tasks](#how-you-can-use-planner-to-track-your-message-center-tasks) <br/>

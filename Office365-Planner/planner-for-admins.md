@@ -30,6 +30,8 @@ In this article:
 - [How do I install or activate Planner for my organization?](#how-do-i-install-or-activate-planner-for-my-organization)
 - [Can I see who is already using Planner, or see a list of all the Planner sites?](#can-i-see-who-is-already-using-planner-or-see-a-list-of-all-the-planner-sites)
 - [How can I apply CA policies to the Planner iOS and Android apps?](#how-can-i-apply-ca-policies-to-the-planner-ios-and-android-apps)
+- [Where is data for the Microsoft Planner app in Microsoft Teams stored?](#where-is-data-for-the-microsoft-planner-app-in-microsoft-teams-stored)
+
 
 ## How do I turn off Planner for my organization?
 
@@ -52,7 +54,7 @@ Admins can control who can create a Group by using Azure AD PowerShell. Follow t
 2. Allow specific users to create groups (for example, all Planner users) while group creation is disabled.
 
 > [!IMPORTANT]
-> 
+>
 > - Disabling group creation for your organization will affect users of other Microsoft services that need group creation, such as Exchange Online. Make sure to account for all people in your organization that need the ability to create groups when you configure this setting.
 > - Controlling who can create Microsoft 365 Groups only prevents users from creating new plans. They will still be able to see and modify existing plans at tasks.</span>office.</span>com.
 
@@ -113,3 +115,15 @@ You can see a list of all groups in the Microsoft 365 admin center, in the Group
 ## How can I apply CA policies to the Planner iOS and Android apps?
 
 To apply CA policies to the Planner iOS and Android apps, please make sure that CA policies are enabled for Exchange or SharePoint within Microsoft Intune in the Azure portal. Enabling CA policy for Planner alone (without policies enabled for Exchange or SharePoint) does not apply the policies for the Planner iOS and Android apps.
+
+## Where is data for the Microsoft Planner app in Microsoft Teams stored?
+
+The Planner app in Teams gives users a way to manage their tasks and plans in one place. The storage location of Planner data depends on the service used to create the tasks, plans, and projects. 
+
+- Tasks in Todo and Outlook are stored in Exchange.
+- Plans and their included tasks are stored in Azure.
+- Attachments on  tasks in plans and projects are stored in the SharePoint location of the group.
+- Projects and their included tasks are stored in Dataverse.
+
+> [!NOTE]
+> For details about the support for advanced compliance capabilities such as eDiscovery and Auditing across these different services, refer to the documentation for Microsoft Purview.
