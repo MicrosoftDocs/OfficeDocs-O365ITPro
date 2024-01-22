@@ -33,13 +33,13 @@ Follow the steps in [Prerequisites for making Planner changes in Windows PowerSh
 
 ## Disable the creation of Roster containers in your organization's Planner tenant
 
-1. Open PowerShell and run the following command to disable the creation of Roster containers in your tenant (it is enabled by default):
+1. Open PowerShell and run the following command to disable the creation of Roster containers in your tenant (it's enabled by default):
 
    ```powershell
    Set-PlannerConfiguration -AllowRosterCreation $false
    ```
 
-   Disabling creation will not remove or prevent the use of existing Roster container based plans.
+   Disabling creation won't remove or prevent the use of existing Roster container based plans.
    
    If you’ve changed your mind and would like to allow Roster containers to be created in your tenant, run the following command.
 
