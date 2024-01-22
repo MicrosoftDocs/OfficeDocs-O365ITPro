@@ -2,10 +2,12 @@
 
 
 
-## Week of August 14, 2023
+## Week of January 15, 2024
 
 
 | Published On |Topic title | Change |
 |------|------------|--------|
-| 8/17/2023 | [How to turn off the Planner component for your organization](/Office365/Planner/disable-planner-component) | added |
-| 8/17/2023 | [Microsoft Planner for admins](/Office365/Planner/planner-for-admins) | modified |
+| 1/19/2024 | [Delete user data in Microsoft Planner](/Office365/Planner/delete-user-data) | modified |
+| 1/19/2024 | [Disallow container types for usage in container sharing](/Office365/Planner/disallow-container-sharing-types) | modified |
+| 1/19/2024 | [Export user data from Microsoft Planner](/Office365/Planner/export-user-data) | modified |
+| 1/19/2024 | [Prerequisites for making Planner changes in Windows PowerShell](/Office365/Planner/prerequisites-for-powershell) | modified |

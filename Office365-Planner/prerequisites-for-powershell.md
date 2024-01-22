@@ -22,7 +22,7 @@ This procedure walks you through downloading the files needed to run Planner adm
 
 If you're new to Windows PowerShell, see [Getting started with Windows PowerShell](/powershell/scripting/learn/ps101/01-getting-started).
 
-## Download Planner Tenant Admin Powershell Commands
+## Download Planner Tenant Admin PowerShell Commands
 
 > [!NOTE]
 > You must be a global admin to run the Planner Tenant Admin Powershell Commands.
@@ -30,10 +30,10 @@ If you're new to Windows PowerShell, see [Getting started with Windows PowerShel
 > [!NOTE]
 > By downloading this package, you agree to the enclosed license and terms.
 
-Download the [Planner Tenant Admin Powershell file](https://download.microsoft.com/download/5/9/0/590552d6-d8d0-4e12-9c55-21738e2c8143/planner-tenant-admin.zip). Unzip it to a location you can access from PowerShell.
+Download the [Planner Tenant Admin PowerShell file](https://download.microsoft.com/download/5/9/0/590552d6-d8d0-4e12-9c55-21738e2c8143/planner-tenant-admin.zip). Unzip it to a location you can access from PowerShell.
 ## Unblock your files
 
-You will need to "unblock" two of the files you downloaded in the Planner Tenant Admin Powershell package in order to user them in PowerShell. This is because by default, executing scripts downloaded from the Internet is not allowed. The files you need to unblock are:
+You'll need to "unblock" two of the files you downloaded in the Planner Tenant Admin PowerShell package in order to user them in PowerShell. This is because by default, executing scripts downloaded from the Internet isn't allowed. The files you need to unblock are:
 
 - plannertenantadmin.psm1
 - microsoft.identity.client.dll
@@ -41,7 +41,7 @@ You will need to "unblock" two of the files you downloaded in the Planner Tenant
 Do the following to unblock these files:
 
 1. In File Explorer, go to the location in which you unzipped your files.
-2. Right-click on one of the unzipped files noted above, and click Properties.
+2. Right-click on one of the unzipped files noted above, and select Properties.
 3. On the General tab, select **Unblock**.
 
     ![unblock-files.](media/unblock-files.png) 
@@ -54,7 +54,7 @@ Do the following to unblock these files:
 
 After unblocking your files, do the following to load the Planner Tenant Admin PowerShell module:
 
-1. Start Windows PowerShell. In PowerShell, type the following to enable running scripts downloaded from the internet for this session only. It may prompt you to confirm by typing "Y".
+1. Start Windows PowerShell. In PowerShell, type the following to enable running scripts downloaded from the internet for this session only. It might prompt you to confirm by typing "Y."
 
    ```PowerShell
    Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope Process
@@ -66,7 +66,7 @@ After unblocking your files, do the following to load the Planner Tenant Admin P
    Import-module "<location of the plannertenantadmin.psm1 file you unzipped>"
    ```
 
-   For example, if you file is stored in C:\AdminScript, you would type:
+   For example, if your file is stored in C:\AdminScript, you would type:
 
    ```PowerShell
    Import-module "C:\AdminScript\PlannerTenantAdmin.psm1"
