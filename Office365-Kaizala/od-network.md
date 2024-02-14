@@ -36,13 +36,13 @@ On the **Employee** tab, you can find a list of all users classified as Employee
 
 - Users added by an organization admin as Employees, either in bulk or individually.
 - Users synced automatically from Microsoft Entra ID.
-- Users who have signed in to their Kaizala mobile app using an Office 365 account.
+- Users signed in to their Kaizala mobile app using an Office 365 account.
 
 ### View Others users
 
-On the **Others** tab, you can find a list of all users that have not been classified into any other network in your organization. These include:
+On the **Others** tab, you can find a list of all users that haven't been classified into any other network in your organization. These include:
 
-- Non-employee users added by a group admin to their organization groups.
+- Nonemployee users added by a group admin to their organization groups.
 - Users added by an organization admin as Others, either in bulk or individually.
 
 ## Move users within networks
