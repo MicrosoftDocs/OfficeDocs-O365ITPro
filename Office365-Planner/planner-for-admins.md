@@ -18,22 +18,6 @@ description: "This article shares information on how admins can control and mana
 
 # Microsoft Planner for admins
 
-In this article:
-
-- [How do I turn off Planner for my organization?](#how-do-i-turn-off-planner-for-my-organization)
-- [How do I manage who can create a plan?](#how-do-i-manage-who-can-create-a-plan)
-- [How do I change the domain that Planner email notifications come from?](#how-do-i-change-the-domain-that-planner-email-notifications-come-from)
-- [Can people outside of my organization get invited to participate in a plan?](#can-people-outside-of-my-organization-get-invited-to-participate-in-a-plan)
-- [Can people in my organization use Planner if they don't have an Exchange Online mailbox?](#can-people-in-my-organization-use-planner-if-they-dont-have-an-exchange-online-mailbox)
-- [How do I make sure all my users can get emails for Planner?](#how-do-i-make-sure-all-my-users-can-get-emails-for-planner) 
-- [How do I turn off Outlook calendar sync in Planner for my organization?](#how-do-i-turn-off-outlook-calendar-sync-in-planner-for-my-organization)
-- [How do I turn off the Planner Loop component for my organization?](#how-do-i-turn-off-planner-for-my-organization)
-- [How do I install or activate Planner for my organization?](#how-do-i-install-or-activate-planner-for-my-organization)
-- [Can I see who is already using Planner, or see a list of all the Planner sites?](#can-i-see-who-is-already-using-planner-or-see-a-list-of-all-the-planner-sites)
-- [How can I apply CA policies to the Planner iOS and Android apps?](#how-can-i-apply-ca-policies-to-the-planner-ios-and-android-apps)
-- [Where is data for the Microsoft Planner app in Microsoft Teams stored?](#where-is-data-for-the-microsoft-planner-app-in-microsoft-teams-stored)
-
-
 ## How do I turn off Planner for my organization?
 
 When Microsoft Planner is included in your subscription, it's automatically turned on for everyone in your organization. If you want to control which people in your organization have licenses for Planner, for example, if your organization isn't ready to begin using Planner, you can remove or assign Planner licenses by using Office 365 PowerShell.
